@@ -1,0 +1,7 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+33793,AM-LT000086,DAISO JAPAN SHOP,Payment,Cash in Bank (Peso),UFT0000547,GL0005480,2018-09-24,,B-009,Banks of the Philippine Islands,309802.50,0
+33789,AM-LT000086,DAISO JAPAN SHOP,Payment,Cash in Bank (Peso),UFT0000547,GL0005478,2018-09-24,,B-009,Banks of the Philippine Islands,110496.22,0
+33791,AM-LT000086,DAISO JAPAN SHOP,Payment,Cash in Bank (Peso),UFT0000547,GL0005479,2018-09-24,,B-009,Banks of the Philippine Islands,103267.50,0
+33792,AM-LT000086,DAISO JAPAN SHOP,Payment,Construction Bond-Preop Clearing,UFT0000547,GL0005479,2018-09-24,,B-009,Banks of the Philippine Islands,0,-103267.50
+33790,AM-LT000086,DAISO JAPAN SHOP,Payment,Unearned Rent Income-Preop Clearing,UFT0000547,GL0005478,2018-09-24,,B-009,Banks of the Philippine Islands,0,-110496.22
+33794,AM-LT000086,DAISO JAPAN SHOP,Payment,Security Deposit Payable-Preop Clearing,UFT0000547,GL0005480,2018-09-24,,B-009,Banks of the Philippine Islands,0,-309802.50

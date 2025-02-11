@@ -1,0 +1,3 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+14038,ASCT-ST000011,Du Ek Sam,Payment,Rent Receivables,PR30844,GL0002285,2021-06-09,,B-001,Land Bank of the Philippines,0,-16050.00
+14029,ASCT-ST000011,Du Ek Sam,Invoice,Rent Receivables,ASCT-IC0001964,GL0002285,2021-06-30,2021-07-08,,,16050.00,0

@@ -1,0 +1,237 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+13133,ICM-LT000103,SILVANAS WORLD,Payment,Security Deposit Payable,PRLSAR250011,GL0002101,2018-01-03,2018-01-03,B-007,Land Bank of the Philippines,0,-60000.00
+64318,ICM-LT000106,VANILLA ICE PEARL,Payment,Security Deposit Payable,AR#250018,GL0010629,2018-01-30,,B-007,Landbank of the Philippines,0,-7906.89
+8392,ICM-LT000162,CIGNAL TV INC,Payment,Security Deposit Payable,PRLSAR-250019,GL0001365,2018-02-06,,B-007,Land Bank of the Philippines,0,-90000.00
+173591,ICM-LT000010,PENSHOPPE,Payment,Security Deposit Payable,LSAR-250028,GL0027809,2018-02-12,,B-012,Banks of the Philippine Islands,0,-66908.53
+11627,ICM-LT000160,THE SCENTS CO,Payment,Security Deposit Payable,PRLSAR-250025,GL0001925,2018-02-23,,B-012,Banks of the Philippine Islands,0,-60000.00
+4033,ICM-LT000158,ZAMIN FOREIGN EXCHANGE,Payment,Security Deposit Payable-Preop Clearing,UFT0000053,GL0000661,2018-02-28,,B-012,Banks of the Philippine Islands,0,-60000.00
+8363,ICM-LT000156,TECHNOCARE GADGETS REPAIR,Payment,Security Deposit Payable-Preop Clearing,UFT0000156,GL0001359,2018-03-01,,B-012,Banks of the Philippine Islands,0,-21400.00
+8365,ICM-LT000156,TECHNOCARE GADGETS REPAIR,Payment,Security Deposit Payable-Preop Clearing,UFT0000157,GL0001360,2018-03-01,,B-012,Banks of the Philippine Islands,0,-38600.00
+11253,ICM-LT000175,SULLIN CAFE,Payment,Security Deposit Payable,PRLSOR-033340,GL0001854,2018-03-21,,B-007,Land Bank of the Philippines,0,-12868.71
+11251,ICM-LT000175,SULLIN CAFE,Payment,Security Deposit Payable,PRLSAR-260903,GL0001853,2018-03-21,,B-007,Land Bank of the Philippines,0,-44253.00
+11242,ICM-LT000175,SULLIN CAFE,Payment,Security Deposit Payable,PRLSAR-260904,GL0001851,2018-03-21,,B-007,Land Bank of the Philippines,0,-208396.29
+4027,ICM-LT000157,MR NGO,Payment,Security Deposit Payable,PRLSAR-260905,GL0000659,2018-03-24,,B-007,Land Bank of the Philippines,0,-75000.00
+4047,ICM-LT000153,DMU FOOD SNACKS,Payment,Security Deposit Payable,PRLSAR-260906,GL0000665,2018-04-02,,B-007,Land Bank of the Philippines,0,-60000.00
+20407,ICM-LT000145,BUNK HOUSE VENDOR,Payment,Security Deposit Payable,PR260907,GL0003338,2018-04-05,,B-007,Land Bank of the Philippines,0,-500.00
+55742,ICM-LT000092,PRIMARY HOMES,Payment,Security Deposit Payable,AR#250029,GL0009358,2018-04-11,,B-012,BPI,0,-18000.00
+11069,ICM-LT000155,SANTINOS,Payment,Security Deposit Payable-Preop Clearing,UFT0000198,GL0001809,2018-04-16,,B-012,Banks of the Philippine Islands,0,-60000.00
+11720,ICM-LT000159,THE LEMON CO,Payment,Security Deposit Payable,PRLSAR-260910,GL0001937,2018-05-15,,B-007,Land Bank of the Philippines,0,-60000.00
+11103,ICM-LT000176,POTATO GIANT,Payment,Security Deposit Payable,PRLSAR-260911,GL0001815,2018-05-17,,B-007,Land Bank of the Philippines,0,-60000.00
+16668,ICM-LT000177,SUNNIES STUDIOS,Payment,Security Deposit Payable-Preop Clearing,UFT0000309,GL0002621,2018-06-14,,B-012,Banks of the Philippine Islands,0,-60000.00
+11232,ICM-LT000161,FRUITFULL,Payment,Security Deposit Payable,PRLSAR-260914,GL0001847,2018-06-21,,B-007,Land Bank of the Philippines,0,-75000.00
+16188,ICM-LT000119,CD-R KING,Payment,Security Deposit Payable,P0000910,GL0002598,2018-06-30,,,,96772.23,0
+52395,ICM-LT000103,SILVANAS WORLD,Payment,Security Deposit Payable,P0003156,GL0002101,2018-06-30,,,,45576.63,0
+12590,ICM-LT000039,CELLPOINT,Payment,Security Deposit Payable,PR033948,GL0002053,2018-07-09,,B-007,Land Bank of the Philippines,0,-6000.00
+16692,ICM-LT000101,ST. PATRICK ROASTED PORK,Payment,Security Deposit Payable,PRLSAR-260918,GL0002624,2018-07-10,,B-007,Land Bank of the Philippines,0,-2250.00
+14301,ICM-LT000217,JJJ KEY SERVICES,Payment,Security Deposit Payable-Preop Clearing,UFT0000254,GL0002334,2018-07-11,,B-012,Banks of the Philippine Islands,0,-36000.00
+15101,ICM-LT000120,THE SUN SHOP,Payment,Security Deposit Payable,AR-250035,GL0002499,2018-07-11,,B-012,Banks of the Philippine Islands,0,-249600.00
+15510,ICM-LT000021,SPORTS BASIC,Payment,Security Deposit Payable-Preop Clearing,UFT0000267,GL0002548,2018-07-13,,B-012,Banks of the Philippine Islands,0,-10295.52
+173597,ICM-LT000010,PENSHOPPE,Payment,Security Deposit Payable,LSAR-250036,GL0027811,2018-07-25,,B-012,Banks of the Philippine Islands,0,-133817.06
+19241,ICM-LT000225,VICE COSMETICS,Payment,Security Deposit Payable,PRLSOR-034038,GL0003166,2018-07-27,,B-007,Land Bank of the Philippines,0,-21400.00
+19243,ICM-LT000225,VICE COSMETICS,Payment,Security Deposit Payable,PRLSAR-260920,GL0003167,2018-07-27,,B-007,Land Bank of the Philippines,0,-38600.00
+19972,ICM-LT000253,MAXS RESTAURANT,Payment,Security Deposit Payable,PRLSAR-260919,GL0003275,2018-07-27,,B-007,Land Bank of the Philippines,0,-314220.00
+15145,ICM-LT000040,MOLE CELLPHONE SHOP,Payment,Security Deposit Payable,PR034101,GL0002502,2018-08-02,,B-007,Land Bank of the Philippines,0,-6000.00
+16786,ICM-LT000001,COLOURS DIGITAL FOTO,Payment,Security Deposit Payable-Preop Clearing,UFT0000311,GL0002626,2018-08-03,,B-012,Banks of the Philippine Islands,0,-15183.00
+21005,ICM-LT000078,JOJIES PA-INITANG BOL-ANON,Payment,Security Deposit Payable,PRLSAR-,GL0003400,2018-08-03,,B-007,Land Bank of the Philippines,0,-57943.47
+19260,ICM-LT000224,WAFFLE TIME,Payment,Security Deposit Payable,PRLSAR-260922,GL0003171,2018-08-04,,B-007,Land Bank of the Philippines,0,-60000.00
+16654,ICM-LT000056,THE BUZZ CAFE,Payment,Security Deposit Payable,PRLSOR-035073,GL0002618,2018-08-06,,B-007,Land Bank of the Philippines,0,-0.01
+16656,ICM-LT000056,THE BUZZ CAFE,Payment,Security Deposit Payable,PRLSAR-260923,GL0002619,2018-08-06,,B-007,Land Bank of the Philippines,0,-140718.05
+18959,ICM-LT000043,PET CENTRAL ANIMAL CLINIC AND PET SHOP,Payment,Security Deposit Payable-PDC,PRLSOR-035088,GL0003102,2018-08-07,,B-007,Land Bank of the Philippines,0,-3816.78
+16585,ICM-LT000038,RC GOLDLINE,Payment,Security Deposit Payable-Preop Clearing,UFT0000307,GL0002613,2018-08-07,,B-012,Banks of the Philippine Islands,0,-21000.00
+17603,ICM-LT000026,ORO CHINA,Payment,Security Deposit Payable-Preop Clearing,UFT0000315,GL0002804,2018-08-07,,B-012,Banks of the Philippine Islands,0,-40355.22
+51017,ICM-LT000226,THINK MOBILE,Payment,Security Deposit Payable-Preop Clearing,UFT0000825,GL0008669,2018-08-07,,B-012,Banks of the Philippine Islands,0,-220050.00
+20523,ICM-LT000218,LANDBANK ATM 1,Payment,Security Deposit Payable,PRLSOR-035427-A,GL0003352,2018-08-08,,B-007,Land Bank of the Philippines,0,-0.01
+20507,ICM-LT000219,LANDBANK ATM 2,Payment,Security Deposit Payable,PRLSOR-035428-A,GL0003350,2018-08-08,,B-007,Land Bank of the Philippines,0,-0.01
+16820,ICM-LT000050,ALVAS CHICHARON,Payment,Security Deposit Payable,PR035407,GL0002631,2018-08-08,,B-007,Land Bank of the Philippines,0,-2835.00
+17251,ICM-LT000063,SAVE N EARN,Payment,Security Deposit Payable,PRLSAR-035415,GL0002720,2018-08-08,,B-007,Land Bank of the Philippines,0,-14151.36
+20525,ICM-LT000218,LANDBANK ATM 1,Payment,Security Deposit Payable,PRLSAR-260926,GL0003353,2018-08-08,,B-007,Land Bank of the Philippines,0,-29999.99
+20519,ICM-LT000219,LANDBANK ATM 2,Payment,Security Deposit Payable,PRLSAR-260927,GL0003351,2018-08-08,,B-007,Land Bank of the Philippines,0,-29999.99
+15837,ICM-LT000221,REFRESHMENTS,Payment,Security Deposit Payable,"PRLSOR-260924, PRLSOR-035411",GL0002591,2018-08-08,,B-007,Land Bank of the Philippines,0,-75000.00
+20272,ICM-LT000025,REGATTA,Payment,Security Deposit Payable-Preop Clearing,UFT0000336,GL0003322,2018-08-10,,B-012,Banks of the Philippine Islands,0,-38880.00
+20413,ICM-LT000010,PENSHOPPE,Payment,Security Deposit Payable-Preop Clearing,UFT0000339,GL0003339,2018-08-10,,B-012,Banks of the Philippine Islands,0,-66908.51
+19664,ICM-LT000035,GLOBE TELECOM INC,Payment,Security Deposit Payable-Preop Clearing,UFT0000327,GL0003250,2018-08-13,,B-012,Banks of the Philippine Islands,0,-34353.60
+16593,ICM-LT000229,STICKER RACE PRINTS AND DESIGNS,Payment,Security Deposit Payable,PR035446,GL0002614,2018-08-14,,B-007,Land Bank of the Philippines,0,-60000.00
+17111,ICM-LT000029,UCPB ATM,Payment,Security Deposit Payable,PR260930,GL0002691,2018-08-22,,B-007,Land Bank of the Philippines,0,-130.36
+17109,ICM-LT000029,UCPB ATM,Payment,Security Deposit Payable,PR260930,GL0002690,2018-08-22,,B-007,Land Bank of the Philippines,0,-7119.14
+16808,ICM-LT000228,29TH M. STREET CAFE,Payment,Security Deposit Payable,PR035110,GL0002629,2018-08-23,,B-007,Land Bank of the Philippines,0,-45000.00
+19685,ICM-LT000042,BODY AND SOLE,Payment,Security Deposit Payable-PDC,PR035132,GL0003253,2018-09-04,,B-007,Land Bank of the Philippines,0,-4500.90
+23588,ICM-LT000068,SST LAPTOP,Payment,Security Deposit Payable-Preop Clearing,UFT0000390,GL0003829,2018-09-05,,B-012,Banks of the Philippine Islands,0,-2480.61
+19926,ICM-LT000031,REAL ME,Payment,Security Deposit Payable,PR035157,GL0003272,2018-09-05,,B-007,Land Bank of the Philippines,0,-2480.64
+19920,ICM-LT000047,Tecno,Payment,Security Deposit Payable,PR035156,GL0003271,2018-09-05,,B-007,Land Bank of the Philippines,0,-4961.25
+22429,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Security Deposit Payable-Preop Clearing,UFT0000385,GL0003578,2018-09-05,,B-012,Banks of the Philippine Islands,0,-5085.30
+19942,ICM-LT000037,OPPO,Payment,Security Deposit Payable,PR035160,GL0003273,2018-09-05,,B-007,Land Bank of the Philippines,0,-7500.00
+20648,ICM-LT000070,BOHOL DENTAL CARE,Payment,Security Deposit Payable,PR035139,GL0003366,2018-09-08,,B-007,Land Bank of the Philippines,0,-18450.48
+20612,ICM-LT000100,SPARKLES,Payment,Security Deposit Payable,PR260934,GL0003365,2018-09-08,,B-007,Land Bank of the Philippines,0,-110310.00
+21533,ICM-LT000074,THINKING TOOLS,Payment,Security Deposit Payable-Preop Clearing,UFT0000363,GL0003461,2018-09-10,,B-012,Banks of the Philippine Islands,0,-26285.13
+21535,ICM-LT000074,THINKING TOOLS,Payment,Security Deposit Payable-Preop Clearing,UFT0000364,GL0003462,2018-09-10,,B-012,Banks of the Philippine Islands,0,-29885.13
+26989,ICM-LT000034,DIGITALCOM SERVICES,Payment,Security Deposit Payable,PR260936,GL0004301,2018-09-29,,B-007,Land Bank of the Philippines,0,-3969.00
+25391,ICM-LT000140,NETOPIA,Payment,Security Deposit Payable,P0001449,GL0004111,2018-09-30,,,,198799.50,0
+41028,ICM-LT000094,CREAM ON CHURROS,Payment,Security Deposit Payable,P0002545,GL0006556,2018-09-30,,,,31696.90,0
+41034,ICM-LT000094,CREAM ON CHURROS,Payment,Security Deposit Payable,P0002545,GL0006557,2018-09-30,,,,28303.10,0
+52982,ICM-LT000131,IDEAL NEWSPAPERS AND MAGAZINES,Payment,Security Deposit Payable,P0003232,GL0008816,2018-09-30,,,,27000.00,0
+25997,ICM-LT000086,FILA,Payment,Security Deposit Payable-Preop Clearing,UFT0000424,GL0004140,2018-10-03,,B-012,,0,-47886.00
+33751,ICM-LT000055,PNB - BRANCH,Payment,Security Deposit Payable-Preop Clearing,UFT0000546,GL0005469,2018-10-04,,B-018,PNB ICM BRANCH,0,-24180.96
+24875,ICM-LT000072,BANCO DE ORO ATM,Payment,Security Deposit Payable,PR035480,GL0004058,2018-10-05,,B-007,Land Bank of the Philippines,0,-3192.80
+25216,ICM-LT000078,JOJIES PA-INITANG BOL-ANON,Payment,Security Deposit Payable-PDC,PR035489,GL0004109,2018-10-06,,B-007,Land Bank of the Philippines,0,-0.03
+25336,ICM-LT000145,BUNK HOUSE VENDOR,Payment,Security Deposit Payable,PR0035494,GL0004115,2018-10-08,,B-007,Land Bank of the Philippines,0,-197.20
+25497,ICM-LT000076,SANDUGO SANDALS,Payment,Security Deposit Payable,PR035503,GL0004121,2018-10-08,,B-007,Land Bank of the Philippines,0,-248.97
+26065,ICM-LT000019,BENCH,Payment,Security Deposit Payable-Preop Clearing,UFT0000430,GL0004142,2018-10-09,,B-012,,0,-52459.26
+41380,ICM-LT000255,PNB - ATM UG,Payment,Security Deposit Payable-Preop Clearing,UFT0000693,GL0006636,2018-10-19,,B-018,PNB ICM BRANCH,0,-18000.00
+29941,ICM-LT000004,RAI RAI KEN,Payment,Security Deposit Payable-Preop Clearing,UFT0000462,GL0004923,2018-10-19,,B-012,,0,-37469.34
+35786,ICM-LT000305,ISLAND TEA CO,Payment,Security Deposit Payable-Preop Clearing,UFT0000581,GL0005747,2018-10-19,,B-012,Banks of the Philippine Islands,0,-54000.00
+52706,ICM-LT000118,SARILING HAIN,Payment,Security Deposit Payable,PRICM-JVBU-08300,GL0008852,2018-10-31,,,,0,-24000.00
+52704,ICM-LT000118,SARILING HAIN,Payment,Security Deposit Payable,PRICM-JVBU-08300,GL0008851,2018-10-31,,,,0,-240000.00
+29536,ICM-LT000109,IDEAL VISION,Payment,Security Deposit Payable,PR035600,GL0004865,2018-11-07,,B-007,Land Bank of the Philippines,0,-16439.70
+30049,ICM-LT000145,BUNK HOUSE VENDOR,Payment,Security Deposit Payable,PR035615,GL0004936,2018-11-08,,B-007,Land Bank of the Philippines,0,-302.80
+30051,ICM-LT000145,BUNK HOUSE VENDOR,Payment,Security Deposit Payable,PR035615,GL0004937,2018-11-08,,B-007,Land Bank of the Philippines,0,-1500.00
+29955,ICM-LT000100,SPARKLES,Payment,Security Deposit Payable,PR035613,GL0004924,2018-11-08,,B-007,Land Bank of the Philippines,0,-15000.00
+30405,ICM-LT000057,UNISILVER,Payment,Security Deposit Payable,PR035646,GL0004980,2018-11-10,,B-007,Land Bank of the Philippines,0,-4596.96
+34429,ICM-LT000022,CLN,Payment,Security Deposit Payable-Preop Clearing,UFT0000554,GL0005632,2018-11-15,,B-012,Banks of the Philippine Islands,0,-26154.00
+31815,ICM-LT000306,ALVAS FOOD PROCESSING,Payment,Security Deposit Payable-PDC,PR260938,GL0005064,2018-11-20,,B-007,Land Bank of the Philippines,0,-50000.01
+35248,ICM-LT000275,OXYGEN,Payment,Security Deposit Payable-Preop Clearing,UFT0000564,GL0005718,2018-11-23,,B-012,Banks of the Philippine Islands,0,-54175.50
+40994,ICM-LT000138,WING ST. BOHOL,Payment,Security Deposit Payable,P0002540,GL0006555,2018-11-30,,,,60000.00,0
+37061,ICM-LT000130,NATIONAL BOOKSTORE,Payment,Security Deposit Payable-Preop Clearing,UFT0000599,GL0005974,2018-12-05,,B-012,Banks of the Philippine Islands,0,-73270.70
+35770,ICM-LT000115,SAVOR 17,Payment,Security Deposit Payable,PR035978,GL0005744,2018-12-13,,B-007,Land Bank of the Philippines,0,-8000.00
+36023,ICM-LT000132,SNOWPY ICE CREAM,Payment,Security Deposit Payable,PR035990,GL0005755,2018-12-18,,B-007,Land Bank of the Philippines,0,-3874.02
+40594,ICM-LT000276,SKIN STATION,Payment,Security Deposit Payable-Preop Clearing,UFT0000651,GL0006528,2018-12-28,,B-012,Banks of the Philippine Islands,0,-50226.00
+38655,ICM-LT000354,HYPED MANGOES,Payment,Security Deposit Payable,PR300371,GL0006363,2018-12-29,,B-007,Land Bank of the Philippines,0,-60000.00
+40758,ICM-LT000054,FORTRESS,Payment,Security Deposit Payable-Preop Clearing,UFT0000665,GL0006531,2019-01-04,,B-012,Banks of the Philippine Islands,0,-14496.90
+38805,ICM-LT000275,OXYGEN,Payment,Security Deposit Payable,PR300372,GL0006382,2019-01-04,,B-007,Land Bank of the Philippines,0,-54175.50
+39585,ICM-LT000003,RAMIREZ CAKE AVENUE,Payment,Security Deposit Payable,PR036047,GL0006469,2019-01-08,,B-007,Land Bank of the Philippines,0,-10500.00
+43974,ICM-LT000028,J.CO DONUTS AND COFFEE,Payment,Security Deposit Payable-Preop Clearing,UFT0000718,GL0007233,2019-01-15,,B-012,Banks of the Philippine Islands,0,-17710.79
+47578,ICM-LT000120,THE SUN SHOP,Payment,Security Deposit Payable-Preop Clearing,UFT0000773,GL0008023,2019-01-15,,B-012,Banks of the Philippine Islands,0,-24960.00
+40774,ICM-LT000356,VIVO,Payment,Security Deposit Payable,PR300373,GL0006533,2019-01-15,,B-007,Land Bank of the Philippines,0,-75000.00
+41358,ICM-LT000358,iLOVE BUBBLE WAFFLE,Payment,Security Deposit Payable-Preop Clearing,UFT0000691,GL0006630,2019-01-22,,B-012,Banks of the Philippine Islands,0,-60000.00
+41328,ICM-LT000275,OXYGEN,Payment,Security Deposit Payable,PR260939,GL0006627,2019-01-23,,B-007,Land Bank of the Philippines,0,-54175.50
+45360,ICM-LT000075,UNISILVER TIME,Payment,Security Deposit Payable-PDC,PR036144,GL0007515,2019-02-06,,B-007,Land Bank of the Philippines,0,-16499.99
+47324,ICM-LT000276,SKIN STATION,Payment,Security Deposit Payable-Preop Clearing,UFT0000761,GL0007998,2019-02-08,,B-012,Banks of the Philippine Islands,0,-50226.00
+46797,ICM-LT000366,MISTER DONUT - CART LG,Payment,Security Deposit Payable,PR260940,GL0007961,2019-02-10,,B-007,Land Bank of the Philippines,0,-10700.00
+46795,ICM-LT000366,MISTER DONUT - CART LG,Payment,Security Deposit Payable,PR260940,GL0007960,2019-02-10,,B-007,Land Bank of the Philippines,0,-19300.00
+51324,ICM-LT000275,OXYGEN,Payment,Security Deposit Payable-Preop Clearing,UFT0000827,GL0008705,2019-02-15,,B-007,Land Bank of the Philippines,0,-10568.55
+50778,ICM-LT000275,OXYGEN,Payment,Security Deposit Payable,PR260941,GL0008640,2019-02-28,,B-007,Land Bank of the Philippines,0,-43258.68
+53211,ICM-LT000227,GONG CHA,Payment,Security Deposit Payable-Preop Clearing,UFT0000859,GL0008880,2019-03-05,,B-012,Banks of the Philippine Islands,0,-217845.00
+51578,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Payment,Security Deposit Payable,PR036374,GL0008745,2019-03-06,,B-007,Land Bank of the Philippines,0,-40320.00
+52019,ICM-LT000098,THE RIGHT FIT,Payment,Security Deposit Payable,PR036411,GL0008791,2019-03-08,,B-007,Land Bank of the Philippines,0,-6930.00
+51999,ICM-LT000024,B.I.G. JEWELRY CREATION,Payment,Security Deposit Payable,PR036407,GL0008790,2019-03-08,,B-007,Land Bank of the Philippines,0,-16500.00
+54237,ICM-LT000276,SKIN STATION,Payment,Security Deposit Payable-Preop Clearing,UFT0000876,GL0009049,2019-03-08,,B-012,Banks of the Philippine Islands,0,-50226.00
+52466,ICM-LT000377,OUR DELIBREAD,Payment,Security Deposit Payable,PR260942,GL0008823,2019-03-13,,B-007,Land Bank of the Philippines,0,-54000.00
+56492,ICM-LT000044,LBC,Payment,Security Deposit Payable,PR260943,GL0009526,2019-04-01,,B-007,Land Bank of the Philippines,0,-30577.20
+56794,ICM-LT000077,FCB ATM,Payment,Security Deposit Payable,PR260944,GL0009583,2019-04-03,,B-007,Land Bank of the Philippines,0,-2835.51
+58483,ICM-LT000092,PRIMARY HOMES,Payment,Security Deposit Payable-Preop Clearing,UFT0000944,GL0009722,2019-04-05,,B-012,Banks of the Philippine Islands,0,-19800.00
+60562,ICM-LT000051,HEALTH SHOP,Payment,Security Deposit Payable-Preop Clearing,UFT0000965,GL0010112,2019-04-08,,B-012,Banks of the Philippine Islands,0,-7280.16
+58285,ICM-LT000044,LBC,Payment,Security Deposit Payable,PR260945,GL0009716,2019-04-15,,B-007,Land Bank of the Philippines,0,-21855.51
+58823,ICM-LT000088,JEWELRICH,Payment,Security Deposit Payable,PR260946,GL0009723,2019-04-23,,B-007,Land Bank of the Philippines,0,-3008.37
+61955,ICM-LT000085,ISLAND SOUVENIRS,Payment,Security Deposit Payable,PR260947,GL0010403,2019-05-06,,B-007,Land Bank of the Philippines,0,-97740.42
+67119,ICM-LT000154,MASTER SIOMAI - WS,Payment,Security Deposit Payable-Preop Clearing,UFT0001077,GL0011241,2019-05-08,,B-012,Banks of the Philippine Islands,0,-44700.00
+63722,ICM-LT000276,SKIN STATION,Payment,Security Deposit Payable-Preop Clearing,UFT0001017,GL0010547,2019-05-08,,B-012,Banks of the Philippine Islands,0,-50226.00
+62762,ICM-LT000382,ALVAS FOOD PROCESSING - CANTEEN,Payment,Security Deposit Payable,PR260948,GL0010476,2019-05-09,,B-007,Land Bank of the Philippines,0,-20000.00
+62886,ICM-LT000033,DAVIDS SALON,Payment,Security Deposit Payable,PR036770,GL0010481,2019-05-09,,B-007,Land Bank of the Philippines,0,-36828.00
+67506,ICM-LT000046,M LHUILLIER,Payment,Security Deposit Payable,PR036844,GL0011288,2019-06-06,,B-007,Land Bank of the Philippines,0,-5606.52
+68278,ICM-LT000048,TRAVEL BOUND TICKET SHOPPE,Payment,Security Deposit Payable,PR036862,GL0011372,2019-06-07,,B-007,Land Bank of the Philippines,0,-2778.30
+67973,ICM-LT000156,TECHNOCARE GADGETS REPAIR,Payment,Security Deposit Payable,PR260949,GL0011332,2019-06-07,,B-007,Land Bank of the Philippines,0,-6000.00
+68452,ICM-LT000050,ALVAS CHICHARON,Payment,Security Deposit Payable,PR036882,GL0011382,2019-06-08,,B-007,Land Bank of the Philippines,0,-2976.75
+68434,ICM-LT000106,VANILLA ICE PEARL,Payment,Security Deposit Payable,PR036892,GL0011381,2019-06-08,,B-007,Land Bank of the Philippines,0,-6000.00
+73018,ICM-LT000146,BPI - BRANCH,Payment,Security Deposit Payable-Preop Clearing,UFT0001186,GL0012148,2019-06-26,,B-012,Banks of the Philippine Islands,0,-48342.00
+72862,ICM-LT000040,MOLE CELLPHONE SHOP,Payment,Security Deposit Payable,PR302551,GL0012138,2019-06-29,,B-007,Land Bank of the Philippines,0,-3300.00
+73354,ICM-LT000039,CELLPOINT,Payment,Security Deposit Payable,PR037260,GL0012180,2019-07-04,,B-007,Land Bank of the Philippines,0,-3300.00
+73492,ICM-LT000153,DMU FOOD SNACKS,Payment,Security Deposit Payable,PR037268,GL0012186,2019-07-05,,B-007,Land Bank of the Philippines,0,-6000.00
+77110,ICM-LT000177,SUNNIES STUDIOS,Payment,Security Deposit Payable-Preop Clearing,UFT0001278,GL0012613,2019-07-05,,B-012,Banks of the Philippine Islands,0,-6000.00
+74170,ICM-LT000162,CIGNAL TV INC,Payment,Security Deposit Payable,PR037306,GL0012258,2019-07-08,,B-007,Land Bank of the Philippines,0,-9000.00
+76542,ICM-LT000451,CREPETEALOGY CAFE,Payment,Security Deposit Payable,PR302552,GL0012500,2019-07-25,,B-007,Land Bank of the Philippines,0,-90000.00
+76822,ICM-LT000086,FILA,Payment,Security Deposit Payable-Preop Clearing,UFT0001274,GL0012552,2019-07-26,,B-012,Banks of the Philippine Islands,0,-14509.44
+77376,ICM-LT000455,OPPO- NEW,Payment,Security Deposit Payable,PR302554,GL0012675,2019-07-26,,B-007,Land Bank of the Philippines,0,-22500.00
+77367,ICM-LT000452,FARMVILLE 2 RESTAURANT,Payment,Security Deposit Payable,PR302553,GL0012673,2019-07-26,,B-007,Land Bank of the Philippines,0,-75000.00
+78645,ICM-LT000477,ROCKSPACE,Payment,Security Deposit Payable,PR037363,GL0012997,2019-07-31,,B-007,Land Bank of the Philippines,0,-26750.00
+78643,ICM-LT000477,ROCKSPACE,Payment,Security Deposit Payable,PR302555,GL0012996,2019-07-31,,B-007,Land Bank of the Philippines,0,-48250.00
+84043,ICM-LT000442,POTATO CORNER- NEW,Payment,Security Deposit Payable,PR302556,GL0013861,2019-08-01,,B-007,Land Bank of the Philippines,0,-75000.00
+79836,ICM-LT000217,JJJ KEY SERVICES,Payment,Security Deposit Payable,PR037412,GL0013160,2019-08-07,,B-007,Land Bank of the Philippines,0,-3600.00
+80615,ICM-LT000038,RC GOLDLINE,Payment,Security Deposit Payable-Preop Clearing,UFT0001310,GL0013230,2019-08-07,,B-012,Banks of the Philippine Islands,0,-11550.00
+79618,ICM-LT000063,SAVE N EARN,Payment,Security Deposit Payable,PR037403,GL0013135,2019-08-07,,B-007,Land Bank of the Philippines,0,-14859.99
+80543,ICM-LT000052,BINGO,Payment,Security Deposit Payable-Preop Clearing,UFT0001305,GL0013221,2019-08-08,,B-012,Banks of the Philippine Islands,0,-2778.30
+79844,ICM-LT000159,THE LEMON CO,Payment,Security Deposit Payable,PR037413,GL0013161,2019-08-08,,B-007,Land Bank of the Philippines,0,-6000.00
+85432,ICM-LT000221,REFRESHMENTS,Payment,Security Deposit Payable,PR037421,GL0014054,2019-08-08,,B-007,Land Bank of the Philippines,0,-7500.00
+80025,ICM-LT000043,PET CENTRAL ANIMAL CLINIC AND PET SHOP,Payment,Security Deposit Payable,PR037424,GL0013182,2019-08-08,,B-007,Land Bank of the Philippines,0,-8013.96
+79864,ICM-LT000056,THE BUZZ CAFE,Payment,Security Deposit Payable,PR037415,GL0013164,2019-08-08,,B-007,Land Bank of the Philippines,0,-81080.40
+81108,ICM-LT000276,SKIN STATION,Payment,Security Deposit Payable-Preop Clearing,UFT0001350,GL0013247,2019-08-08,,B-012,Banks of the Philippine Islands,0,-100452.00
+80309,ICM-LT000023,DUNKIN DONUTS,Payment,Security Deposit Payable,PR302557,GL0013201,2019-08-09,,B-007,Land Bank of the Philippines,0,-46741.68
+80575,ICM-LT000451,CREPETEALOGY CAFE,Payment,Security Deposit Payable,PR037457,GL0013224,2019-08-14,,B-007,Land Bank of the Philippines,0,-5000.00
+80577,ICM-LT000451,CREPETEALOGY CAFE,Payment,Security Deposit Payable,PR302558,GL0013225,2019-08-14,,B-007,Land Bank of the Philippines,0,-10000.00
+81118,ICM-LT000481,HANS DIGITAL DOOR LOCK,Payment,Security Deposit Payable-Preop Clearing,UFT0001351,GL0013249,2019-08-14,,B-012,Banks of the Philippine Islands,0,-75000.00
+80950,ICM-LT000253,MAXS RESTAURANT,Payment,Security Deposit Payable,PR037474,GL0013243,2019-08-16,,B-007,Land Bank of the Philippines,0,-15711.00
+85742,ICM-LT000119,CD-R KING,Payment,Security Deposit Payable,P0005259,GL0002598,2019-08-31,,,,90000.00,0
+85626,ICM-LT000042,BODY AND SOLE,Payment,Security Deposit Payable-PDC,PR037858,GL0014065,2019-09-05,,B-007,Land Bank of the Philippines,0,-9452.70
+97381,ICM-LT000497,ROMOSS,Payment,Security Deposit Payable-Preop Clearing,UFT0001576,GL0016001,2019-09-05,,B-012,Banks of the Philippine Islands,0,-90000.00
+91320,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Security Deposit Payable-Preop Clearing,UFT0001478,GL0015040,2019-09-06,,B-012,Banks of the Philippine Islands,0,-5469.78
+86348,ICM-LT000155,SANTINOS,Payment,Security Deposit Payable-Preop Clearing,UFT0001406,GL0014132,2019-09-06,,B-012,Banks of the Philippine Islands,0,-6000.00
+86296,ICM-LT000063,SAVE N EARN,Payment,Security Deposit Payable,PR037891,GL0014130,2019-09-07,,B-007,Land Bank of the Philippines,0,-0.01
+86546,ICM-LT000078,JOJIES PA-INITANG BOL-ANON,Payment,Security Deposit Payable,PR037905,GL0014146,2019-09-09,,B-007,Land Bank of the Philippines,0,-18000.00
+98333,ICM-LT000055,PNB - BRANCH,Payment,Security Deposit Payable-Preop Clearing,UFT0001597,GL0016145,2019-09-09,,B-012,Banks of the Philippine Islands,0,-26595.78
+87505,ICM-LT000479,LEVIS,Payment,Security Deposit Payable-Preop Clearing,UFT0001434,GL0014211,2019-09-10,,B-012,Banks of the Philippine Islands,0,-137400.00
+87213,ICM-LT000478,MEMO,Payment,Security Deposit Payable-PDC,PR302560,GL0014186,2019-09-13,,B-007,Land Bank of the Philippines,0,-18396.00
+87215,ICM-LT000478,MEMO,Payment,Security Deposit Payable,PR302561,GL0014187,2019-09-13,,B-007,Land Bank of the Philippines,0,-18396.00
+87217,ICM-LT000478,MEMO,Payment,Security Deposit Payable,PR302562,GL0014188,2019-09-13,,B-007,Land Bank of the Philippines,0,-18396.00
+87389,ICM-LT000499,XUNDD,Payment,Security Deposit Payable,PR037945,GL0014201,2019-09-17,,B-007,Land Bank of the Philippines,0,-26750.00
+87387,ICM-LT000499,XUNDD,Payment,Security Deposit Payable,PR302563,GL0014200,2019-09-17,,B-007,Land Bank of the Philippines,0,-48250.00
+87593,ICM-LT000008,WATSONS,Payment,Security Deposit Payable,PR037951,GL0014217,2019-09-19,,B-007,Land Bank of the Philippines,0,-10.00
+87597,ICM-LT000008,WATSONS,Payment,Security Deposit Payable,PR302564,GL0014219,2019-09-19,,B-007,Land Bank of the Philippines,0,-16939.20
+87739,ICM-LT000225,VICE COSMETICS,Payment,Security Deposit Payable-Preop Clearing,UFT0001452,GL0014227,2019-09-20,,B-012,Banks of the Philippine Islands,0,-3000.00
+88687,ICM-LT000496,ORYSPA,Payment,Security Deposit Payable,PR037954,GL0014464,2019-09-25,,B-007,Land Bank of the Philippines,0,-21400.00
+88698,ICM-LT000496,ORYSPA,Payment,Security Deposit Payable,PR302565,GL0014467,2019-09-25,,B-007,Land Bank of the Philippines,0,-38600.00
+91215,ICM-LT000478,MEMO,Payment,Security Deposit Payable,PR302566,GL0015014,2019-09-30,,B-007,Land Bank of the Philippines,0,-18396.00
+111007,ICM-LT000498,CLEOS SWEET TOOTH,Payment,Security Deposit Payable-Preop Clearing,UFT0001794,GL0018083,2019-10-03,,B-012,Banks of the Philippine Islands,0,-60000.00
+92127,ICM-LT000485,LOLA LILIAS  HOME-MADE SPECIALTIES AND FLOWER SHOP,Payment,Security Deposit Payable,PR302567,GL0015114,2019-10-04,,B-007,Land Bank of the Philippines,0,-60000.00
+92179,ICM-LT000229,STICKER RACE PRINTS AND DESIGNS,Payment,Security Deposit Payable,PR037984,GL0015123,2019-10-05,,B-007,Land Bank of the Philippines,0,-6000.00
+92160,ICM-LT000523,HOUSE OF TAHO,Payment,Security Deposit Payable,PR302568,GL0015120,2019-10-05,,B-007,Land Bank of the Philippines,0,-60000.00
+93946,ICM-LT000057,UNISILVER,Payment,Security Deposit Payable-Preop Clearing,UFT0001540,GL0015259,2019-10-08,,B-012,Banks of the Philippine Islands,0,-9653.70
+94048,ICM-LT000478,MEMO,Payment,Security Deposit Payable,PR302569,GL0015263,2019-10-15,,B-007,Land Bank of the Philippines,0,-18396.00
+149207,ICM-LT000492,POTATO CORNER- LG,Payment,Security Deposit Payable-ARNTI,IP0000075,GL0023879,2019-10-17,,,,0,-96000.00
+98861,ICM-LT000100,SPARKLES,Payment,Security Deposit Payable,PR038439,GL0016198,2019-11-09,,B-007,Land Bank of the Philippines,0,-31590.00
+99365,ICM-LT000478,MEMO,Payment,Security Deposit Payable,PR302570,GL0016236,2019-11-13,,B-007,Land Bank of the Philippines,0,-18396.00
+108417,ICM-LT000069,SALON DE ROSE,Payment,Security Deposit Payable-Preop Clearing,UFT0001753,GL0017646,2019-12-06,,B-012,Banks of the Philippine Islands,0,-10861.20
+108419,ICM-LT000069,SALON DE ROSE,Payment,Security Deposit Payable-Preop Clearing,UFT0001753,GL0017647,2019-12-06,,B-012,Banks of the Philippine Islands,0,-11404.26
+105435,ICM-LT000125,CAFE MAJSTEA,Payment,Security Deposit Payable,PR038562,GL0017209,2019-12-08,,B-007,Land Bank of the Philippines,0,-3000.00
+105447,ICM-LT000176,POTATO GIANT,Payment,Security Deposit Payable,PR302572,GL0017212,2019-12-09,,B-007,Land Bank of the Philippines,0,-6000.00
+105700,ICM-LT000161,FRUITFULL,Payment,Security Deposit Payable,PR038578,GL0017238,2019-12-09,,B-007,Land Bank of the Philippines,0,-7500.00
+105724,ICM-LT000020,CORE PACIFIC,Payment,Security Deposit Payable,PR302573,GL0017239,2019-12-09,,B-007,Land Bank of the Philippines,0,-31500.00
+106087,ICM-LT000121,USSC,Payment,Security Deposit Payable,PR302574,GL0017272,2019-12-11,,B-007,Land Bank of the Philippines,0,-5250.00
+106089,ICM-LT000121,USSC,Payment,Security Deposit Payable,PR302574,GL0017273,2019-12-11,,B-007,Land Bank of the Philippines,0,-11025.00
+106085,ICM-LT000121,USSC,Payment,Security Deposit Payable,PR302574,GL0017271,2019-12-11,,B-007,Land Bank of the Philippines,0,-12501.24
+106766,ICM-LT000224,WAFFLE TIME,Payment,Security Deposit Payable-Preop Clearing,UFT0001746,GL0017291,2019-12-13,,B-012,Banks of the Philippine Islands,0,-6000.00
+111735,ICM-LT000356,VIVO,Payment,Security Deposit Payable,PR038766,GL0018188,2020-01-07,,B-007,Land Bank of the Philippines,0,-7500.00
+112103,ICM-LT000082,THIRSTY - LG,Payment,Security Deposit Payable,PR038779-C,GL0018202,2020-01-08,,B-007,Land Bank of the Philippines,0,-4725.00
+113725,ICM-LT000051,HEALTH SHOP,Payment,Security Deposit Payable-Preop Clearing,UFT0001855,GL0018319,2020-01-08,,B-012,Banks of the Philippine Islands,0,-8008.20
+113299,ICM-LT000054,FORTRESS,Payment,Security Deposit Payable-Preop Clearing,UFT0001835,GL0018293,2020-01-09,,B-012,Banks of the Philippine Islands,0,-15221.40
+112954,ICM-LT000002,HOLA MEXI-ASIAN FUSION CAFE,Payment,Security Deposit Payable,PR038861,GL0018281,2020-01-10,,B-007,Land Bank of the Philippines,0,-9000.00
+112984,ICM-LT000003,RAMIREZ CAKE AVENUE,Payment,Security Deposit Payable,PR038866,GL0018282,2020-01-10,,B-007,Land Bank of the Philippines,0,-11550.00
+113629,ICM-LT000075,UNISILVER TIME,Payment,Security Deposit Payable,PR302575,GL0018312,2020-01-16,,B-007,Land Bank of the Philippines,0,-18150.00
+119040,ICM-LT000007,FOR ME,Payment,Security Deposit Payable-Preop Clearing,UFT0001923,GL0019297,2020-01-16,,B-012,Banks of the Philippine Islands,0,-20908.80
+119078,ICM-LT000025,REGATTA,Payment,Security Deposit Payable-Preop Clearing,UFT0001924,GL0019300,2020-01-16,,B-012,Banks of the Philippine Islands,0,-21384.00
+118387,ICM-LT000028,J.CO DONUTS AND COFFEE,Payment,Security Deposit Payable-Preop Clearing,UFT0001915,GL0019224,2020-01-20,,B-012,Banks of the Philippine Islands,0,-18599.56
+118040,ICM-LT000124,LFAFA,Payment,Security Deposit Payable-Preop Clearing,UFT0001910,GL0019179,2020-01-30,,B-012,Banks of the Philippine Islands,0,-6600.00
+117629,ICM-LT000358,iLOVE BUBBLE WAFFLE,Payment,Security Deposit Payable,P0007007,GL0006630,2020-01-31,,,,54133.79,0
+120157,ICM-LT000228,29TH M. STREET CAFE,Payment,Security Deposit Payable,P0007263,GL0002629,2020-01-31,,,,27879.47,0
+118592,ICM-LT000093,HUAWEI,Payment,Security Deposit Payable,PR038947,GL0019246,2020-02-06,,B-007,Land Bank of the Philippines,0,-9000.00
+119168,ICM-LT000098,THE RIGHT FIT,Payment,Security Deposit Payable,PR302576,GL0019306,2020-02-08,,B-007,Land Bank of the Philippines,0,-14553.00
+119229,ICM-LT000024,B.I.G. JEWELRY CREATION,Payment,Security Deposit Payable,PR038979,GL0019307,2020-02-10,,B-007,Land Bank of the Philippines,0,-18150.00
+122374,ICM-LT000276,SKIN STATION,Payment,Security Deposit Payable-Preop Clearing,UFT0001984,GL0019687,2020-02-10,,B-012,Banks of the Philippine Islands,0,-30135.59
+119598,ICM-LT000354,HYPED MANGOES,Payment,Security Deposit Payable,PR302577,GL0019325,2020-02-11,,B-007,Land Bank of the Philippines,0,-6000.00
+126331,ICM-LT000077,FCB ATM,Payment,Security Deposit Payable,PR039695,GL0020351,2020-03-09,,B-007,Land Bank of the Philippines,0,-3069.24
+128448,ICM-LT000226,THINK MOBILE,Payment,Security Deposit Payable-Preop Clearing,UFT0002121,GL0020483,2020-03-09,,B-012,Banks of the Philippine Islands,0,-21388.50
+126947,ICM-LT000101,ST. PATRICK ROASTED PORK,Payment,Security Deposit Payable,PR302578,GL0020373,2020-03-10,,B-007,Land Bank of the Philippines,0,-2362.50
+181644,ICM-LT000225,VICE COSMETICS,Payment,Security Deposit Payable,P0010808,GL0003167,2020-03-31,,,,39649.28,0
+181638,ICM-LT000225,VICE COSMETICS,Payment,Security Deposit Payable,P0010808,GL0003166,2020-03-31,,,,23350.72,0
+201718,ICM-LT000132,SNOWPY ICE CREAM,Payment,Security Deposit Payable,P0011698,GL0007743,2020-03-31,,,,15458.16,0
+151759,ICM-LT000139,AHONGS NGOHIONG AND FRIED CHICKEN,Payment,Security Deposit Payable,P0008841,GL0007338,2020-03-31,,,,14948.72,0
+136918,ICM-LT000305,ISLAND TEA CO,Payment,Security Deposit Payable,P0008030,GL0005747,2020-03-31,,,,12362.00,0
+201784,ICM-LT000065,MIGUELITOS FRIED ICE CREAM,Payment,Security Deposit Payable,P0011699,GL0007754,2020-03-31,,,,787.10,0
+132286,ICM-LT000153,DMU FOOD SNACKS,Payment,Security Deposit Payable,P0007905,GL0000665,2020-06-04,,,,41711.50,0
+136323,ICM-LT000088,JEWELRICH,Payment,Security Deposit Payable,PR302579,GL0021945,2020-06-29,,B-007,Land Bank of the Philippines,0,-6317.58
+153961,ICM-LT000161,FRUITFULL,Payment,Security Deposit Payable,P0009054,GL0001847,2020-07-31,,,,16002.00,0
+144454,ICM-LT000884,Gateway Motors Cebu Inc.,Payment,Security Deposit Payable-Preop Clearing,UFT0002349,GL0023124,2020-08-03,,B-022,Banks of the Philippine Islands,0,-60000.00
+168532,ICM-LT000118,SARILING HAIN,Payment,Security Deposit Payable,PRICM-JVBU-08582,GL0026986,2020-09-30,,,,0,-13200.00
+187622,ICM-LT000895,Atharra Primeland Development Corp.,Payment,Security Deposit Payable,PR302580,GL0030063,2020-10-06,,B-007,Land Bank of the Philippines,0,-120000.00
+160058,ICM-LT000968,Too Nice To Slice,Payment,Security Deposit Payable,PR302581,GL0025662,2020-11-25,,B-007,Land Bank of the Philippines,0,-54000.00
+162493,ICM-LT000970,Coffee Spot,Payment,Security Deposit Payable,PR302583,GL0026049,2020-12-11,,B-007,Land Bank of the Philippines,0,-17314.97
+168389,ICM-LT000883,K and K Cellshop and Services,Payment,Security Deposit Payable-Preop Clearing,UFT0002971,GL0026969,2020-12-16,,B-007,Land Bank of the Philippines,0,-105000.00
+169415,ICM-LT000086,FILA,Payment,Security Deposit Payable-Preop Clearing,UFT0002986,GL0027118,2020-12-18,,B-012,Banks of the Philippine Islands,0,-15961.06
+177439,ICM-LT000106,VANILLA ICE PEARL,Payment,Security Deposit Payable,P0010606,GL0007778,2020-12-31,,,,27144.00,0

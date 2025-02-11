@@ -1,0 +1,21 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+6883,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,Rent Receivables,ASCT-IC0000939,GL0001094,2019-11-30,2019-12-08,,,13668.38,0
+6887,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,A/R  Non Trade External,ASCT-IC0000940,GL0001095,2019-11-30,2019-12-08,,,8744.41,0
+6970,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,Rent Receivables,ASCT-B0000544,GL0001094,2019-11-30,,,,0,-12840.00
+7010,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,Rent Receivables,PR030380,GL0001094,2019-12-06,,B-001,Land Bank of the Philippines,0,-828.38
+7012,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,A/R  Non Trade External,PR030380,GL0001095,2019-12-06,,B-001,Land Bank of the Philippines,0,-8744.41
+7161,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,Rent Receivables,ASCT-IC0000959,GL0001126,2019-12-31,2020-01-08,,,12840.00,0
+7165,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,A/R  Non Trade External,ASCT-IC0000960,GL0001127,2019-12-31,2020-01-08,,,10789.50,0
+7552,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,A/R  Non Trade External,PR030399,GL0001127,2020-01-07,,B-001,Land Bank of the Philippines,0,-10789.50
+7550,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,Rent Receivables,PR030399,GL0001126,2020-01-07,,B-001,Land Bank of the Philippines,0,-12840.00
+7934,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,Rent Receivables,ASCT-IC0001087,GL0001265,2020-01-31,2020-02-08,,,12840.00,0
+7938,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,A/R  Non Trade External,ASCT-IC0001088,GL0001266,2020-01-31,2020-02-08,,,9335.94,0
+8172,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,A/R  Non Trade External,PR030483,GL0001266,2020-02-19,,B-001,Land Bank of the Philippines,0,-9335.94
+8170,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,Rent Receivables,PR030483,GL0001265,2020-02-19,,B-001,Land Bank of the Philippines,0,-12840.00
+8520,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,Rent Receivables,ASCT-IC0001166,GL0001362,2020-02-29,2020-03-08,,,12840.00,0
+8524,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,A/R  Non Trade External,ASCT-IC0001167,GL0001363,2020-02-29,2020-03-08,,,9974.00,0
+8518,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,A/R  Non Trade External,ASCT-IC0001165,GL0001361,2020-02-29,2020-03-08,,,122.35,0
+8992,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,A/R  Non Trade External,ASCT-IC0001245,GL0001447,2020-03-31,2020-04-08,,,7318.00,0
+9062,ASCT-LT000063,Sams Food and Beverage Kiosk,Invoice,Rent Receivables,ASCT-IC0001259,GL0001461,2020-03-31,2020-04-08,,,6420.00,0
+12696,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,A/R  Non Trade External,PR30688,GL0001361,2021-01-20,,B-001,Land Bank of the Philippines,0,-122.35
+12698,ASCT-LT000063,Sams Food and Beverage Kiosk,Payment,Rent Receivables,PR30688,GL0001362,2021-01-20,,B-001,Land Bank of the Philippines,0,-1010.73

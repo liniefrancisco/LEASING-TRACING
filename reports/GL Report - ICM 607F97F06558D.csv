@@ -1,0 +1,20 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+183107,ICM-LT000134,MISTER DONUT - CART,Payment,Rent Receivables,PR040994,GL0027509,2021-04-19,,B-007,Land Bank of the Philippines,0,-3796.78
+183123,ICM-LT000366,MISTER DONUT - CART LG,Payment,Rent Receivables,PR040995,GL0027505,2021-04-19,,B-007,Land Bank of the Philippines,0,-3796.78
+183127,ICM-LT000366,MISTER DONUT - CART LG,Payment,Rent Receivables,PR040995,GL0028010,2021-04-19,,B-007,Land Bank of the Philippines,0,-3796.78
+183119,ICM-LT000366,MISTER DONUT - CART LG,Payment,Rent Receivables,PR040995,GL0020622,2021-04-19,,B-007,Land Bank of the Philippines,0,-4494.00
+183103,ICM-LT000134,MISTER DONUT - CART,Payment,Rent Receivables,PR040994,GL0020943,2021-04-19,,B-007,Land Bank of the Philippines,0,-5055.75
+183111,ICM-LT000134,MISTER DONUT - CART,Payment,Rent Receivables,PR040994,GL0028274,2021-04-19,,B-007,Land Bank of the Philippines,0,-5350.00
+183115,ICM-LT000134,MISTER DONUT - CART,Payment,Rent Receivables,PR040994,GL0028779,2021-04-19,,B-007,Land Bank of the Philippines,0,-5350.00
+183091,ICM-LT000136,MISTER DONUT - DINE,Payment,Rent Receivables,PR040993,GL0027503,2021-04-19,,B-007,Land Bank of the Philippines,0,-6074.84
+183087,ICM-LT000136,MISTER DONUT - DINE,Payment,Rent Receivables,PR040993,GL0020964,2021-04-19,,B-007,Land Bank of the Philippines,0,-6319.69
+183131,ICM-LT000366,MISTER DONUT - CART LG,Payment,Rent Receivables,PR040995,GL0028777,2021-04-19,,B-007,Land Bank of the Philippines,0,-6903.22
+183095,ICM-LT000136,MISTER DONUT - DINE,Payment,Rent Receivables,PR040993,GL0028271,2021-04-19,,B-007,Land Bank of the Philippines,0,-8560.00
+183099,ICM-LT000136,MISTER DONUT - DINE,Payment,Rent Receivables,PR040993,GL0028785,2021-04-19,,B-007,Land Bank of the Philippines,0,-8560.00
+183135,ICM-ST000651,Hamilton Philippines Inc.,Payment,Rent Receivables,PR040996,GL0029280,2021-04-19,,B-007,Land Bank of the Philippines,0,-16050.00
+182991,ICM-LT000029,UCPB ATM,Payment,Rent Receivables,PR040992,GL0029095,2021-04-19,,B-007,Land Bank of the Philippines,0,-25500.00
+181682,ICM-ST000665,"Strong Moto Centrum, Inc. (KIA BOHOL)",Invoice,Rent Receivables,IC0030518,GL0029183,2021-04-20,2021-04-28,,,12840.00,0
+183231,ICM-LT000095,GARCIA PAWNSHOP,Payment,Rent Receivables,PR040997,GL0028029,2021-04-20,,B-007,Land Bank of the Philippines,0,-891.36
+183225,ICM-LT000095,GARCIA PAWNSHOP,Payment,Rent Receivables,PR040997,GL0027427,2021-04-20,,B-007,Land Bank of the Philippines,0,-22121.54
+183233,ICM-ST000015,NISSAN,Payment,Rent Receivables,PR040998,GL0028685,2021-04-20,,B-007,Land Bank of the Philippines,0,-42800.00
+183235,ICM-ST000052,TOYOTA,Payment,Rent Receivables,PR040999,GL0028522,2021-04-20,,B-007,Land Bank of the Philippines,0,-53500.00

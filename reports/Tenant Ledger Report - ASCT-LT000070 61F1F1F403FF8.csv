@@ -1,0 +1,60 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+7113,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PRAR# 110774,GL0001115,2019-12-15,,B-001,Land Bank of the Philippines,0,-13910.00
+7104,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0000948,GL0001115,2019-12-31,2020-01-08,,,15301.00,0
+7108,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0000949,GL0001116,2019-12-31,2020-01-08,,,7700.00,0
+7546,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR030398,GL0001115,2020-01-07,,B-001,Land Bank of the Philippines,0,-1391.00
+7548,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR030398,GL0001116,2020-01-07,,B-001,Land Bank of the Philippines,0,-7700.00
+7969,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001095,GL0001273,2020-01-31,2020-02-08,,,13910.00,0
+7973,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001096,GL0001274,2020-01-31,2020-02-08,,,5441.94,0
+8144,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR030475,GL0001274,2020-02-08,,B-001,Land Bank of the Philippines,0,-5441.94
+8142,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR030475,GL0001273,2020-02-08,,B-001,Land Bank of the Philippines,0,-13910.00
+8530,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001168,GL0001364,2020-02-29,2020-03-08,,,13910.00,0
+8534,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001169,GL0001365,2020-02-29,2020-03-08,,,7000.00,0
+8728,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR030497,GL0001365,2020-03-11,,B-001,Land Bank of the Philippines,0,-7000.00
+8726,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR030497,GL0001364,2020-03-11,,B-001,Land Bank of the Philippines,0,-13910.00
+9019,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001251,GL0001453,2020-03-31,2020-04-08,,,6955.00,0
+9023,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001252,GL0001454,2020-03-31,2020-04-08,,,3750.00,0
+10192,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001425,GL0001649,2020-06-30,2020-07-08,,,6955.00,0
+10196,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001426,GL0001650,2020-06-30,2020-07-08,,,3250.00,0
+10190,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001424,GL0001648,2020-06-30,2020-07-08,,,137.42,0
+9517,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30510,GL0001453,2020-07-01,,B-001,Land Bank of the Philippines,0,-3000.00
+10220,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30524,GL0001648,2020-07-28,,B-001,Land Bank of the Philippines,0,-137.42
+10222,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30524,GL0001453,2020-07-28,,B-001,Land Bank of the Philippines,0,-2862.58
+10609,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001497,GL0001728,2020-07-31,2020-08-15,,,6955.00,0
+10613,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001498,GL0001729,2020-07-31,2020-08-15,,,3250.00,0
+10665,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30540,GL0001453,2020-08-17,,B-001,Land Bank of the Philippines,0,-1092.42
+10667,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30540,GL0001454,2020-08-17,,B-001,Land Bank of the Philippines,0,-1907.58
+10974,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001543,GL0001781,2020-08-31,2020-09-15,,,6955.00,0
+10978,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001544,GL0001782,2020-08-31,2020-09-15,,,3250.00,0
+11468,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001626,GL0001869,2020-09-30,2020-10-15,,,6957.60,0
+11464,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001625,GL0001868,2020-09-30,2020-10-15,,,6955.00,0
+11503,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR030571,GL0001454,2020-10-13,,B-001,Land Bank of the Philippines,0,-1842.42
+11505,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR030571,GL0001649,2020-10-13,,B-001,Land Bank of the Philippines,0,-4957.58
+11902,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001694,GL0001939,2020-10-31,2020-11-15,,,12236.33,0
+11898,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001693,GL0001938,2020-10-31,2020-11-15,,,7490.00,0
+11932,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30593,GL0001728,2020-11-20,,B-001,Land Bank of the Philippines,0,-1037.58
+11928,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30593,GL0001649,2020-11-20,,B-001,Land Bank of the Philippines,0,-1997.42
+11930,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30593,GL0001650,2020-11-20,,B-001,Land Bank of the Philippines,0,-3250.00
+12299,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001749,GL0001997,2020-11-30,2020-12-15,,,7490.00,0
+12303,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001750,GL0001998,2020-11-30,2020-12-15,,,4653.00,0
+12651,ASCT-LT000070,Boholanos Lechon House,Invoice,Rent Receivables,ASCT-IC0001807,GL0002057,2020-12-31,2021-01-15,,,7490.00,0
+12655,ASCT-LT000070,Boholanos Lechon House,Invoice,A/R  Non Trade External,ASCT-IC0001808,GL0002058,2020-12-31,2021-01-15,,,4526.50,0
+12438,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30674,GL0001728,2021-01-07,,B-001,Land Bank of the Philippines,0,-5000.00
+12835,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30715,GL0001728,2021-02-22,,B-001,Land Bank of the Philippines,0,-917.42
+12837,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30715,GL0001729,2021-02-22,,B-001,Land Bank of the Philippines,0,-3250.00
+12839,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30715,GL0001781,2021-02-22,,B-001,Land Bank of the Philippines,0,-5832.58
+13339,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30803,GL0001781,2021-04-15,,B-001,Land Bank of the Philippines,0,-1122.42
+13341,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30803,GL0001782,2021-04-15,,B-001,Land Bank of the Philippines,0,-3250.00
+13345,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30803,GL0001869,2021-04-15,,B-001,Land Bank of the Philippines,0,-4411.33
+13343,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30803,GL0001868,2021-04-15,,B-001,Land Bank of the Philippines,0,-6955.00
+13990,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30835,GL0001869,2021-05-31,,B-001,Land Bank of the Philippines,0,-2546.27
+13994,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30835,GL0001939,2021-05-31,,B-001,Land Bank of the Philippines,0,-4963.73
+13992,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR30835,GL0001938,2021-05-31,,B-001,Land Bank of the Philippines,0,-7490.00
+14154,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR30935,GL0001939,2021-07-28,,B-001,Land Bank of the Philippines,0,-5000.00
+15120,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR31013,GL0001939,2021-08-31,,B-001,Land Bank of the Philippines,0,-2272.60
+15122,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR31013,GL0001997,2021-08-31,,B-001,Land Bank of the Philippines,0,-2727.40
+15849,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR31049,GL0002057,2021-10-14,,B-001,Land Bank of the Philippines,0,-584.40
+15847,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR31049,GL0001998,2021-10-14,,B-001,Land Bank of the Philippines,0,-4653.00
+15845,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR31049,GL0001997,2021-10-14,,B-001,Land Bank of the Philippines,0,-4762.60
+16157,ASCT-LT000070,Boholanos Lechon House,Payment,A/R  Non Trade External,PR31086,GL0002058,2021-12-01,,B-001,Land Bank of the Philippines,0,-4526.50
+16155,ASCT-LT000070,Boholanos Lechon House,Payment,Rent Receivables,PR31086,GL0002057,2021-12-01,,B-001,Land Bank of the Philippines,0,-6905.60

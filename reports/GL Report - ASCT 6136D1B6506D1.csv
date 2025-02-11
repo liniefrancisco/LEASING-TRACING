@@ -1,0 +1,21 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+878,ASCT-LT000010,VIRGINIA FOODS,Payment,Check Receivable - PDC,PR030017,GL0000084,2018-10-05,,B-001,Land Bank of the Philippines,10700.00,0
+880,ASCT-LT000010,VIRGINIA FOODS,Payment,Check Receivable - PDC,PR030017,GL0000085,2018-10-05,,B-001,Land Bank of the Philippines,589.89,0
+876,ASCT-LT000010,VIRGINIA FOODS,Payment,Check Receivable - PDC,PR030017,GL0000057,2018-10-05,,B-001,Land Bank of the Philippines,237.00,0
+874,ASCT-LT000010,VIRGINIA FOODS,Payment,Check Receivable - PDC,PR030017,GL0000116,2018-10-05,,B-001,Land Bank of the Philippines,237.00,0
+870,ASCT-LT000010,VIRGINIA FOODS,Payment,Check Receivable - PDC,PR030017,GL0000112,2018-10-05,,B-001,Land Bank of the Philippines,79.00,0
+872,ASCT-LT000010,VIRGINIA FOODS,Payment,Check Receivable - PDC,PR030017,GL0000115,2018-10-05,,B-001,Land Bank of the Philippines,7.11,0
+1108,ASCT-LT000007,JEWELRICH,Payment,Check Receivable - PDC,PR030021,GL0000178,2018-10-29,,B-001,Land Bank of the Philippines,20410.00,0
+1110,ASCT-LT000007,JEWELRICH,Payment,Check Receivable - PDC,PR030022,GL0000179,2018-10-29,,B-001,Land Bank of the Philippines,20410.00,0
+2212,ASCT-LT000007,JEWELRICH,Payment,Check Receivable - PDC,PR030045-A,GL0000368,2019-02-01,,B-001,Land Bank of the Philippines,20410.00,0
+2222,ASCT-LT000007,JEWELRICH,Payment,Check Receivable - PDC,PR030045-B,GL0000373,2019-02-01,,B-001,Land Bank of the Philippines,20410.00,0
+2224,ASCT-LT000007,JEWELRICH,Payment,Check Receivable - PDC,PR030045-C,GL0000374,2019-02-01,,B-001,Land Bank of the Philippines,20410.00,0
+2226,ASCT-LT000007,JEWELRICH,Payment,Check Receivable - PDC,PR030045-D,GL0000375,2019-02-01,,B-001,Land Bank of the Philippines,20410.00,0
+4554,ASCT-LT000007,JEWELRICH,Payment,Check Receivable - PDC,PR030253,GL0000706,2019-07-01,,B-001,Land Bank of the Philippines,19260.00,0
+10486,ASCT-LT000038,ASC TECH,Payment,Check Receivable - PDC,PR30532,GL0001463,2020-08-06,,B-001,Land Bank of the Philippines,20430.80,0
+10484,ASCT-LT000038,ASC TECH,Payment,Check Receivable - PDC,PR30532,GL0001462,2020-08-06,,B-001,Land Bank of the Philippines,3287.80,0
+11506,ASCT-LT000038,ASC TECH,Payment,Check Receivable - PDC,PR030572,GL0001465,2020-10-13,,B-001,Land Bank of the Philippines,22874.80,0
+11508,ASCT-LT000038,ASC TECH,Payment,Check Receivable - PDC,PR030572,GL0001466,2020-10-13,,B-001,Land Bank of the Philippines,8787.30,0
+11976,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Check Receivable - PDC,PR30600,GL0001360,2020-11-27,,B-001,Land Bank of the Philippines,12699.50,0
+11974,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Check Receivable - PDC,PR30600,GL0001359,2020-11-27,,B-001,Land Bank of the Philippines,700.00,0
+11978,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Check Receivable - PDC,PR30600,GL0001445,2020-11-27,,B-001,Land Bank of the Philippines,401.99,0

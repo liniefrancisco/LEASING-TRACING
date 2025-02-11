@@ -1,0 +1,66 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+6953,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0000942,GL0001104,2019-11-30,2019-12-08,,,12770.97,0
+6957,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0000943,GL0001105,2019-11-30,2019-12-08,,,12584.92,0
+6966,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,ASCT-B0000543,GL0001104,2019-11-30,,,,0,-10000.00
+7046,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR030391,GL0001104,2019-12-09,,B-001,Land Bank of the Philippines,0,-2770.97
+7048,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR030391,GL0001105,2019-12-09,,B-001,Land Bank of the Philippines,0,-12584.92
+7174,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0000962,GL0001129,2019-12-31,2020-01-08,,,15976.00,0
+7170,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0000961,GL0001128,2019-12-31,2020-01-08,,,10700.00,0
+7578,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR030456,GL0001128,2020-01-08,,B-001,Land Bank of the Philippines,0,-10700.00
+7580,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR030456,GL0001129,2020-01-08,,B-001,Land Bank of the Philippines,0,-15976.00
+7929,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001086,GL0001264,2020-01-31,2020-02-08,,,13349.44,0
+7925,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001085,GL0001263,2020-01-31,2020-02-08,,,10700.00,0
+8154,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR030478,GL0001263,2020-02-10,,B-001,Land Bank of the Philippines,0,-10700.00
+8156,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR030478,GL0001264,2020-02-10,,B-001,Land Bank of the Philippines,0,-13349.44
+8512,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001164,GL0001360,2020-02-29,2020-03-08,,,12699.50,0
+8508,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001163,GL0001359,2020-02-29,2020-03-08,,,10700.00,0
+8987,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001243,GL0001446,2020-03-31,2020-04-08,,,9284.50,0
+8983,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001242,GL0001445,2020-03-31,2020-04-08,,,5350.00,0
+9596,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001345,GL0001557,2020-05-31,2020-06-08,,,8560.00,0
+9600,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001346,GL0001558,2020-05-31,2020-06-08,,,3500.00,0
+10151,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001419,GL0001637,2020-06-30,2020-07-08,,,10739.50,0
+10147,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001418,GL0001636,2020-06-30,2020-07-08,,,8560.00,0
+10600,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001495,GL0001726,2020-07-31,2020-08-15,,,8560.00,0
+10604,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001496,GL0001727,2020-07-31,2020-08-15,,,7508.00,0
+10965,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001541,GL0001779,2020-08-31,2020-09-15,,,8560.00,0
+10969,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001542,GL0001780,2020-08-31,2020-09-15,,,8111.50,0
+11076,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR30557,GL0001359,2020-09-16,,B-001,Land Bank of the Philippines,0,-10000.00
+11455,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001623,GL0001866,2020-09-30,2020-10-15,,,8560.00,0
+11459,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001624,GL0001867,2020-09-30,2020-10-15,,,6731.50,0
+11889,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001691,GL0001936,2020-10-31,2020-11-15,,,7490.00,0
+11893,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001692,GL0001937,2020-10-31,2020-11-15,,,6800.50,0
+11979,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables-PDC,PR30600,GL0001445,2020-11-27,,B-001,Land Bank of the Philippines,0,-401.99
+11975,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables-PDC,PR30600,GL0001359,2020-11-27,,B-001,Land Bank of the Philippines,0,-700.00
+11977,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External-PDC,PR30600,GL0001360,2020-11-27,,B-001,Land Bank of the Philippines,0,-12699.50
+12294,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001748,GL0001996,2020-11-30,2020-12-15,,,7985.00,0
+12290,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001747,GL0001995,2020-11-30,2020-12-15,,,7490.00,0
+12646,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0001806,GL0002056,2020-12-31,2021-01-15,,,8307.00,0
+12642,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0001805,GL0002055,2020-12-31,2021-01-15,,,7490.00,0
+12727,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR30685,GL0001557,2021-01-25,,B-001,Land Bank of the Philippines,0,-401.99
+12723,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR30685,GL0001445,2021-01-25,,B-001,Land Bank of the Philippines,0,-4948.01
+12725,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR30685,GL0001446,2021-01-25,,B-001,Land Bank of the Philippines,0,-9284.50
+15640,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,A/R  Non Trade External,ASCT-IC0002177,GL0002558,2021-01-31,2021-02-08,,,9421.99,0
+15636,ASCT-LT000056,Pat and Jane Franchising Corp.,Invoice,Rent Receivables,ASCT-IC0002176,GL0002557,2021-01-31,2021-02-08,,,8560.00,0
+12829,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables-PDC,PR30712,GL0001636,2021-02-18,,B-001,Land Bank of the Philippines,0,-401.99
+12827,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External-PDC,PR30712,GL0001558,2021-02-18,,B-001,Land Bank of the Philippines,0,-3500.00
+12825,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables-PDC,PR30712,GL0001557,2021-02-18,,B-001,Land Bank of the Philippines,0,-8158.01
+13359,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR030808,GL0001726,2021-04-23,,B-001,Land Bank of the Philippines,0,-401.99
+13355,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR030808,GL0001636,2021-04-23,,B-001,Land Bank of the Philippines,0,-8158.01
+13357,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR030808,GL0001637,2021-04-23,,B-001,Land Bank of the Philippines,0,-10739.50
+13980,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR30832,GL0001779,2021-05-21,,B-001,Land Bank of the Philippines,0,-401.99
+13978,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR30832,GL0001727,2021-05-21,,B-001,Land Bank of the Philippines,0,-7508.00
+13976,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR30832,GL0001726,2021-05-21,,B-001,Land Bank of the Philippines,0,-8158.01
+14072,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables-PDC,PR30907,GL0001866,2021-06-18,,B-001,Land Bank of the Philippines,0,-401.99
+14070,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External-PDC,PR30907,GL0001780,2021-06-18,,B-001,Land Bank of the Philippines,0,-8111.50
+14068,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables-PDC,PR30907,GL0001779,2021-06-18,,B-001,Land Bank of the Philippines,0,-8158.01
+14180,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR30946,GL0001936,2021-08-11,,B-001,Land Bank of the Philippines,0,-401.99
+14178,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR30946,GL0001867,2021-08-11,,B-001,Land Bank of the Philippines,0,-6731.50
+14176,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR30946,GL0001866,2021-08-11,,B-001,Land Bank of the Philippines,0,-8158.01
+15809,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR31037,GL0001995,2021-10-01,,B-001,Land Bank of the Philippines,0,-401.99
+15807,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR31037,GL0001937,2021-10-01,,B-001,Land Bank of the Philippines,0,-6800.50
+15805,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR31037,GL0001936,2021-10-01,,B-001,Land Bank of the Philippines,0,-7088.01
+16153,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR31085,GL0002557,2021-11-29,,B-001,Land Bank of the Philippines,0,-401.99
+16145,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR31085,GL0001995,2021-11-29,,B-001,Land Bank of the Philippines,0,-7088.01
+16149,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR31085,GL0002055,2021-11-29,,B-001,Land Bank of the Philippines,0,-7490.00
+16147,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR31085,GL0001996,2021-11-29,,B-001,Land Bank of the Philippines,0,-7985.00
+16151,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR31085,GL0002056,2021-11-29,,B-001,Land Bank of the Philippines,0,-8307.00

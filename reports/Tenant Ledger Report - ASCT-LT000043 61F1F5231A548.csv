@@ -1,0 +1,96 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+3009,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000421,GL0000478,2019-03-31,2019-04-08,,,11597.42,0
+3013,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000422,GL0000479,2019-03-31,2019-04-08,,,2764.07,0
+3051,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,ASCT-B0000236,GL0000479,2019-03-31,,,,0,-2764.07
+3049,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,ASCT-B0000236,GL0000478,2019-03-31,,,,0,-11597.42
+3425,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000469,GL0000537,2019-04-30,2019-05-08,,,12840.00,0
+3429,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000470,GL0000538,2019-04-30,2019-05-08,,,3282.00,0
+3569,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,ASCT-B0000274,GL0000538,2019-04-30,,,,0,-3282.00
+3565,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,ASCT-B0000274,GL0000537,2019-04-30,,,,0,-12840.00
+3981,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000530,GL0000612,2019-05-31,2019-06-08,,,12840.00,0
+4110,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000553,GL0000635,2019-05-31,2019-06-08,,,3328.00,0
+4151,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,ASCT-B0000326,GL0000635,2019-05-31,,,,0,-3328.00
+4147,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,ASCT-B0000326,GL0000612,2019-05-31,,,,0,-12840.00
+4458,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000602,GL0000690,2019-06-30,2019-07-08,,,12840.00,0
+4462,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000603,GL0000691,2019-06-30,2019-07-08,,,3408.50,0
+4533,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,ASCT-B0000353,GL0000691,2019-06-30,,,,0,-3408.50
+4529,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,ASCT-B0000353,GL0000690,2019-06-30,,,,0,-12840.00
+4810,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000654,GL0000749,2019-07-31,2019-08-08,,,12840.00,0
+4814,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000655,GL0000750,2019-07-31,2019-08-08,,,3328.00,0
+4884,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,ASCT-B0000380,GL0000750,2019-07-31,,,,0,-1300.01
+4880,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,ASCT-B0000380,GL0000749,2019-07-31,,,,0,-12840.00
+4969,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030271,GL0000750,2019-08-06,,B-001,Land Bank of the Philippines,0,-2027.99
+5155,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000708,GL0000812,2019-08-31,2019-09-08,,,12840.00,0
+5159,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000709,GL0000813,2019-08-31,2019-09-08,,,3316.50,0
+5413,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030282,GL0000813,2019-09-03,,B-001,Land Bank of the Philippines,0,-3316.50
+5411,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030282,GL0000812,2019-09-03,,B-001,Land Bank of the Philippines,0,-12840.00
+5683,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000791,GL0000903,2019-09-30,2019-10-08,,,12840.00,0
+5687,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000792,GL0000904,2019-09-30,2019-10-08,,,3362.50,0
+5876,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030296,GL0000904,2019-10-02,,B-001,Land Bank of the Philippines,0,-3362.50
+5874,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030296,GL0000903,2019-10-02,,B-001,Land Bank of the Philippines,0,-12840.00
+6174,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000854,GL0000986,2019-10-31,2019-11-08,,,12840.00,0
+6178,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000855,GL0000987,2019-10-31,2019-11-08,,,3282.00,0
+6469,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030364,GL0000987,2019-11-05,,B-001,Land Bank of the Philippines,0,-3282.00
+6467,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030364,GL0000986,2019-11-05,,B-001,Land Bank of the Philippines,0,-12840.00
+6742,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000915,GL0001066,2019-11-30,2019-12-08,,,12840.00,0
+6746,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000916,GL0001067,2019-11-30,2019-12-08,,,3328.00,0
+7056,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PRAR# 110963,GL0001067,2019-12-06,,B-001,Land Bank of the Philippines,0,-3328.00
+7054,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PRAR# 110963,GL0001066,2019-12-06,,B-001,Land Bank of the Philippines,0,-12840.00
+7273,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0000983,GL0001153,2019-12-31,2020-01-08,,,12840.00,0
+7277,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0000984,GL0001154,2019-12-31,2020-01-08,,,3339.50,0
+7536,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030395,GL0001154,2020-01-06,,B-001,Land Bank of the Philippines,0,-3339.50
+7534,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030395,GL0001153,2020-01-06,,B-001,Land Bank of the Philippines,0,-12840.00
+7823,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001063,GL0001238,2020-01-31,2020-02-08,,,12840.00,0
+7827,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001064,GL0001239,2020-01-31,2020-02-08,,,3305.00,0
+8132,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030472,GL0001239,2020-02-07,,B-001,Land Bank of the Philippines,0,-3305.00
+8130,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030472,GL0001238,2020-02-07,,B-001,Land Bank of the Philippines,0,-12840.00
+8401,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001140,GL0001334,2020-02-29,2020-03-08,,,12840.00,0
+8405,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001141,GL0001335,2020-02-29,2020-03-08,,,3396.50,0
+8684,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030487,GL0001335,2020-03-06,,B-001,Land Bank of the Philippines,0,-3396.50
+8682,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030487,GL0001334,2020-03-06,,B-001,Land Bank of the Philippines,0,-12840.00
+8888,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001219,GL0001422,2020-03-31,2020-04-08,,,8560.00,0
+8892,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001220,GL0001423,2020-03-31,2020-04-08,,,1500.00,0
+9337,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001296,GL0001506,2020-04-30,2020-05-08,,,10700.00,0
+9341,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001297,GL0001507,2020-04-30,2020-05-08,,,500.00,0
+9518,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001325,GL0001537,2020-05-31,2020-06-08,,,10700.00,0
+9522,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001326,GL0001538,2020-05-31,2020-06-08,,,2000.00,0
+9301,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30500,GL0001423,2020-06-15,,B-001,Land Bank of the Philippines,0,-1500.00
+9299,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30500,GL0001422,2020-06-15,,B-001,Land Bank of the Philippines,0,-8560.00
+10062,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001398,GL0001616,2020-06-30,2020-07-08,,,10700.00,0
+10066,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001399,GL0001617,2020-06-30,2020-07-08,,,4403.50,0
+9587,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30511,GL0001507,2020-07-02,,B-001,Land Bank of the Philippines,0,-500.00
+9585,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30511,GL0001506,2020-07-02,,B-001,Land Bank of the Philippines,0,-10700.00
+9986,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30522,GL0001538,2020-07-18,,B-001,Land Bank of the Philippines,0,-2000.00
+9984,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30522,GL0001537,2020-07-18,,B-001,Land Bank of the Philippines,0,-10700.00
+10248,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030529,GL0001617,2020-07-30,,B-001,Land Bank of the Philippines,0,-4403.50
+10246,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030529,GL0001616,2020-07-30,,B-001,Land Bank of the Philippines,0,-10700.00
+10371,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001448,GL0001677,2020-07-31,2020-08-15,,,11650.98,0
+10391,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001451,GL0001680,2020-07-31,2020-08-15,,,10700.00,0
+10395,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001452,GL0001681,2020-07-31,2020-08-15,,,4449.50,0
+10759,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30551,GL0001680,2020-08-28,,B-001,Land Bank of the Philippines,0,-3498.52
+10757,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30551,GL0001677,2020-08-28,,B-001,Land Bank of the Philippines,0,-11650.98
+11025,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001555,GL0001793,2020-08-31,2020-09-15,,,10700.00,0
+11084,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR030559,GL0001681,2020-09-18,,B-001,Land Bank of the Philippines,0,-4449.50
+11082,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030559,GL0001680,2020-09-18,,B-001,Land Bank of the Philippines,0,-7201.48
+11086,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR030559,GL0001793,2020-09-18,,B-001,Land Bank of the Philippines,0,-10700.00
+11349,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001600,GL0001843,2020-09-30,2020-10-15,,,21400.00,0
+11353,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001601,GL0001844,2020-09-30,2020-10-15,,,5030.00,0
+11359,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,ASCT-B0000872,GL0001843,2020-09-30,,,,0,-4516.02
+11579,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30582,GL0001844,2020-10-27,,B-001,Land Bank of the Philippines,0,-5030.00
+11577,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30582,GL0001843,2020-10-27,,B-001,Land Bank of the Philippines,0,-16883.98
+11773,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001668,GL0001913,2020-10-31,2020-11-15,,,21400.00,0
+11777,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001669,GL0001914,2020-10-31,2020-11-15,,,16748.50,0
+12193,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001726,GL0001974,2020-11-30,2020-12-15,,,21400.00,0
+12197,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001727,GL0001975,2020-11-30,2020-12-15,,,2500.00,0
+12202,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,ASCT-B0000924,GL0001974,2020-11-30,,,,0,-4516.02
+12038,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30656,GL0001914,2020-12-09,,B-001,Land Bank of the Philippines,0,-2500.00
+12036,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30656,GL0001913,2020-12-09,,B-001,Land Bank of the Philippines,0,-21400.00
+12540,ASCT-LT000043,K and K Cellshop and Services,Invoice,Rent Receivables,ASCT-IC0001784,GL0002034,2020-12-31,2021-01-15,,,21400.00,0
+12544,ASCT-LT000043,K and K Cellshop and Services,Invoice,A/R  Non Trade External,ASCT-IC0001785,GL0002035,2020-12-31,2021-01-15,,,12636.00,0
+12400,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30672,GL0001974,2021-01-05,,B-001,Land Bank of the Philippines,0,-9651.50
+12398,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30672,GL0001914,2021-01-05,,B-001,Land Bank of the Philippines,0,-14248.50
+12690,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30684,GL0001975,2021-01-19,,B-001,Land Bank of the Philippines,0,-2500.00
+12694,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30684,GL0002035,2021-01-19,,B-001,Land Bank of the Philippines,0,-2903.52
+12688,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30684,GL0001974,2021-01-19,,B-001,Land Bank of the Philippines,0,-7232.48
+12692,ASCT-LT000043,K and K Cellshop and Services,Payment,Rent Receivables,PR30684,GL0002034,2021-01-19,,B-001,Land Bank of the Philippines,0,-21400.00
+12813,ASCT-LT000043,K and K Cellshop and Services,Payment,A/R  Non Trade External,PR30706,GL0002035,2021-02-15,,B-001,Land Bank of the Philippines,0,-9732.48

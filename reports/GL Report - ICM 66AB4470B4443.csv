@@ -1,0 +1,5 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+21694,ICM-LT000029,LANDBANK ATM,Payment,Cash in Bank (Peso),PS0001040,GL0003395,2024-01-01,,B-007,Banks of the Philippine Islands,79744.44,0
+34481,ICM-LT002096,JBL (AUDIO REFINERY),Payment,Cash in Bank (Peso),PS0001948,GL0005426,2024-01-01,,B-007,Banks of the Philippine Islands,66000.00,0
+32466,ICM-LT001639,Churrosimo Food and Beverage Stall,Payment,Cash in Bank (Peso),PS0001693,GL0005093,2024-01-01,,B-007,Banks of the Philippine Islands,36000.00,0
+34483,ICM-LT002096,JBL (AUDIO REFINERY),Payment,Cash in Bank (Peso),PS0001949,GL0005427,2024-01-01,,B-007,Banks of the Philippine Islands,23540.00,0

@@ -1,0 +1,231 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+16212,ASCT-LT000011,LROYALE SKIN CARE AND WELNESS SHOP,Payment,Cash in Bank (Peso),PR31155,GL0002682,2022-01-02,,B-001,Land Bank of the Philippines,12655.00,0
+16213,ASCT-LT000011,LROYALE SKIN CARE AND WELNESS SHOP,Payment,Unearned Rent Income,PR31155,GL0002682,2022-01-02,,B-001,Land Bank of the Philippines,0,-12655.00
+16218,ASCT-LT000060,Marcela Chicken,Payment,Cash in Bank (Peso),PR31156,GL0002684,2022-01-04,,B-001,Land Bank of the Philippines,27230.00,0
+16219,ASCT-LT000060,Marcela Chicken,Payment,Unearned Rent Income,PR31156,GL0002684,2022-01-04,,B-001,Land Bank of the Philippines,0,-27230.00
+16222,ASCT-LT000037,Miche Cellphone Accessories,Payment,Cash in Bank (Peso),PR31158,GL0002686,2022-01-11,,B-001,Land Bank of the Philippines,18267.00,0
+16220,ASCT-LT000078,Sticker Race Prints and Design,Payment,Cash in Bank (Peso),PR31157,GL0002685,2022-01-11,,B-001,Land Bank of the Philippines,12457.25,0
+16221,ASCT-LT000078,Sticker Race Prints and Design,Payment,Unearned Rent Income,PR31157,GL0002685,2022-01-11,,B-001,Land Bank of the Philippines,0,-12457.25
+16223,ASCT-LT000037,Miche Cellphone Accessories,Payment,Unearned Rent Income,PR31158,GL0002686,2022-01-11,,B-001,Land Bank of the Philippines,0,-18267.00
+16224,ASCT-LT000214,The Buzz Cafe,Payment,Cash in Bank (Peso),PR31159,GL0002687,2022-01-14,,B-001,Land Bank of the Philippines,133255.30,0
+16225,ASCT-LT000214,The Buzz Cafe,Payment,Unearned Rent Income,PR31159,GL0002687,2022-01-14,,B-001,Land Bank of the Philippines,0,-133255.30
+16226,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR031160,GL0002688,2022-01-15,,B-001,Land Bank of the Philippines,3700.00,0
+16227,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR031160,GL0002688,2022-01-15,,B-001,Land Bank of the Philippines,0,-3700.00
+16228,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31161,GL0002689,2022-01-17,,B-001,Land Bank of the Philippines,3586.75,0
+16229,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31161,GL0002689,2022-01-17,,B-001,Land Bank of the Philippines,0,-3586.75
+16230,ASCT-LT000210,Toyota Bohol,Payment,Cash in Bank (Peso),PR31162,GL0002690,2022-01-26,,B-001,Land Bank of the Philippines,19260.00,0
+16231,ASCT-LT000210,Toyota Bohol,Payment,Unearned Rent Income,PR31162,GL0002690,2022-01-26,,B-001,Land Bank of the Philippines,0,-19260.00
+16608,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Rent Receivables,ASCT-IC0002260,GL0002797,2022-01-31,2022-02-08,,,10700.00,0
+16612,ASCT-LT000238,Robotic Touch Massage Services,Invoice,A/R  Non Trade External,ASCT-IC0002261,GL0002798,2022-01-31,2022-02-08,,,1414.00,0
+16610,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Creditable WHT Receivable,ASCT-IC0002260,GL0002797,2022-01-31,2022-02-08,,,500.00,0
+16606,ASCT-LT000238,Robotic Touch Massage Services,Invoice,A/R  Non Trade External,ASCT-IC0002259,GL0002796,2022-01-31,2022-02-08,,,176.00,0
+16607,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Penalties,ASCT-IC0002259,GL0002796,2022-01-31,2022-02-08,,,0,-176.00
+16614,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Light and Power,ASCT-IC0002261,GL0002798,2022-01-31,2022-02-08,,,0,-414.00
+16613,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Common Utilities,ASCT-IC0002261,GL0002798,2022-01-31,2022-02-08,,,0,-500.00
+16615,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Charges,ASCT-IC0002261,GL0002798,2022-01-31,2022-02-08,,,0,-500.00
+16609,ASCT-LT000238,Robotic Touch Massage Services,Invoice,VAT Output,ASCT-IC0002260,GL0002797,2022-01-31,2022-02-08,,,0,-1200.00
+16611,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Rent Income,ASCT-IC0002260,GL0002797,2022-01-31,2022-02-08,,,0,-10000.00
+16232,ASCT-LT000036,M Lhuillier,Payment,Cash in Bank (Peso),PR31163,GL0002691,2022-02-01,,B-001,Land Bank of the Philippines,24830.62,0
+16233,ASCT-LT000036,M Lhuillier,Payment,Unearned Rent Income,PR31163,GL0002691,2022-02-01,,B-001,Land Bank of the Philippines,0,-24830.62
+16236,ASCT-LT000073,PNB,Payment,Cash in Bank (Peso),PR31165,GL0002693,2022-02-02,,B-001,Land Bank of the Philippines,37171.08,0
+16234,ASCT-LT000008,TECHNOCARE,Payment,Cash in Bank (Peso),PR31164,GL0002692,2022-02-02,,B-001,Land Bank of the Philippines,30232.00,0
+16238,ASCT-LT000043,K AND K VIBE AND AUZOCA PROPERTIES 01,Payment,Cash in Bank (Peso),PR31166,GL0002694,2022-02-02,,B-001,Land Bank of the Philippines,13882.00,0
+16239,ASCT-LT000043,K AND K VIBE AND AUZOCA PROPERTIES 01,Payment,Unearned Rent Income,PR31166,GL0002694,2022-02-02,,B-001,Land Bank of the Philippines,0,-13882.00
+16235,ASCT-LT000008,TECHNOCARE,Payment,Unearned Rent Income,PR31164,GL0002692,2022-02-02,,B-001,Land Bank of the Philippines,0,-30232.00
+16237,ASCT-LT000073,PNB,Payment,Unearned Rent Income,PR31165,GL0002693,2022-02-02,,B-001,Land Bank of the Philippines,0,-37171.08
+16602,ASCT-LT000238,Robotic Touch Massage Services,Payment,Cash in Bank (Peso),PROR#031121,GL0002794,2022-02-03,,B-001,Land Bank of the Philippines,8801.62,0
+16604,ASCT-LT000238,Robotic Touch Massage Services,Payment,Cash in Bank (Peso),PROR#031121,GL0002795,2022-02-03,,B-001,Land Bank of the Philippines,2931.96,0
+16605,ASCT-LT000238,Robotic Touch Massage Services,Payment,A/R  Non Trade External,PROR#031121,GL0002795,2022-02-03,,B-001,Land Bank of the Philippines,0,-2931.96
+16603,ASCT-LT000238,Robotic Touch Massage Services,Payment,Rent Receivables,PROR#031121,GL0002794,2022-02-03,,B-001,Land Bank of the Philippines,0,-8801.62
+16258,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0002452,2022-02-04,,B-001,Land Bank of the Philippines,4650.41,0
+16260,ASCT-LT000055,PCSO Lotto,Payment,Cash in Bank (Peso),PR31168,GL0002695,2022-02-04,,B-001,Land Bank of the Philippines,4210.00,0
+16256,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0002451,2022-02-04,,B-001,Land Bank of the Philippines,718.26,0
+16254,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0002448,2022-02-04,,B-001,Land Bank of the Philippines,608.71,0
+16252,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0002447,2022-02-04,,B-001,Land Bank of the Philippines,393.61,0
+16240,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0001544,2022-02-04,,B-001,Land Bank of the Philippines,339.30,0
+16250,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0002446,2022-02-04,,B-001,Land Bank of the Philippines,173.64,0
+16248,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0002445,2022-02-04,,B-001,Land Bank of the Philippines,158.41,0
+16246,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0001980,2022-02-04,,B-001,Land Bank of the Philippines,135.61,0
+16244,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0001849,2022-02-04,,B-001,Land Bank of the Philippines,36.10,0
+16242,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31167,GL0001770,2022-02-04,,B-001,Land Bank of the Philippines,11.65,0
+16243,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0001770,2022-02-04,,B-001,Land Bank of the Philippines,0,-11.65
+16245,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0001849,2022-02-04,,B-001,Land Bank of the Philippines,0,-36.10
+16247,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0001980,2022-02-04,,B-001,Land Bank of the Philippines,0,-135.61
+16249,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0002445,2022-02-04,,B-001,Land Bank of the Philippines,0,-158.41
+16251,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0002446,2022-02-04,,B-001,Land Bank of the Philippines,0,-173.64
+16241,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0001544,2022-02-04,,B-001,Land Bank of the Philippines,0,-339.30
+16253,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0002447,2022-02-04,,B-001,Land Bank of the Philippines,0,-393.61
+16255,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0002448,2022-02-04,,B-001,Land Bank of the Philippines,0,-608.71
+16257,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31167,GL0002451,2022-02-04,,B-001,Land Bank of the Philippines,0,-718.26
+16261,ASCT-LT000055,PCSO Lotto,Payment,Unearned Rent Income,PR31168,GL0002695,2022-02-04,,B-001,Land Bank of the Philippines,0,-4210.00
+16259,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31167,GL0002452,2022-02-04,,B-001,Land Bank of the Philippines,0,-4650.41
+16266,ASCT-LT000007,JEWELRICH,Payment,Cash in Bank (Peso),PR31171,GL0002698,2022-02-07,,B-001,Land Bank of the Philippines,14820.00,0
+16268,ASCT-LT000007,JEWELRICH,Payment,Cash in Bank (Peso),PR31172,GL0002699,2022-02-07,,B-001,Land Bank of the Philippines,14820.00,0
+16270,ASCT-LT000007,JEWELRICH,Payment,Cash in Bank (Peso),PR31173,GL0002700,2022-02-07,,B-001,Land Bank of the Philippines,14820.00,0
+16264,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31170,GL0002697,2022-02-07,,B-001,Land Bank of the Philippines,6255.00,0
+16262,ASCT-LT000078,Sticker Race Prints and Design,Payment,Cash in Bank (Peso),PR31169,GL0002696,2022-02-07,,B-001,Land Bank of the Philippines,5530.00,0
+16263,ASCT-LT000078,Sticker Race Prints and Design,Payment,Unearned Rent Income,PR31169,GL0002696,2022-02-07,,B-001,Land Bank of the Philippines,0,-5530.00
+16265,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31170,GL0002697,2022-02-07,,B-001,Land Bank of the Philippines,0,-6255.00
+16267,ASCT-LT000007,JEWELRICH,Payment,Unearned Rent Income,PR31171,GL0002698,2022-02-07,,B-001,Land Bank of the Philippines,0,-14820.00
+16269,ASCT-LT000007,JEWELRICH,Payment,Unearned Rent Income,PR31172,GL0002699,2022-02-07,,B-001,Land Bank of the Philippines,0,-14820.00
+16271,ASCT-LT000007,JEWELRICH,Payment,Unearned Rent Income,PR31173,GL0002700,2022-02-07,,B-001,Land Bank of the Philippines,0,-14820.00
+16272,ASCT-LT000070,Boholanos Lechon House,Payment,Cash in Bank (Peso),PR31174,GL0002701,2022-02-08,,B-001,Land Bank of the Philippines,22939.18,0
+16276,ASCT-LT000017,BUKO FACTORY,Payment,Cash in Bank (Peso),PR31176,GL0002703,2022-02-08,,B-001,Land Bank of the Philippines,12494.00,0
+16274,ASCT-LT000037,Miche Cellphone Accessories,Payment,Cash in Bank (Peso),PR31175,GL0002702,2022-02-08,,B-001,Land Bank of the Philippines,9214.00,0
+16280,ASCT-LT000237,Terays Food Hub,Payment,Cash in Bank (Peso),PR31178,GL0002705,2022-02-08,,B-001,Land Bank of the Philippines,6800.67,0
+16278,ASCT-LT000017,BUKO FACTORY,Payment,Cash in Bank (Peso),PR31177,GL0002704,2022-02-08,,B-001,Land Bank of the Philippines,6408.00,0
+16279,ASCT-LT000017,BUKO FACTORY,Payment,Unearned Rent Income,PR31177,GL0002704,2022-02-08,,B-001,Land Bank of the Philippines,0,-6408.00
+16281,ASCT-LT000237,Terays Food Hub,Payment,Unearned Rent Income,PR31178,GL0002705,2022-02-08,,B-001,Land Bank of the Philippines,0,-6800.67
+16275,ASCT-LT000037,Miche Cellphone Accessories,Payment,Unearned Rent Income,PR31175,GL0002702,2022-02-08,,B-001,Land Bank of the Philippines,0,-9214.00
+16277,ASCT-LT000017,BUKO FACTORY,Payment,Unearned Rent Income,PR31176,GL0002703,2022-02-08,,B-001,Land Bank of the Philippines,0,-12494.00
+16273,ASCT-LT000070,Boholanos Lechon House,Payment,Unearned Rent Income,PR31174,GL0002701,2022-02-08,,B-001,Land Bank of the Philippines,0,-22939.18
+16282,ASCT-LT000214,The Buzz Cafe,Payment,Cash in Bank (Peso),PR31179,GL0002706,2022-02-09,,B-001,Land Bank of the Philippines,84066.84,0
+16290,ASCT-LT000045,JJJ Key Services,Payment,Cash in Bank (Peso),PR31182,GL0002707,2022-02-09,,B-001,Land Bank of the Philippines,5530.00,0
+16288,ASCT-LT000072,RJ-S LUGAW HOUSE,Payment,Cash in Bank (Peso),PR31181,GL0002059,2022-02-09,,B-001,Land Bank of the Philippines,2665.50,0
+16284,ASCT-LT000072,RJ-S LUGAW HOUSE,Payment,Cash in Bank (Peso),PR31180,GL0002000,2022-02-09,,B-001,Land Bank of the Philippines,2299.43,0
+16286,ASCT-LT000072,RJ-S LUGAW HOUSE,Payment,Cash in Bank (Peso),PR31180,GL0002059,2022-02-09,,B-001,Land Bank of the Philippines,535.07,0
+16287,ASCT-LT000072,RJ-S LUGAW HOUSE,Payment,Rent Receivables,PR31180,GL0002059,2022-02-09,,B-001,Land Bank of the Philippines,0,-535.07
+16285,ASCT-LT000072,RJ-S LUGAW HOUSE,Payment,A/R  Non Trade External,PR31180,GL0002000,2022-02-09,,B-001,Land Bank of the Philippines,0,-2299.43
+16289,ASCT-LT000072,RJ-S LUGAW HOUSE,Payment,Rent Receivables,PR31181,GL0002059,2022-02-09,,B-001,Land Bank of the Philippines,0,-2665.50
+16291,ASCT-LT000045,JJJ Key Services,Payment,Unearned Rent Income,PR31182,GL0002707,2022-02-09,,B-001,Land Bank of the Philippines,0,-5530.00
+16283,ASCT-LT000214,The Buzz Cafe,Payment,Unearned Rent Income,PR31179,GL0002706,2022-02-09,,B-001,Land Bank of the Philippines,0,-84066.84
+16296,ASCT-LT000073,PNB,Payment,Cash in Bank (Peso),PR31185,GL0002710,2022-02-16,,B-001,Land Bank of the Philippines,59366.00,0
+16294,ASCT-LT000036,M Lhuillier,Payment,Cash in Bank (Peso),PR31184,GL0002709,2022-02-16,,B-001,Land Bank of the Philippines,27429.20,0
+16292,ASCT-LT000008,TECHNOCARE,Payment,Cash in Bank (Peso),PR31183,GL0002708,2022-02-16,,B-001,Land Bank of the Philippines,16960.25,0
+16293,ASCT-LT000008,TECHNOCARE,Payment,Unearned Rent Income,PR31183,GL0002708,2022-02-16,,B-001,Land Bank of the Philippines,0,-16960.25
+16295,ASCT-LT000036,M Lhuillier,Payment,Unearned Rent Income,PR31184,GL0002709,2022-02-16,,B-001,Land Bank of the Philippines,0,-27429.20
+16297,ASCT-LT000073,PNB,Payment,Unearned Rent Income,PR31185,GL0002710,2022-02-16,,B-001,Land Bank of the Philippines,0,-59366.00
+16298,ASCT-LT000038,ASC TECH,Payment,Cash in Bank (Peso),PR31186,GL0002711,2022-02-17,,B-001,Land Bank of the Philippines,60495.97,0
+16299,ASCT-LT000038,ASC TECH,Payment,Unearned Rent Income,PR31186,GL0002711,2022-02-17,,B-001,Land Bank of the Philippines,0,-60495.97
+16304,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31187,GL0002454,2022-02-18,,B-001,Land Bank of the Philippines,4333.41,0
+16300,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31187,GL0002452,2022-02-18,,B-001,Land Bank of the Philippines,3909.59,0
+16302,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31187,GL0002453,2022-02-18,,B-001,Land Bank of the Philippines,3872.00,0
+16303,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31187,GL0002453,2022-02-18,,B-001,Land Bank of the Philippines,0,-3872.00
+16301,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31187,GL0002452,2022-02-18,,B-001,Land Bank of the Philippines,0,-3909.59
+16305,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31187,GL0002454,2022-02-18,,B-001,Land Bank of the Philippines,0,-4333.41
+16306,ASCT-LT000011,LROYALE SKIN CARE AND WELNESS SHOP,Payment,Cash in Bank (Peso),PR31188,GL0002712,2022-02-20,,B-001,Land Bank of the Philippines,8613.50,0
+16307,ASCT-LT000011,LROYALE SKIN CARE AND WELNESS SHOP,Payment,Unearned Rent Income,PR31188,GL0002712,2022-02-20,,B-001,Land Bank of the Philippines,0,-8613.50
+16308,ASCT-LT000066,Aiztea,Payment,Cash in Bank (Peso),PR31189,GL0002713,2022-02-21,,B-001,Land Bank of the Philippines,36293.00,0
+16309,ASCT-LT000066,Aiztea,Payment,Unearned Rent Income,PR31189,GL0002713,2022-02-21,,B-001,Land Bank of the Philippines,0,-36293.00
+16616,ASCT-LT000238,Robotic Touch Massage Services,Payment,Cash in Bank (Peso),PROR#031130,GL0002797,2022-02-22,,B-001,Land Bank of the Philippines,10700.00,0
+16310,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31190,GL0002714,2022-02-22,,B-001,Land Bank of the Philippines,3700.00,0
+16618,ASCT-LT000238,Robotic Touch Massage Services,Payment,Cash in Bank (Peso),PROR#031130,GL0002798,2022-02-22,,B-001,Land Bank of the Philippines,1414.00,0
+16619,ASCT-LT000238,Robotic Touch Massage Services,Payment,A/R  Non Trade External,PROR#031130,GL0002798,2022-02-22,,B-001,Land Bank of the Philippines,0,-1414.00
+16311,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31190,GL0002714,2022-02-22,,B-001,Land Bank of the Philippines,0,-3700.00
+16617,ASCT-LT000238,Robotic Touch Massage Services,Payment,Rent Receivables,PROR#031130,GL0002797,2022-02-22,,B-001,Land Bank of the Philippines,0,-10700.00
+16318,ASCT-LT000043,K AND K VIBE AND AUZOCA PROPERTIES 01,Payment,Cash in Bank (Peso),PR31192,GL0002715,2022-02-23,,B-001,Land Bank of the Philippines,14226.50,0
+16312,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31191,GL0002454,2022-02-23,,B-001,Land Bank of the Philippines,4226.59,0
+16314,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31191,GL0002455,2022-02-23,,B-001,Land Bank of the Philippines,4102.00,0
+16316,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31191,GL0002456,2022-02-23,,B-001,Land Bank of the Philippines,1005.40,0
+16317,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31191,GL0002456,2022-02-23,,B-001,Land Bank of the Philippines,0,-1005.40
+16315,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31191,GL0002455,2022-02-23,,B-001,Land Bank of the Philippines,0,-4102.00
+16313,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31191,GL0002454,2022-02-23,,B-001,Land Bank of the Philippines,0,-4226.59
+16319,ASCT-LT000043,K AND K VIBE AND AUZOCA PROPERTIES 01,Payment,Unearned Rent Income,PR31192,GL0002715,2022-02-23,,B-001,Land Bank of the Philippines,0,-14226.50
+16320,ASCT-LT000078,Sticker Race Prints and Design,Payment,Cash in Bank (Peso),PR31194,GL0002716,2022-02-24,,B-001,Land Bank of the Philippines,11255.66,0
+16321,ASCT-LT000078,Sticker Race Prints and Design,Payment,Unearned Rent Income,PR31194,GL0002716,2022-02-24,,B-001,Land Bank of the Philippines,0,-11255.66
+16622,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Rent Receivables,ASCT-IC0002263,GL0002800,2022-02-28,2022-03-08,,,10700.00,0
+16324,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Cash in Bank (Peso),PR31195,GL0002558,2022-02-28,,B-001,Land Bank of the Philippines,9421.99,0
+16322,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Cash in Bank (Peso),PR31195,GL0002557,2022-02-28,,B-001,Land Bank of the Philippines,8158.01,0
+16626,ASCT-LT000238,Robotic Touch Massage Services,Invoice,A/R  Non Trade External,ASCT-IC0002264,GL0002801,2022-02-28,2022-03-08,,,3058.00,0
+16624,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Creditable WHT Receivable,ASCT-IC0002263,GL0002800,2022-02-28,2022-03-08,,,500.00,0
+16620,ASCT-LT000238,Robotic Touch Massage Services,Invoice,A/R  Non Trade External,ASCT-IC0002262,GL0002799,2022-02-28,2022-03-08,,,95.18,0
+16621,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Penalties,ASCT-IC0002262,GL0002799,2022-02-28,2022-03-08,,,0,-95.18
+16630,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Charges,ASCT-IC0002264,GL0002801,2022-02-28,2022-03-08,,,0,-500.00
+16629,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Light and Power,ASCT-IC0002264,GL0002801,2022-02-28,2022-03-08,,,0,-558.00
+16628,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Common Utilities,ASCT-IC0002264,GL0002801,2022-02-28,2022-03-08,,,0,-1000.00
+16627,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Aircon Charges,ASCT-IC0002264,GL0002801,2022-02-28,2022-03-08,,,0,-1000.00
+16623,ASCT-LT000238,Robotic Touch Massage Services,Invoice,VAT Output,ASCT-IC0002263,GL0002800,2022-02-28,2022-03-08,,,0,-1200.00
+16323,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,Rent Receivables,PR31195,GL0002557,2022-02-28,,B-001,Land Bank of the Philippines,0,-8158.01
+16325,ASCT-LT000056,Pat and Jane Franchising Corp.,Payment,A/R  Non Trade External,PR31195,GL0002558,2022-02-28,,B-001,Land Bank of the Philippines,0,-9421.99
+16625,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Rent Income,ASCT-IC0002263,GL0002800,2022-02-28,2022-03-08,,,0,-10000.00
+16330,ASCT-LT000210,Toyota Bohol,Payment,Cash in Bank (Peso),PR31197,GL0002719,2022-03-01,,B-001,Land Bank of the Philippines,19260.00,0
+16328,ASCT-LT000045,JJJ Key Services,Payment,Cash in Bank (Peso),PR31198,GL0002718,2022-03-01,,B-001,Land Bank of the Philippines,10081.05,0
+16326,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31196,GL0002717,2022-03-01,,B-001,Land Bank of the Philippines,3700.00,0
+16327,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31196,GL0002717,2022-03-01,,B-001,Land Bank of the Philippines,0,-3700.00
+16329,ASCT-LT000045,JJJ Key Services,Payment,Unearned Rent Income,PR31198,GL0002718,2022-03-01,,B-001,Land Bank of the Philippines,0,-10081.05
+16331,ASCT-LT000210,Toyota Bohol,Payment,Unearned Rent Income,PR31197,GL0002719,2022-03-01,,B-001,Land Bank of the Philippines,0,-19260.00
+16332,ASCT-LT000237,Terays Food Hub,Payment,Cash in Bank (Peso),PR31199,GL0002720,2022-03-02,,B-001,Land Bank of the Philippines,3000.00,0
+16333,ASCT-LT000237,Terays Food Hub,Payment,Unearned Rent Income,PR31199,GL0002720,2022-03-02,,B-001,Land Bank of the Philippines,0,-3000.00
+16334,ASCT-LT000214,The Buzz Cafe,Payment,Cash in Bank (Peso),PR31200,GL0002721,2022-03-07,,B-001,Land Bank of the Philippines,99161.15,0
+16336,ASCT-LT000037,Miche Cellphone Accessories,Payment,Cash in Bank (Peso),PR31201,GL0002722,2022-03-07,,B-001,Land Bank of the Philippines,17096.00,0
+16337,ASCT-LT000037,Miche Cellphone Accessories,Payment,Unearned Rent Income,PR31201,GL0002722,2022-03-07,,B-001,Land Bank of the Philippines,0,-17096.00
+16335,ASCT-LT000214,The Buzz Cafe,Payment,Unearned Rent Income,PR31200,GL0002721,2022-03-07,,B-001,Land Bank of the Philippines,0,-99161.15
+16338,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31202,GL0002723,2022-03-08,,B-001,Land Bank of the Philippines,3700.00,0
+16339,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31202,GL0002723,2022-03-08,,B-001,Land Bank of the Philippines,0,-3700.00
+16340,ASCT-LT000007,JEWELRICH,Payment,Cash in Bank (Peso),PR031203,GL0002724,2022-03-11,,B-001,Land Bank of the Philippines,14820.00,0
+16341,ASCT-LT000007,JEWELRICH,Payment,Unearned Rent Income,PR031203,GL0002724,2022-03-11,,B-001,Land Bank of the Philippines,0,-14820.00
+16565,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,Cash in Bank (Peso),PRAR#031136,GL0002788,2022-03-14,,B-001,Land Bank of the Philippines,36000.00,0
+16563,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,Cash in Bank (Peso),PROR#031136,GL0002787,2022-03-14,,B-001,Land Bank of the Philippines,12840.00,0
+16564,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,Unearned Rent Income,PROR#031136,GL0002787,2022-03-14,,B-001,Land Bank of the Philippines,0,-12840.00
+16566,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,Security Deposit Payable,PRAR#031136,GL0002788,2022-03-14,,B-001,Land Bank of the Philippines,0,-36000.00
+16350,ASCT-LT000073,PNB,Payment,Cash in Bank (Peso),PR31208,GL0002729,2022-03-15,,B-001,Land Bank of the Philippines,62236.00,0
+16346,ASCT-LT000066,Aiztea,Payment,Check Receivable - PDC,PR31206,GL0002727,2022-03-15,,B-001,Land Bank of the Philippines,20000.00,0
+16342,ASCT-LT000221,Golden Locket Jewelry Shop,Payment,Cash in Bank (Peso),PR31204,GL0002725,2022-03-15,,B-001,Land Bank of the Philippines,15840.00,0
+16344,ASCT-LT000074,Takoyaki Boss,Payment,Cash in Bank (Peso),PR31205,GL0002726,2022-03-15,,B-001,Land Bank of the Philippines,10000.00,0
+16348,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31207,GL0002728,2022-03-15,,B-001,Land Bank of the Philippines,3830.00,0
+16349,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31207,GL0002728,2022-03-15,,B-001,Land Bank of the Philippines,0,-3830.00
+16345,ASCT-LT000074,Takoyaki Boss,Payment,Unearned Rent Income,PR31205,GL0002726,2022-03-15,,B-001,Land Bank of the Philippines,0,-10000.00
+16343,ASCT-LT000221,Golden Locket Jewelry Shop,Payment,Unearned Rent Income,PR31204,GL0002725,2022-03-15,,B-001,Land Bank of the Philippines,0,-15840.00
+16347,ASCT-LT000066,Aiztea,Payment,Unearned Rent Income-PDC,PR31206,GL0002727,2022-03-15,,B-001,Land Bank of the Philippines,0,-20000.00
+16351,ASCT-LT000073,PNB,Payment,Unearned Rent Income,PR31208,GL0002729,2022-03-15,,B-001,Land Bank of the Philippines,0,-62236.00
+16354,ASCT-LT000036,M Lhuillier,Payment,Cash in Bank (Peso),PR31210,GL0002731,2022-03-16,,B-001,Land Bank of the Philippines,32585.40,0
+16352,ASCT-LT000008,TECHNOCARE,Payment,Cash in Bank (Peso),PR31209,GL0002730,2022-03-16,,B-001,Land Bank of the Philippines,18655.25,0
+16353,ASCT-LT000008,TECHNOCARE,Payment,Unearned Rent Income,PR31209,GL0002730,2022-03-16,,B-001,Land Bank of the Philippines,0,-18655.25
+16355,ASCT-LT000036,M Lhuillier,Payment,Unearned Rent Income,PR31210,GL0002731,2022-03-16,,B-001,Land Bank of the Philippines,0,-32585.40
+16358,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31211,GL0002456,2022-03-17,,B-001,Land Bank of the Philippines,7554.60,0
+16362,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31211,GL0002458,2022-03-17,,B-001,Land Bank of the Philippines,4097.90,0
+16360,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31211,GL0002457,2022-03-17,,B-001,Land Bank of the Philippines,3845.50,0
+16356,ASCT-LT000055,PCSO Lotto,Payment,Cash in Bank (Peso),PR31212,GL0002732,2022-03-17,,B-001,Land Bank of the Philippines,3290.71,0
+16357,ASCT-LT000055,PCSO Lotto,Payment,Unearned Rent Income,PR31212,GL0002732,2022-03-17,,B-001,Land Bank of the Philippines,0,-3290.71
+16361,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31211,GL0002457,2022-03-17,,B-001,Land Bank of the Philippines,0,-3845.50
+16363,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31211,GL0002458,2022-03-17,,B-001,Land Bank of the Philippines,0,-4097.90
+16359,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31211,GL0002456,2022-03-17,,B-001,Land Bank of the Philippines,0,-7554.60
+16364,ASCT-LT000043,K AND K VIBE AND AUZOCA PROPERTIES 01,Payment,Cash in Bank (Peso),PR031213,GL0002733,2022-03-18,,B-001,Land Bank of the Philippines,13200.00,0
+16365,ASCT-LT000043,K AND K VIBE AND AUZOCA PROPERTIES 01,Payment,Unearned Rent Income,PR031213,GL0002733,2022-03-18,,B-001,Land Bank of the Philippines,0,-13200.00
+16366,ASCT-LT000078,Sticker Race Prints and Design,Payment,Cash in Bank (Peso),PR31214,GL0002734,2022-03-20,,B-001,Land Bank of the Philippines,12735.80,0
+16367,ASCT-LT000078,Sticker Race Prints and Design,Payment,Unearned Rent Income,PR31214,GL0002734,2022-03-20,,B-001,Land Bank of the Philippines,0,-12735.80
+16368,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31215,GL0002735,2022-03-22,,B-001,Land Bank of the Philippines,4000.00,0
+16369,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31215,GL0002735,2022-03-22,,B-001,Land Bank of the Philippines,0,-4000.00
+16631,ASCT-LT000238,Robotic Touch Massage Services,Payment,Cash in Bank (Peso),PROR#031148,GL0002800,2022-03-23,,B-001,Land Bank of the Philippines,10700.00,0
+16370,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31216,GL0002458,2022-03-23,,B-001,Land Bank of the Philippines,4462.10,0
+16374,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31216,GL0002460,2022-03-23,,B-001,Land Bank of the Philippines,3621.89,0
+16633,ASCT-LT000238,Robotic Touch Massage Services,Payment,Cash in Bank (Peso),PROR#031148,GL0002801,2022-03-23,,B-001,Land Bank of the Philippines,3058.00,0
+16372,ASCT-LT000046,Potato Corner,Payment,Cash in Bank (Peso),PR31216,GL0002459,2022-03-23,,B-001,Land Bank of the Philippines,1250.00,0
+16373,ASCT-LT000046,Potato Corner,Payment,A/R  Non Trade External,PR31216,GL0002459,2022-03-23,,B-001,Land Bank of the Philippines,0,-1250.00
+16634,ASCT-LT000238,Robotic Touch Massage Services,Payment,A/R  Non Trade External,PROR#031148,GL0002801,2022-03-23,,B-001,Land Bank of the Philippines,0,-3058.00
+16375,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31216,GL0002460,2022-03-23,,B-001,Land Bank of the Philippines,0,-3621.89
+16371,ASCT-LT000046,Potato Corner,Payment,Rent Receivables,PR31216,GL0002458,2022-03-23,,B-001,Land Bank of the Philippines,0,-4462.10
+16632,ASCT-LT000238,Robotic Touch Massage Services,Payment,Rent Receivables,PROR#031148,GL0002800,2022-03-23,,B-001,Land Bank of the Philippines,0,-10700.00
+16376,ASCT-ST000014,Mitsubishi Motors,Payment,Cash in Bank (Peso),PR31217,GL0002683,2022-03-24,,B-001,Land Bank of the Philippines,14973.97,0
+16377,ASCT-ST000014,Mitsubishi Motors,Payment,Rent Receivables,PR31217,GL0002683,2022-03-24,,B-001,Land Bank of the Philippines,0,-14973.97
+16378,ASCT-LT000214,The Buzz Cafe,Payment,Cash in Bank (Peso),PR031218,GL0002736,2022-03-25,,B-001,Land Bank of the Philippines,119038.36,0
+16379,ASCT-LT000214,The Buzz Cafe,Payment,Unearned Rent Income,PR031218,GL0002736,2022-03-25,,B-001,Land Bank of the Philippines,0,-119038.36
+16382,ASCT-LT000038,ASC TECH,Payment,Cash in Bank (Peso),PR31220,GL0002738,2022-03-29,,B-001,Land Bank of the Philippines,29414.60,0
+16380,ASCT-LT000070,Boholanos Lechon House,Payment,Cash in Bank (Peso),PR31219,GL0002737,2022-03-29,,B-001,Land Bank of the Philippines,15000.00,0
+16381,ASCT-LT000070,Boholanos Lechon House,Payment,Unearned Rent Income,PR31219,GL0002737,2022-03-29,,B-001,Land Bank of the Philippines,0,-15000.00
+16383,ASCT-LT000038,ASC TECH,Payment,Unearned Rent Income,PR31220,GL0002738,2022-03-29,,B-001,Land Bank of the Philippines,0,-29414.60
+16637,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Rent Receivables,ASCT-IC0002266,GL0002803,2022-03-31,2022-04-08,,,10700.00,0
+16384,ASCT-LT000013,MASTER SIOMAI,Payment,Cash in Bank (Peso),PR31221,GL0002739,2022-03-31,,B-001,Land Bank of the Philippines,4000.00,0
+16641,ASCT-LT000238,Robotic Touch Massage Services,Invoice,A/R  Non Trade External,ASCT-IC0002267,GL0002804,2022-03-31,2022-04-08,,,3286.00,0
+16575,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,Unearned Rent Income,ASCT-B0001165,GL0002787,2022-03-31,,,,2485.16,0
+16567,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,Rent Receivables,ASCT-IC0002253,GL0002789,2022-03-31,2022-04-08,,,2485.16,0
+16639,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Creditable WHT Receivable,ASCT-IC0002266,GL0002803,2022-03-31,2022-04-08,,,500.00,0
+16577,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,Unearned Rent Income,ASCT-B0001165,GL0002787,2022-03-31,,,,483.87,0
+16571,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,A/R  Non Trade External,ASCT-IC0002254,GL0002790,2022-03-31,2022-04-08,,,483.87,0
+16569,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,Creditable WHT Receivable,ASCT-IC0002253,GL0002789,2022-03-31,2022-04-08,,,116.13,0
+16635,ASCT-LT000238,Robotic Touch Massage Services,Invoice,A/R  Non Trade External,ASCT-IC0002265,GL0002802,2022-03-31,2022-04-08,,,106.51,0
+16574,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,MI-Charges,ASCT-IC0002254,GL0002790,2022-03-31,2022-04-08,,,0,-96.77
+16636,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Penalties,ASCT-IC0002265,GL0002802,2022-03-31,2022-04-08,,,0,-106.51
+16572,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,MI-Aircon Charges,ASCT-IC0002254,GL0002790,2022-03-31,2022-04-08,,,0,-193.55
+16573,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,MI-Common Utilities,ASCT-IC0002254,GL0002790,2022-03-31,2022-04-08,,,0,-193.55
+16568,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,VAT Output,ASCT-IC0002253,GL0002789,2022-03-31,2022-04-08,,,0,-278.71
+16578,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,A/R  Non Trade External,ASCT-B0001165,GL0002790,2022-03-31,,,,0,-483.87
+16644,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Light and Power,ASCT-IC0002267,GL0002804,2022-03-31,2022-04-08,,,0,-486.00
+16645,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Charges,ASCT-IC0002267,GL0002804,2022-03-31,2022-04-08,,,0,-800.00
+16643,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Common Utilities,ASCT-IC0002267,GL0002804,2022-03-31,2022-04-08,,,0,-1000.00
+16642,ASCT-LT000238,Robotic Touch Massage Services,Invoice,MI-Aircon Charges,ASCT-IC0002267,GL0002804,2022-03-31,2022-04-08,,,0,-1000.00
+16638,ASCT-LT000238,Robotic Touch Massage Services,Invoice,VAT Output,ASCT-IC0002266,GL0002803,2022-03-31,2022-04-08,,,0,-1200.00
+16570,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Invoice,Rent Income,ASCT-IC0002253,GL0002789,2022-03-31,2022-04-08,,,0,-2322.58
+16576,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,Payment,Rent Receivables,ASCT-B0001165,GL0002789,2022-03-31,,,,0,-2485.16
+16385,ASCT-LT000013,MASTER SIOMAI,Payment,Unearned Rent Income,PR31221,GL0002739,2022-03-31,,B-001,Land Bank of the Philippines,0,-4000.00
+16640,ASCT-LT000238,Robotic Touch Massage Services,Invoice,Rent Income,ASCT-IC0002266,GL0002803,2022-03-31,2022-04-08,,,0,-10000.00

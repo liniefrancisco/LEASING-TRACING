@@ -1,0 +1,107 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+5314,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0000742,GL0000848,2019-08-31,2019-09-08,,,3548.39,0
+5356,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0000747,GL0000855,2019-08-31,2019-09-08,,,2428.98,0
+5468,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PR030291,GL0000855,2019-09-09,,B-001,Land Bank of the Philippines,0,-2428.98
+5466,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PR030291,GL0000848,2019-09-09,,B-001,Land Bank of the Philippines,0,-3548.39
+5754,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0000807,GL0000919,2019-09-30,2019-10-08,,,5000.00,0
+5758,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0000808,GL0000920,2019-09-30,2019-10-08,,,3683.50,0
+5936,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030334,GL0000920,2019-10-08,,? undefined:undefined ?,? undefined:undefined ?,0,-3683.50
+5934,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030334,GL0000919,2019-10-08,,? undefined:undefined ?,? undefined:undefined ?,0,-5000.00
+6254,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0000872,GL0001005,2019-10-31,2019-11-08,,,5000.00,0
+6258,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0000873,GL0001006,2019-10-31,2019-11-08,,,3603.00,0
+8202,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030449,GL0001006,2019-11-11,,B-001,Land Bank of the Philippines,0,-3603.00
+8200,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030449,GL0001005,2019-11-11,,B-001,Land Bank of the Philippines,0,-5000.00
+6806,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0000929,GL0001080,2019-11-30,2019-12-08,,,5000.00,0
+6810,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0000930,GL0001081,2019-11-30,2019-12-08,,,3660.50,0
+6841,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-B0000538,GL0001085,2019-11-30,2019-11-08,,,172.06,0
+7095,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030416,GL0001081,2019-12-10,,B-001,Land Bank of the Philippines,0,-3660.50
+7093,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030416,GL0001080,2019-12-10,,B-001,Land Bank of the Philippines,0,-5000.00
+7202,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0000967,GL0001136,2019-12-31,2020-01-08,,,5000.00,0
+7206,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0000968,GL0001137,2019-12-31,2020-01-08,,,3603.00,0
+7209,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-B0000556,GL0001138,2019-12-31,2019-11-08,,,263.25,0
+7627,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030428,GL0001137,2020-01-08,,B-001,Land Bank of the Philippines,0,-3603.00
+7625,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030428,GL0001136,2020-01-08,,B-001,Land Bank of the Philippines,0,-5000.00
+7894,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001079,GL0001254,2020-01-31,2020-02-08,,,5000.00,0
+7898,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001080,GL0001255,2020-01-31,2020-02-08,,,3557.00,0
+8009,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-B0000614,GL0001284,2020-01-31,2019-11-08,,,271.15,0
+8206,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030449,GL0001255,2020-02-07,,B-001,Land Bank of the Philippines,0,-3557.00
+8204,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030449,GL0001254,2020-02-07,,B-001,Land Bank of the Philippines,0,-5000.00
+8476,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001156,GL0001350,2020-02-29,2020-03-08,,,5000.00,0
+8480,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001157,GL0001351,2020-02-29,2020-03-08,,,3626.00,0
+8960,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001236,GL0001439,2020-03-31,2020-04-08,,,3683.50,0
+8956,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001235,GL0001438,2020-03-31,2020-04-08,,,2500.00,0
+9574,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001340,GL0001552,2020-05-31,2020-06-08,,,3212.00,0
+9570,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001339,GL0001551,2020-05-31,2020-06-08,,,2500.00,0
+10124,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001412,GL0001630,2020-06-30,2020-07-08,,,4488.50,0
+10120,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001411,GL0001629,2020-06-30,2020-07-08,,,2500.00,0
+10118,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001410,GL0001628,2020-06-30,2020-07-08,,,388.79,0
+9966,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#005027,GL0001085,2020-07-13,,B-001,Land Bank of the Philippines,0,-172.06
+9968,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#005027,GL0001138,2020-07-13,,B-001,Land Bank of the Philippines,0,-263.25
+9970,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#005027,GL0001284,2020-07-13,,B-001,Land Bank of the Philippines,0,-271.15
+9976,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR#005027,GL0001438,2020-07-13,,B-001,Land Bank of the Philippines,0,-2500.00
+9980,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR#005027,GL0001551,2020-07-13,,B-001,Land Bank of the Philippines,0,-2500.00
+9982,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#005027,GL0001552,2020-07-13,,B-001,Land Bank of the Philippines,0,-2764.32
+9974,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#005027,GL0001351,2020-07-13,,B-001,Land Bank of the Philippines,0,-3626.00
+9978,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#005027,GL0001439,2020-07-13,,B-001,Land Bank of the Philippines,0,-3683.50
+9972,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR#005027,GL0001350,2020-07-13,,B-001,Land Bank of the Philippines,0,-5000.00
+10577,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001490,GL0001721,2020-07-31,2020-08-15,,,3729.50,0
+10573,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001489,GL0001720,2020-07-31,2020-08-15,,,2500.00,0
+11009,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001551,GL0001789,2020-08-31,2020-09-15,,,5000.00,0
+11013,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001552,GL0001790,2020-08-31,2020-09-15,,,3718.00,0
+11431,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001617,GL0001860,2020-09-30,2020-10-15,,,5000.00,0
+11435,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001618,GL0001861,2020-09-30,2020-10-15,,,3683.50,0
+11624,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR#030613,GL0001629,2020-10-05,,B-001,Land Bank of the Philippines,0,-2500.00
+11628,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR#030613,GL0001720,2020-10-05,,B-001,Land Bank of the Philippines,0,-2500.00
+11634,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#030613,GL0001790,2020-10-05,,B-001,Land Bank of the Philippines,0,-3718.00
+11630,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#030613,GL0001721,2020-10-05,,B-001,Land Bank of the Philippines,0,-3729.50
+11626,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR#030613,GL0001630,2020-10-05,,B-001,Land Bank of the Philippines,0,-4488.50
+11632,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR#030613,GL0001789,2020-10-05,,B-001,Land Bank of the Philippines,0,-5000.00
+11873,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001687,GL0001932,2020-10-31,2020-11-15,,,5000.00,0
+11877,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001688,GL0001933,2020-10-31,2020-11-15,,,3718.00,0
+11871,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001686,GL0001931,2020-10-31,2020-11-15,,,226.44,0
+12274,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001743,GL0001991,2020-11-30,2020-12-15,,,5000.00,0
+12278,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001744,GL0001992,2020-11-30,2020-12-15,,,3764.00,0
+12622,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0001801,GL0002051,2020-12-31,2021-01-15,,,5000.00,0
+12626,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0001802,GL0002052,2020-12-31,2021-01-15,,,3798.50,0
+15421,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030759,GL0001861,2021-01-27,,B-001,Land Bank of the Philippines,0,-3683.50
+15425,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030759,GL0001933,2021-01-27,,B-001,Land Bank of the Philippines,0,-3718.00
+15429,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030759,GL0001992,2021-01-27,,B-001,Land Bank of the Philippines,0,-3764.00
+15433,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030759,GL0002052,2021-01-27,,B-001,Land Bank of the Philippines,0,-3798.50
+15419,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030759,GL0001860,2021-01-27,,B-001,Land Bank of the Philippines,0,-5000.00
+15423,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030759,GL0001932,2021-01-27,,B-001,Land Bank of the Philippines,0,-5000.00
+15427,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030759,GL0001991,2021-01-27,,B-001,Land Bank of the Philippines,0,-5000.00
+15431,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030759,GL0002051,2021-01-27,,B-001,Land Bank of the Philippines,0,-5000.00
+15436,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002144,GL0002524,2021-01-31,2021-02-08,,,5000.00,0
+15440,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002145,GL0002525,2021-01-31,2021-02-08,,,3419.82,0
+15434,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002143,GL0002523,2021-01-31,2021-02-08,,,338.36,0
+15443,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002146,GL0002526,2021-02-28,2021-03-08,,,5000.00,0
+15447,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002147,GL0002527,2021-02-28,2021-03-08,,,3844.50,0
+15450,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002148,GL0002528,2021-03-31,2021-04-08,,,5000.00,0
+15454,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002149,GL0002529,2021-03-31,2021-04-08,,,3867.50,0
+15458,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030797,GL0001552,2021-04-12,,B-001,Land Bank of the Philippines,0,-447.68
+15462,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030797,GL0002525,2021-04-12,,B-001,Land Bank of the Philippines,0,-3419.82
+15466,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030797,GL0002527,2021-04-12,,B-001,Land Bank of the Philippines,0,-3844.50
+15470,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030797,GL0002529,2021-04-12,,B-001,Land Bank of the Philippines,0,-3867.50
+15460,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030797,GL0002524,2021-04-12,,B-001,Land Bank of the Philippines,0,-5000.00
+15464,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030797,GL0002526,2021-04-12,,B-001,Land Bank of the Philippines,0,-5000.00
+15468,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030797,GL0002528,2021-04-12,,B-001,Land Bank of the Philippines,0,-5000.00
+15473,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002151,GL0002531,2021-04-30,2021-05-08,,,5000.00,0
+15477,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002152,GL0002532,2021-04-30,2021-05-08,,,4298.50,0
+15471,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002150,GL0002530,2021-04-30,2021-05-08,,,35.44,0
+15481,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002153,GL0002533,2021-05-31,2021-06-08,,,5000.00,0
+15485,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002154,GL0002534,2021-05-31,2021-06-08,,,4448.00,0
+15489,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002155,GL0002535,2021-06-30,2021-07-08,,,5000.00,0
+15493,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002156,GL0002536,2021-06-30,2021-07-08,,,4310.00,0
+15497,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002157,GL0002537,2021-07-31,2021-08-08,,,5000.00,0
+15501,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002158,GL0002538,2021-07-31,2021-08-08,,,4321.50,0
+15523,ASCT-LT000061,A and A Cafeteria,Invoice,Rent Receivables,ASCT-IC0002160,GL0002540,2021-08-31,2021-09-08,,,5000.00,0
+15527,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002161,GL0002541,2021-08-31,2021-09-08,,,4344.50,0
+15521,ASCT-LT000061,A and A Cafeteria,Invoice,A/R  Non Trade External,ASCT-IC0002159,GL0002539,2021-08-31,2021-09-08,,,434.07,0
+15508,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030965,GL0002532,2021-08-31,,B-001,Land Bank of the Philippines,0,-4298.50
+15516,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030965,GL0002536,2021-08-31,,B-001,Land Bank of the Philippines,0,-4310.00
+15520,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030965,GL0002538,2021-08-31,,B-001,Land Bank of the Philippines,0,-4321.50
+15512,ASCT-LT000061,A and A Cafeteria,Payment,A/R  Non Trade External,PROR# 030965,GL0002534,2021-08-31,,B-001,Land Bank of the Philippines,0,-4448.00
+15506,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030965,GL0002531,2021-08-31,,B-001,Land Bank of the Philippines,0,-5000.00
+15510,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030965,GL0002533,2021-08-31,,B-001,Land Bank of the Philippines,0,-5000.00
+15514,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030965,GL0002535,2021-08-31,,B-001,Land Bank of the Philippines,0,-5000.00
+15518,ASCT-LT000061,A and A Cafeteria,Payment,Rent Receivables,PROR# 030965,GL0002537,2021-08-31,,B-001,Land Bank of the Philippines,0,-5000.00

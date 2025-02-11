@@ -1,0 +1,14 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+12856,ASCT-LT000210,Toyota Bohol,Invoice,Rent Receivables,ASCT-IC0001815,GL0002078,2021-02-28,2021-03-08,,,14445.00,0
+12925,ASCT-LT000210,Toyota Bohol,Payment,Rent Receivables,PR30733,GL0002078,2021-03-17,,B-001,Land Bank of the Philippines,0,-14445.00
+12952,ASCT-LT000210,Toyota Bohol,Invoice,Rent Receivables,ASCT-IC0001820,GL0002101,2021-03-31,2021-04-08,,,19260.00,0
+13296,ASCT-LT000210,Toyota Bohol,Invoice,Rent Receivables,ASCT-IC0001873,GL0002156,2021-03-31,2021-04-08,,,19260.00,0
+13365,ASCT-LT000210,Toyota Bohol,Payment,Rent Receivables,PR30811,GL0002101,2021-04-27,,B-001,Land Bank of the Philippines,0,-19260.00
+13380,ASCT-LT000210,Toyota Bohol,Invoice,Rent Receivables,ASCT-IC0001874,GL0002170,2021-04-30,2021-05-08,,,19260.00,0
+13384,ASCT-LT000210,Toyota Bohol,Invoice,A/R  Non Trade External,ASCT-IC0001875,GL0002171,2021-04-30,2021-05-08,,,300.00,0
+13984,ASCT-LT000210,Toyota Bohol,Payment,Rent Receivables,PR30834,GL0002156,2021-05-24,,B-001,Land Bank of the Philippines,0,-19260.00
+13995,ASCT-LT000210,Toyota Bohol,Invoice,Rent Receivables,ASCT-IC0001963,GL0002273,2021-05-31,2021-06-08,,,19260.00,0
+14086,ASCT-LT000210,Toyota Bohol,Payment,Rent Receivables,PR30913,GL0002170,2021-07-02,,B-001,Land Bank of the Philippines,0,-19260.00
+14150,ASCT-LT000210,Toyota Bohol,Payment,A/R  Non Trade External,PR030934,GL0002171,2021-07-28,,B-001,Land Bank of the Philippines,0,-300.00
+14152,ASCT-LT000210,Toyota Bohol,Payment,Rent Receivables,PR030934,GL0002273,2021-07-28,,B-001,Land Bank of the Philippines,0,-18960.00
+14317,ASCT-LT000210,Toyota Bohol,Payment,Rent Receivables,PR30950,GL0002273,2021-08-17,,B-001,Land Bank of the Philippines,0,-300.00

@@ -1,0 +1,72 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+7455,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001018,GL0001190,2019-12-31,2020-01-08,,,12011.62,0
+7459,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001019,GL0001191,2019-12-31,2020-01-08,,,4140.45,0
+7598,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR030460,GL0001191,2020-01-13,,B-001,Land Bank of the Philippines,0,-4140.45
+7596,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR030460,GL0001190,2020-01-13,,B-001,Land Bank of the Philippines,0,-12011.62
+8040,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001104,GL0001292,2020-01-31,2020-02-08,,,12840.00,0
+7983,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001099,GL0001277,2020-01-31,2020-02-08,,,5277.00,0
+7977,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001097,GL0001275,2020-01-31,2020-02-08,,,31.26,0
+8538,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001170,GL0001366,2020-02-29,2020-03-08,,,12840.00,0
+8542,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001171,GL0001367,2020-02-29,2020-03-08,,,4979.00,0
+8548,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-B0000660,GL0001368,2020-02-29,2020-02-08,,,918.31,0
+9027,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001253,GL0001455,2020-03-31,2020-04-08,,,6420.00,0
+9031,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001254,GL0001456,2020-03-31,2020-04-08,,,3187.50,0
+9614,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001349,GL0001561,2020-05-31,2020-06-08,,,6420.00,0
+9618,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001350,GL0001562,2020-05-31,2020-06-08,,,2500.00,0
+9360,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30504,GL0001275,2020-06-19,,B-001,Land Bank of the Philippines,0,-31.26
+9362,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30504,GL0001368,2020-06-19,,B-001,Land Bank of the Philippines,0,-918.31
+9364,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30504,GL0001277,2020-06-19,,B-001,Land Bank of the Philippines,0,-5277.00
+9366,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30504,GL0001292,2020-06-19,,B-001,Land Bank of the Philippines,0,-12840.00
+10200,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001427,GL0001651,2020-06-30,2020-07-08,,,6420.00,0
+10204,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001428,GL0001652,2020-06-30,2020-07-08,,,3300.00,0
+10617,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001499,GL0001730,2020-07-31,2020-08-15,,,6420.00,0
+10621,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001500,GL0001731,2020-07-31,2020-08-15,,,3003.50,0
+10635,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30533,GL0001455,2020-08-08,,B-001,Land Bank of the Philippines,0,-534.57
+10633,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30533,GL0001367,2020-08-08,,B-001,Land Bank of the Philippines,0,-4979.00
+10631,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30533,GL0001366,2020-08-08,,B-001,Land Bank of the Philippines,0,-12840.00
+10982,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001545,GL0001783,2020-08-31,2020-09-15,,,6420.00,0
+10986,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001546,GL0001784,2020-08-31,2020-09-15,,,4288.00,0
+11474,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001627,GL0001870,2020-09-30,2020-10-15,,,6420.00,0
+11478,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001628,GL0001871,2020-09-30,2020-10-15,,,4058.00,0
+11908,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001695,GL0001940,2020-10-31,2020-11-15,,,6420.00,0
+11912,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001696,GL0001941,2020-10-31,2020-11-15,,,4230.50,0
+11610,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30587,GL0001561,2020-11-03,,B-001,Land Bank of the Philippines,0,-535.07
+11608,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30587,GL0001456,2020-11-03,,B-001,Land Bank of the Philippines,0,-3187.50
+11606,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30587,GL0001455,2020-11-03,,B-001,Land Bank of the Philippines,0,-5885.43
+12308,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001751,GL0001999,2020-11-30,2020-12-15,,,6420.00,0
+12320,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001752,GL0002000,2020-11-30,2020-12-15,,,4414.50,0
+12660,ASCT-LT000072,Lugaw Bisdak,Invoice,Rent Receivables,ASCT-IC0001809,GL0002059,2020-12-31,2021-01-15,,,6420.00,0
+12664,ASCT-LT000072,Lugaw Bisdak,Invoice,A/R  Non Trade External,ASCT-IC0001810,GL0002060,2020-12-31,2021-01-15,,,4552.50,0
+13307,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30722,GL0001562,2021-03-04,,B-001,Land Bank of the Philippines,0,-2500.00
+13309,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30722,GL0001651,2021-03-04,,B-001,Land Bank of the Philippines,0,-3035.07
+13305,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30722,GL0001561,2021-03-04,,B-001,Land Bank of the Philippines,0,-3384.93
+12951,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30739,GL0001561,2021-03-29,,B-001,Land Bank of the Philippines,0,-2500.00
+13379,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30815,GL0001651,2021-04-29,,B-001,Land Bank of the Philippines,0,-2000.00
+13742,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30828,GL0001651,2021-05-17,,B-001,Land Bank of the Philippines,0,-270.00
+13744,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR030827,GL0001651,2021-05-17,,B-001,Land Bank of the Philippines,0,-1114.93
+13746,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR030827,GL0001652,2021-05-17,,B-001,Land Bank of the Philippines,0,-1115.07
+14044,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30848,GL0001730,2021-06-10,,B-001,Land Bank of the Philippines,0,-535.07
+14048,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30849,GL0001731,2021-06-10,,B-001,Land Bank of the Philippines,0,-1115.07
+14042,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30848,GL0001652,2021-06-10,,B-001,Land Bank of the Philippines,0,-2184.93
+14046,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30849,GL0001730,2021-06-10,,B-001,Land Bank of the Philippines,0,-5884.93
+14076,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30908,GL0001783,2021-06-21,,B-001,Land Bank of the Philippines,0,-535.07
+14074,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR30908,GL0001731,2021-06-21,,B-001,Land Bank of the Philippines,0,-1888.43
+14080,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30910,GL0001783,2021-06-26,,B-001,Land Bank of the Philippines,0,-2200.00
+14118,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR30924,GL0001783,2021-07-12,,B-001,Land Bank of the Philippines,0,-3500.00
+15095,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31009,GL0001783,2021-08-26,,B-001,Land Bank of the Philippines,0,-184.93
+15097,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR31009,GL0001784,2021-08-26,,B-001,Land Bank of the Philippines,0,-3815.07
+15616,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR31016,GL0001784,2021-09-10,,B-001,Land Bank of the Philippines,0,-472.93
+15618,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31016,GL0001870,2021-09-10,,B-001,Land Bank of the Philippines,0,-535.07
+15633,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31017,GL0001870,2021-09-10,,B-001,Land Bank of the Philippines,0,-1500.00
+15783,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31032,GL0001870,2021-09-25,,B-001,Land Bank of the Philippines,0,-3500.00
+15839,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31048,GL0001870,2021-10-14,,B-001,Land Bank of the Philippines,0,-884.93
+15841,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR31048,GL0001871,2021-10-14,,B-001,Land Bank of the Philippines,0,-3615.07
+15873,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR31060,GL0001871,2021-11-02,,B-001,Land Bank of the Philippines,0,-442.93
+15875,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31060,GL0001940,2021-11-02,,B-001,Land Bank of the Philippines,0,-535.07
+15877,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31061,GL0001940,2021-11-02,,B-001,Land Bank of the Philippines,0,-4000.00
+16095,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31076,GL0001999,2021-11-21,,B-001,Land Bank of the Philippines,0,-535.07
+16091,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31076,GL0001940,2021-11-21,,B-001,Land Bank of the Philippines,0,-1884.93
+16093,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR31076,GL0001941,2021-11-21,,B-001,Land Bank of the Philippines,0,-4230.50
+16163,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31088,GL0001999,2021-12-02,,B-001,Land Bank of the Philippines,0,-4000.00
+16173,ASCT-LT000072,Lugaw Bisdak,Payment,Rent Receivables,PR31094,GL0001999,2021-12-09,,B-001,Land Bank of the Philippines,0,-1884.93
+16175,ASCT-LT000072,Lugaw Bisdak,Payment,A/R  Non Trade External,PR31094,GL0002000,2021-12-09,,B-001,Land Bank of the Philippines,0,-2115.07

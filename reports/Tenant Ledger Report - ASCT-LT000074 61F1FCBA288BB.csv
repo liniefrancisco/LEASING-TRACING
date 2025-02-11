@@ -1,0 +1,25 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+7482,ASCT-LT000074,Takoyaki Boss,Payment,A/R  Non Trade External,PRAR# 110993,GL0001193,2019-12-18,,B-001,Land Bank of the Philippines,0,-806.45
+7480,ASCT-LT000074,Takoyaki Boss,Payment,Rent Receivables,PRAR# 110993,GL0001192,2019-12-18,,B-001,Land Bank of the Philippines,0,-4141.94
+7464,ASCT-LT000074,Takoyaki Boss,Invoice,Rent Receivables,ASCT-IC0001020,GL0001192,2019-12-31,2020-01-08,,,4141.94,0
+7468,ASCT-LT000074,Takoyaki Boss,Invoice,A/R  Non Trade External,ASCT-IC0001021,GL0001193,2019-12-31,2020-01-08,,,806.45,0
+7988,ASCT-LT000074,Takoyaki Boss,Invoice,Rent Receivables,ASCT-IC0001100,GL0001278,2020-01-31,2020-02-08,,,12840.00,0
+7992,ASCT-LT000074,Takoyaki Boss,Invoice,A/R  Non Trade External,ASCT-IC0001101,GL0001279,2020-01-31,2020-02-08,,,5605.00,0
+8020,ASCT-LT000074,Takoyaki Boss,Payment,Rent Receivables,ASCT-B0000620,GL0001278,2020-01-31,,,,0,-7891.61
+8158,ASCT-LT000074,Takoyaki Boss,Payment,Rent Receivables,PR030479,GL0001278,2020-02-17,,B-001,Land Bank of the Philippines,0,-4948.39
+8160,ASCT-LT000074,Takoyaki Boss,Payment,A/R  Non Trade External,PR030479,GL0001279,2020-02-17,,B-001,Land Bank of the Philippines,0,-5605.00
+8552,ASCT-LT000074,Takoyaki Boss,Invoice,Rent Receivables,ASCT-IC0001173,GL0001370,2020-02-29,2020-03-08,,,12840.00,0
+8556,ASCT-LT000074,Takoyaki Boss,Invoice,A/R  Non Trade External,ASCT-IC0001174,GL0001371,2020-02-29,2020-03-08,,,4177.85,0
+8550,ASCT-LT000074,Takoyaki Boss,Invoice,A/R  Non Trade External,ASCT-IC0001172,GL0001369,2020-02-29,2020-03-08,,,43.67,0
+9036,ASCT-LT000074,Takoyaki Boss,Invoice,Rent Receivables,ASCT-IC0001255,GL0001457,2020-03-31,2020-04-08,,,6420.00,0
+9040,ASCT-LT000074,Takoyaki Boss,Invoice,A/R  Non Trade External,ASCT-IC0001256,GL0001458,2020-03-31,2020-04-08,,,2863.90,0
+11483,ASCT-LT000074,Takoyaki Boss,Invoice,Rent Receivables,ASCT-IC0001629,GL0001872,2020-09-30,2020-10-15,,,3210.00,0
+11487,ASCT-LT000074,Takoyaki Boss,Invoice,A/R  Non Trade External,ASCT-IC0001630,GL0001873,2020-09-30,2020-10-15,,,1250.00,0
+12909,ASCT-LT000074,Takoyaki Boss,Payment,A/R  Non Trade External,PR30728,GL0001369,2021-03-11,,B-001,Land Bank of the Philippines,0,-43.67
+12915,ASCT-LT000074,Takoyaki Boss,Payment,Rent Receivables,PR30728,GL0001457,2021-03-11,,B-001,Land Bank of the Philippines,0,-2938.48
+12913,ASCT-LT000074,Takoyaki Boss,Payment,A/R  Non Trade External,PR30728,GL0001371,2021-03-11,,B-001,Land Bank of the Philippines,0,-4177.85
+12911,ASCT-LT000074,Takoyaki Boss,Payment,Rent Receivables,PR30728,GL0001370,2021-03-11,,B-001,Land Bank of the Philippines,0,-12840.00
+13319,ASCT-LT000074,Takoyaki Boss,Payment,A/R  Non Trade External,PR30746,GL0001873,2021-04-10,,B-001,Land Bank of the Philippines,0,-1250.00
+13315,ASCT-LT000074,Takoyaki Boss,Payment,A/R  Non Trade External,PR30746,GL0001458,2021-04-10,,B-001,Land Bank of the Philippines,0,-2863.90
+13317,ASCT-LT000074,Takoyaki Boss,Payment,Rent Receivables,PR30746,GL0001872,2021-04-10,,B-001,Land Bank of the Philippines,0,-3210.00
+13313,ASCT-LT000074,Takoyaki Boss,Payment,Rent Receivables,PR30746,GL0001457,2021-04-10,,B-001,Land Bank of the Philippines,0,-3481.52

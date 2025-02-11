@@ -1,0 +1,90 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+4885,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0000667,GL0000762,2019-07-31,2019-08-08,,,5798.70,0
+4889,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0000668,GL0000763,2019-07-31,2019-08-08,,,4368.43,0
+4902,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,ASCT-B0000382,GL0000763,2019-07-31,,,,0,-4368.43
+4900,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,ASCT-B0000382,GL0000762,2019-07-31,,,,0,-5798.70
+5246,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0000729,GL0000835,2019-08-31,2019-09-08,,,15844.60,0
+5242,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0000728,GL0000834,2019-08-31,2019-09-08,,,12840.00,0
+5252,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,ASCT-B0000409,GL0000834,2019-08-31,,,,0,-2672.87
+5415,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030283,GL0000834,2019-09-04,,B-001,Land Bank of the Philippines,0,-10167.13
+5417,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030283,GL0000835,2019-09-04,,B-001,Land Bank of the Philippines,0,-15844.60
+5740,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0000804,GL0000916,2019-09-30,2019-10-08,,,15039.60,0
+5736,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0000803,GL0000915,2019-09-30,2019-10-08,,,12840.00,0
+5888,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030299,GL0000915,2019-10-05,,B-001,Land Bank of the Philippines,0,-12840.00
+5890,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030299,GL0000916,2019-10-05,,B-001,Land Bank of the Philippines,0,-15039.60
+6231,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0000867,GL0000999,2019-10-31,2019-11-08,,,12840.00,0
+6235,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0000868,GL0001000,2019-10-31,2019-11-08,,,12449.80,0
+6491,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030369,GL0001000,2019-11-07,,B-001,Land Bank of the Philippines,0,-12449.80
+6489,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030369,GL0000999,2019-11-07,,B-001,Land Bank of the Philippines,0,-12840.00
+6792,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0000926,GL0001077,2019-11-30,2019-12-08,,,13021.35,0
+6788,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0000925,GL0001076,2019-11-30,2019-12-08,,,12840.00,0
+7026,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030385,GL0001076,2019-12-07,,B-001,Land Bank of the Philippines,0,-12840.00
+7028,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030385,GL0001077,2019-12-07,,B-001,Land Bank of the Philippines,0,-13021.35
+7220,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0000971,GL0001141,2019-12-31,2020-01-08,,,12840.00,0
+7224,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0000972,GL0001142,2019-12-31,2020-01-08,,,12797.10,0
+7560,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030451,GL0001142,2020-01-07,,B-001,Land Bank of the Philippines,0,-12797.10
+7558,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030451,GL0001141,2020-01-07,,B-001,Land Bank of the Philippines,0,-12840.00
+7880,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001076,GL0001251,2020-01-31,2020-02-08,,,13610.15,0
+7876,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001075,GL0001250,2020-01-31,2020-02-08,,,12840.00,0
+8146,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030476,GL0001250,2020-02-08,,B-001,Land Bank of the Philippines,0,-12840.00
+8148,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030476,GL0001251,2020-02-08,,B-001,Land Bank of the Philippines,0,-13610.15
+8458,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001152,GL0001346,2020-02-29,2020-03-08,,,12840.00,0
+8462,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001153,GL0001347,2020-02-29,2020-03-08,,,12032.35,0
+8712,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030494,GL0001347,2020-03-08,,B-001,Land Bank of the Philippines,0,-12032.35
+8710,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030494,GL0001346,2020-03-08,,B-001,Land Bank of the Philippines,0,-12840.00
+8942,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001232,GL0001435,2020-03-31,2020-04-08,,,11087.55,0
+8938,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001231,GL0001434,2020-03-31,2020-04-08,,,6420.00,0
+9900,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030520,GL0001434,2020-07-16,,B-001,Land Bank of the Philippines,0,-6420.00
+9902,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030520,GL0001435,2020-07-16,,B-001,Land Bank of the Philippines,0,-11087.55
+10564,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001487,GL0001718,2020-07-31,2020-08-15,,,6420.00,0
+10568,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001488,GL0001719,2020-07-31,2020-08-15,,,5594.90,0
+10691,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR30546,GL0001719,2020-08-24,,B-001,Land Bank of the Philippines,0,-5594.90
+10689,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR30546,GL0001718,2020-08-24,,B-001,Land Bank of the Philippines,0,-6420.00
+10947,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001538,GL0001776,2020-08-31,2020-09-15,,,10928.35,0
+10943,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001537,GL0001775,2020-08-31,2020-09-15,,,6420.00,0
+11417,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001614,GL0001857,2020-09-30,2020-10-15,,,7948.70,0
+11413,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001613,GL0001856,2020-09-30,2020-10-15,,,6420.00,0
+11555,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR030576,GL0001775,2020-10-24,,B-001,Land Bank of the Philippines,0,-6420.00
+11557,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR030576,GL0001776,2020-10-24,,B-001,Land Bank of the Philippines,0,-10928.35
+11853,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001682,GL0001927,2020-10-31,2020-11-15,,,8560.00,0
+11857,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001683,GL0001928,2020-10-31,2020-11-15,,,8470.80,0
+12260,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001740,GL0001988,2020-11-30,2020-12-15,,,10038.25,0
+12256,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001739,GL0001987,2020-11-30,2020-12-15,,,8560.00,0
+12608,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0001798,GL0002048,2020-12-31,2021-01-15,,,10463.75,0
+12604,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0001797,GL0002047,2020-12-31,2021-01-15,,,8560.00,0
+12670,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR30680,GL0001856,2021-01-16,,B-001,Land Bank of the Philippines,0,-6420.00
+12672,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR30680,GL0001857,2021-01-16,,B-001,Land Bank of the Philippines,0,-7948.70
+15230,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0002116,GL0002495,2021-01-31,2021-02-08,,,10199.25,0
+15226,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0002115,GL0002494,2021-01-31,2021-02-08,,,6420.00,0
+15236,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,ASCT-B0001098,GL0002494,2021-01-31,,,,0,-6420.00
+15238,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,ASCT-B0001098,GL0002495,2021-01-31,,,,0,-10199.25
+12843,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR30716,GL0001928,2021-02-23,,B-001,Land Bank of the Philippines,0,-8470.80
+12841,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR30716,GL0001927,2021-02-23,,B-001,Land Bank of the Philippines,0,-8560.00
+12845,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR30717,GL0001987,2021-02-23,,B-001,Land Bank of the Philippines,0,-8560.00
+12847,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR30717,GL0001988,2021-02-23,,B-001,Land Bank of the Philippines,0,-10038.25
+15243,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0002118,GL0002497,2021-02-28,2021-03-08,,,8444.35,0
+15239,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0002117,GL0002496,2021-02-28,2021-03-08,,,6420.00,0
+15249,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,ASCT-B0001099,GL0002496,2021-02-28,,,,0,-6420.00
+15251,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,ASCT-B0001099,GL0002497,2021-02-28,,,,0,-8444.35
+15256,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0002120,GL0002499,2021-03-31,2021-04-08,,,9012.30,0
+15252,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0002119,GL0002498,2021-03-31,2021-04-08,,,6420.00,0
+15263,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,ASCT-B0001100,GL0002498,2021-03-31,,,,0,-6420.00
+15265,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,ASCT-B0001100,GL0002499,2021-03-31,,,,0,-9012.30
+13367,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR30812,GL0002047,2021-04-27,,B-001,Land Bank of the Philippines,0,-8560.00
+13369,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR30812,GL0002048,2021-04-27,,B-001,Land Bank of the Philippines,0,-10463.75
+15270,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0002122,GL0002501,2021-04-30,2021-05-08,,,8112.00,0
+15266,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0002121,GL0002500,2021-04-30,2021-05-08,,,6420.00,0
+15276,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,ASCT-B0001101,GL0002500,2021-04-30,,,,0,-6420.00
+15278,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,ASCT-B0001101,GL0002501,2021-04-30,,,,0,-8112.00
+15283,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0002124,GL0002503,2021-05-31,2021-06-08,,,10024.45,0
+15279,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0002123,GL0002502,2021-05-31,2021-06-08,,,6420.00,0
+15289,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,ASCT-B0001102,GL0002502,2021-05-31,,,,0,-6420.00
+15291,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,ASCT-B0001102,GL0002503,2021-05-31,,,,0,-10024.45
+15296,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0002126,GL0002505,2021-06-30,2021-07-08,,,8374.20,0
+15292,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0002125,GL0002504,2021-06-30,2021-07-08,,,6420.00,0
+15305,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,A/R  Non Trade External,ASCT-IC0002128,GL0002507,2021-07-31,2021-08-08,,,8811.20,0
+15301,ASCT-LT000057,Santinos Italian Pizza Slices,Invoice,Rent Receivables,ASCT-IC0002127,GL0002506,2021-07-31,2021-08-08,,,8560.00,0
+15819,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR31040,GL0002504,2021-10-08,,B-001,Land Bank of the Philippines,0,-6420.00
+15821,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR31040,GL0002505,2021-10-08,,B-001,Land Bank of the Philippines,0,-8374.20
+16141,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,Rent Receivables,PR31084,GL0002506,2021-11-29,,B-001,Land Bank of the Philippines,0,-8560.00
+16143,ASCT-LT000057,Santinos Italian Pizza Slices,Payment,A/R  Non Trade External,PR31084,GL0002507,2021-11-29,,B-001,Land Bank of the Philippines,0,-8811.20

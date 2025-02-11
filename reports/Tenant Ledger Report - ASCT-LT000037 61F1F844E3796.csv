@@ -1,0 +1,147 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+1497,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000222,GL0000256,2018-11-30,2018-12-08,,,31064.52,0
+1501,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000223,GL0000257,2018-11-30,2018-12-08,,,3024.74,0
+1288,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000185,GL0000212,2018-11-30,2018-12-08,,,200.00,0
+1451,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000216,GL0000249,2018-11-30,2018-12-08,,,200.00,0
+1507,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,ASCT-B0000129,GL0000212,2018-11-30,,,,0,-200.00
+1509,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,ASCT-B0000129,GL0000256,2018-11-30,,,,0,-21200.00
+1572,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030029,GL0000249,2018-12-07,,B-001,Land Bank of the Philippines,0,-200.00
+1576,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030029,GL0000257,2018-12-07,,B-001,Land Bank of the Philippines,0,-3024.74
+1574,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030029,GL0000256,2018-12-07,,B-001,Land Bank of the Philippines,0,-9864.52
+1807,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000255,GL0000298,2018-12-31,2019-01-08,,,21400.00,0
+1811,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000256,GL0000299,2018-12-31,2019-01-08,,,2343.50,0
+1937,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030042,GL0000299,2019-01-08,,B-001,Land Bank of the Philippines,0,-2343.50
+1935,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030042,GL0000298,2019-01-08,,B-001,Land Bank of the Philippines,0,-21400.00
+2097,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000300,GL0000342,2019-01-31,2019-02-08,,,21400.00,0
+2101,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000301,GL0000343,2019-01-31,2019-02-08,,,2550.50,0
+2231,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030046,GL0000343,2019-02-06,,B-001,Land Bank of the Philippines,0,-2550.50
+2229,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030046,GL0000342,2019-02-06,,B-001,Land Bank of the Philippines,0,-21400.00
+2519,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000357,GL0000414,2019-02-28,2019-03-08,,,21400.00,0
+2523,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000358,GL0000415,2019-02-28,2019-03-08,,,2516.00,0
+2676,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030158,GL0000415,2019-03-08,,B-001,Land Bank of the Philippines,0,-2516.00
+2674,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030158,GL0000414,2019-03-08,,B-001,Land Bank of the Philippines,0,-21400.00
+2851,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000400,GL0000462,2019-03-31,2019-04-08,,,21400.00,0
+2855,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000401,GL0000463,2019-03-31,2019-04-08,,,2941.50,0
+3195,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030167,GL0000463,2019-04-06,,B-001,Land Bank of the Philippines,0,-2941.50
+3193,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030167,GL0000462,2019-04-06,,B-001,Land Bank of the Philippines,0,-21400.00
+3391,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000461,GL0000528,2019-04-30,2019-05-08,,,21400.00,0
+3395,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000462,GL0000529,2019-04-30,2019-05-08,,,2401.00,0
+3715,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030174,GL0000529,2019-05-03,,B-001,Land Bank of the Philippines,0,-2401.00
+3713,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030174,GL0000528,2019-05-03,,B-001,Land Bank of the Philippines,0,-21400.00
+3937,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000523,GL0000603,2019-05-31,2019-06-08,,,21400.00,0
+3941,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000524,GL0000604,2019-05-31,2019-06-08,,,2458.50,0
+4181,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030189,GL0000604,2019-06-06,,B-001,Land Bank of the Philippines,0,-2458.50
+4179,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030189,GL0000603,2019-06-06,,B-001,Land Bank of the Philippines,0,-21400.00
+4412,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000592,GL0000680,2019-06-30,2019-07-08,,,21400.00,0
+4416,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000593,GL0000681,2019-06-30,2019-07-08,,,2401.00,0
+4571,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030257,GL0000681,2019-07-05,,B-001,Land Bank of the Philippines,0,-2401.00
+4569,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030257,GL0000680,2019-07-05,,B-001,Land Bank of the Philippines,0,-21400.00
+4776,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000646,GL0000741,2019-07-31,2019-08-08,,,21400.00,0
+4780,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000647,GL0000742,2019-07-31,2019-08-08,,,1550.00,0
+4981,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030274,GL0000742,2019-08-07,,B-001,Land Bank of the Philippines,0,-1550.00
+4979,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030274,GL0000741,2019-08-07,,B-001,Land Bank of the Philippines,0,-21400.00
+5136,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000704,GL0000807,2019-08-31,2019-09-08,,,21400.00,0
+5262,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000732,GL0000838,2019-08-31,2019-09-08,,,2309.00,0
+5441,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030288,GL0000838,2019-09-07,,B-001,Land Bank of the Philippines,0,-2309.00
+5439,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030288,GL0000807,2019-09-07,,B-001,Land Bank of the Philippines,0,-21400.00
+5640,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000782,GL0000894,2019-09-30,2019-10-08,,,21400.00,0
+5644,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000783,GL0000895,2019-09-30,2019-10-08,,,2274.50,0
+5922,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030358,GL0000895,2019-10-08,,B-001,Land Bank of the Philippines,0,-2274.50
+5920,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030358,GL0000894,2019-10-08,,B-001,Land Bank of the Philippines,0,-21400.00
+6113,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000843,GL0000975,2019-10-31,2019-11-08,,,21400.00,0
+6117,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000844,GL0000976,2019-10-31,2019-11-08,,,2332.00,0
+6505,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030372,GL0000976,2019-11-08,,B-001,Land Bank of the Philippines,0,-2332.00
+6503,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030372,GL0000975,2019-11-08,,B-001,Land Bank of the Philippines,0,-21400.00
+6702,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000907,GL0001058,2019-11-30,2019-12-08,,,21400.00,0
+6706,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000908,GL0001059,2019-11-30,2019-12-08,,,2424.00,0
+7036,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030387,GL0001059,2019-12-08,,B-001,Land Bank of the Philippines,0,-2424.00
+7034,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030387,GL0001058,2019-12-08,,B-001,Land Bank of the Philippines,0,-21400.00
+7334,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0000993,GL0001164,2019-12-31,2020-01-08,,,21400.00,0
+7338,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0000994,GL0001165,2019-12-31,2020-01-08,,,2207.00,0
+7564,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030452,GL0001165,2020-01-08,,B-001,Land Bank of the Philippines,0,-2207.00
+7562,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030452,GL0001164,2020-01-08,,B-001,Land Bank of the Philippines,0,-21400.00
+7783,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001055,GL0001230,2020-01-31,2020-02-08,,,21400.00,0
+7787,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001056,GL0001231,2020-01-31,2020-02-08,,,1941.00,0
+8112,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030467,GL0001231,2020-02-06,,B-001,Land Bank of the Philippines,0,-1941.00
+8110,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030467,GL0001230,2020-02-06,,B-001,Land Bank of the Philippines,0,-21400.00
+8367,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001134,GL0001326,2020-02-29,2020-03-08,,,21400.00,0
+8371,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001135,GL0001327,2020-02-29,2020-03-08,,,1803.00,0
+8676,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030485,GL0001327,2020-03-06,,B-001,Land Bank of the Philippines,0,-1803.00
+8674,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030485,GL0001326,2020-03-06,,B-001,Land Bank of the Philippines,0,-21400.00
+8862,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001213,GL0001416,2020-03-31,2020-04-08,,,10700.00,0
+8866,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001214,GL0001417,2020-03-31,2020-04-08,,,1061.00,0
+9470,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001317,GL0001529,2020-05-31,2020-06-08,,,11770.00,0
+9474,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001318,GL0001530,2020-05-31,2020-06-08,,,1300.00,0
+9303,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30501,GL0001416,2020-06-15,,B-001,Land Bank of the Philippines,0,-117.61
+10040,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001394,GL0001612,2020-06-30,2020-07-08,,,11770.00,0
+10044,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001395,GL0001613,2020-06-30,2020-07-08,,,1518.50,0
+9867,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030518,GL0001417,2020-07-16,,B-001,Land Bank of the Philippines,0,-1061.00
+9869,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030518,GL0001529,2020-07-16,,B-001,Land Bank of the Philippines,0,-1426.61
+9865,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030518,GL0001416,2020-07-16,,B-001,Land Bank of the Philippines,0,-10582.39
+10319,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001440,GL0001669,2020-07-31,2020-08-15,,,11770.00,0
+10323,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001441,GL0001670,2020-07-31,2020-08-15,,,1461.00,0
+10653,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30538,GL0001530,2020-08-10,,B-001,Land Bank of the Philippines,0,-1300.00
+10655,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30538,GL0001612,2020-08-10,,B-001,Land Bank of the Philippines,0,-1645.11
+10651,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30538,GL0001529,2020-08-10,,B-001,Land Bank of the Philippines,0,-10343.39
+10879,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001524,GL0001762,2020-08-31,2020-09-15,,,11770.00,0
+10883,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001525,GL0001763,2020-08-31,2020-09-15,,,1699.50,0
+11042,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30555,GL0001613,2020-09-09,,B-001,Land Bank of the Philippines,0,-1518.50
+11044,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30555,GL0001669,2020-09-09,,B-001,Land Bank of the Philippines,0,-1587.61
+11040,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30555,GL0001612,2020-09-09,,B-001,Land Bank of the Philippines,0,-10124.89
+11340,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001598,GL0001841,2020-09-30,2020-10-15,,,11770.00,0
+11344,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001599,GL0001842,2020-09-30,2020-10-15,,,1688.00,0
+11248,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30569,GL0001670,2020-10-12,,B-001,Land Bank of the Philippines,0,-1461.00
+11250,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30569,GL0001762,2020-10-12,,B-001,Land Bank of the Philippines,0,-1826.11
+11246,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30569,GL0001669,2020-10-12,,B-001,Land Bank of the Philippines,0,-10182.39
+11764,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001666,GL0001911,2020-10-31,2020-11-15,,,11770.00,0
+11768,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001667,GL0001912,2020-10-31,2020-11-15,,,1676.50,0
+11620,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30589,GL0001763,2020-11-09,,B-001,Land Bank of the Philippines,0,-1699.50
+11622,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30589,GL0001841,2020-11-09,,B-001,Land Bank of the Philippines,0,-1814.61
+11618,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30589,GL0001762,2020-11-09,,B-001,Land Bank of the Philippines,0,-9943.89
+12184,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001724,GL0001972,2020-11-30,2020-12-15,,,11770.00,0
+12188,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001725,GL0001973,2020-11-30,2020-12-15,,,1665.00,0
+12058,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR030659,GL0001842,2020-12-14,,B-001,Land Bank of the Philippines,0,-1688.00
+12060,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030659,GL0001911,2020-12-14,,B-001,Land Bank of the Philippines,0,-1803.11
+12056,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR030659,GL0001841,2020-12-14,,B-001,Land Bank of the Philippines,0,-9955.39
+12515,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001782,GL0002032,2020-12-31,2021-01-15,,,11770.00,0
+12519,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001783,GL0002033,2020-12-31,2021-01-15,,,1665.00,0
+12537,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30678,GL0001912,2021-01-11,,B-001,Land Bank of the Philippines,0,-1676.50
+12539,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30678,GL0001972,2021-01-11,,B-001,Land Bank of the Philippines,0,-1791.61
+12535,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30678,GL0001911,2021-01-11,,B-001,Land Bank of the Philippines,0,-9966.89
+13265,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001869,GL0002151,2021-01-31,2021-02-08,,,16050.00,0
+13269,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001870,GL0002152,2021-01-31,2021-02-08,,,1619.00,0
+13275,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,ASCT-B0000988,GL0002151,2021-01-31,,,,0,-6025.61
+12781,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30700,GL0001973,2021-02-08,,B-001,Land Bank of the Philippines,0,-1665.00
+12783,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30700,GL0002032,2021-02-08,,B-001,Land Bank of the Philippines,0,-1791.61
+12779,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30700,GL0001972,2021-02-08,,B-001,Land Bank of the Philippines,0,-9978.39
+13276,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0001871,GL0002153,2021-02-28,2021-03-08,,,16050.00,0
+13280,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0001872,GL0002154,2021-02-28,2021-03-08,,,1842.00,0
+12899,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30724,GL0002033,2021-03-10,,B-001,Land Bank of the Philippines,0,-1665.00
+12897,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30724,GL0002032,2021-03-10,,B-001,Land Bank of the Philippines,0,-9978.39
+14742,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0002046,GL0002423,2021-03-31,2021-04-08,,,16050.00,0
+14746,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0002047,GL0002424,2021-03-31,2021-04-08,,,1826.00,0
+14756,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,ASCT-B0001066,GL0002424,2021-03-31,,,,0,-1826.00
+14752,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,ASCT-B0001066,GL0002423,2021-03-31,,,,0,-16050.00
+13329,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30749,GL0002152,2021-04-12,,B-001,Land Bank of the Philippines,0,-1619.00
+13331,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30749,GL0002153,2021-04-12,,B-001,Land Bank of the Philippines,0,-6232.61
+13327,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30749,GL0002151,2021-04-12,,B-001,Land Bank of the Philippines,0,-10024.39
+14757,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0002048,GL0002425,2021-04-30,2021-05-08,,,16050.00,0
+14761,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0002049,GL0002426,2021-04-30,2021-05-08,,,1791.50,0
+14771,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,ASCT-B0001067,GL0002426,2021-04-30,,,,0,-1791.50
+14767,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,ASCT-B0001067,GL0002425,2021-04-30,,,,0,-16050.00
+13462,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR30817,GL0002154,2021-05-06,,B-001,Land Bank of the Philippines,0,-1842.00
+13460,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR30817,GL0002153,2021-05-06,,B-001,Land Bank of the Philippines,0,-9817.39
+14772,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0002050,GL0002427,2021-05-31,2021-06-08,,,16050.00,0
+14776,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0002051,GL0002428,2021-05-31,2021-06-08,,,1883.50,0
+14786,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,ASCT-B0001068,GL0002428,2021-05-31,,,,0,-1883.50
+14782,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,ASCT-B0001068,GL0002427,2021-05-31,,,,0,-16050.00
+14787,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0002052,GL0002429,2021-06-30,2021-07-08,,,16050.00,0
+14791,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0002053,GL0002430,2021-06-30,2021-07-08,,,1803.00,0
+14797,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,ASCT-B0001069,GL0002429,2021-06-30,,,,0,-6209.61
+14798,ASCT-LT000037,Miche Cellphone Accessories,Invoice,Rent Receivables,ASCT-IC0002054,GL0002431,2021-07-31,2021-08-08,,,16050.00,0
+14802,ASCT-LT000037,Miche Cellphone Accessories,Invoice,A/R  Non Trade External,ASCT-IC0002055,GL0002432,2021-07-31,2021-08-08,,,1826.00,0
+15413,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR31014,GL0002430,2021-09-03,,B-001,Land Bank of the Philippines,0,-1803.00
+15415,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR31014,GL0002431,2021-09-03,,B-001,Land Bank of the Philippines,0,-6232.61
+15411,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR31014,GL0002429,2021-09-03,,B-001,Land Bank of the Philippines,0,-9840.39
+15813,ASCT-LT000037,Miche Cellphone Accessories,Payment,A/R  Non Trade External,PR31038,GL0002432,2021-10-04,,B-001,Land Bank of the Philippines,0,-1826.00
+15811,ASCT-LT000037,Miche Cellphone Accessories,Payment,Rent Receivables,PR31038,GL0002431,2021-10-04,,B-001,Land Bank of the Philippines,0,-9817.39

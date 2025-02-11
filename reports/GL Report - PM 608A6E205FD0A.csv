@@ -1,0 +1,10 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+144521,PM-LT000004,DUNKIN DONUTS,Payment,Security Deposit Payable,P0008461,GL0018343,2020-01-10,,,,10000.00,0
+119309,PM-LT000054,JOJIES PA-INITANG BOL-ANON,Payment,Security Deposit Payable,PR028066,GL0019309,2020-02-10,,B-004,Land Bank of the Philippines,0,-30000.00
+120340,PM-LT000053,CORE PACIFIC MONEY EXCHANGE CORP.,Payment,Security Deposit Payable-Preop Clearing,UFT0001941,GL0019393,2020-02-11,,B-004,Land Bank of the Philippines,0,-45000.00
+120847,PM-LT000058,M &amp; M`S CELL DEPOT,Payment,Security Deposit Payable,PR028093,GL0019406,2020-02-21,,B-004,Land Bank of the Philippines,0,-16050.00
+120835,PM-LT000058,M &amp; M`S CELL DEPOT,Payment,Security Deposit Payable,PR021414,GL0019404,2020-02-21,,B-004,Land Bank of the Philippines,0,-28950.00
+148248,PM-LT000096,RICHER TEA,Payment,Security Deposit Payable,PR028181,GL0023800,2020-09-09,,B-004,Land Bank of the Philippines,0,-21400.00
+148246,PM-LT000096,RICHER TEA,Payment,Security Deposit Payable,PR021416,GL0023799,2020-09-09,,B-004,Land Bank of the Philippines,0,-98600.00
+163083,PM-LT000097,SHA-WRAPS,Payment,Security Deposit Payable,PR028245,GL0026140,2020-12-17,,B-004,Land Bank of the Philippines,0,-12840.00
+163081,PM-LT000097,SHA-WRAPS,Payment,Security Deposit Payable,PR021417,GL0026139,2020-12-17,,B-004,Land Bank of the Philippines,0,-23160.00

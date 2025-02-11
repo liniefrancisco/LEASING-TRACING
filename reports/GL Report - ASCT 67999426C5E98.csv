@@ -1,0 +1,67 @@
+ID,Tenant Code,Trade Name,Tin,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+12,ASCT-LT000012,RDIAZ BUSINESS CENTER,,Payment,Security Deposit Payable,PR025262 - 025261,GL0000006,2018-05-09,,B-001,Land Bank of the Philippines,0,-36000.00
+16,ASCT-LT000013,MASTER SIOMAI,,Payment,Security Deposit Payable,PR025263 - 025264,GL0000008,2018-05-18,,B-001,Land Bank of the Philippines,0,-72000.00
+20,ASCT-LT000006,ZAGU PEARL SHAKE,295-262-045-002,Payment,Security Deposit Payable,PR025265,GL0000010,2018-05-18,,B-001,Land Bank of the Philippines,0,-72000.00
+8,ASCT-LT000008,TECHNOCARE,,Payment,Security Deposit Payable,PR025266,GL0000004,2018-05-21,,B-001,Land Bank of the Philippines,0,-90000.00
+6,ASCT-LT000005,THIRSTY THE HEALTHY WAY,,Payment,Security Deposit Payable,PR025274,GL0000003,2018-05-25,,B-001,Land Bank of the Philippines,0,-60000.00
+4,ASCT-LT000011,LROYALE SKIN CARE AND WELNESS SHOP,,Payment,Security Deposit Payable,PR025279 - 025280,GL0000002,2018-06-08,,B-001,Land Bank of the Philippines,0,-72000.00
+635,ASCT-LT000018,TWIN ANGELS FOOD PANTRY,,Payment,Security Deposit Payable,PR025292,GL0000101,2018-07-04,,B-001,Land Bank of the Philippines,0,-30000.00
+165,ASCT-LT000009,SAVE N EARN,,Payment,Security Deposit Payable,PR025303,GL0000032,2018-07-10,,B-001,Land Bank of the Philippines,0,-60000.00
+377,ASCT-LT000019,LEYLAM,,Payment,Security Deposit Payable-Preop Clearing,ASCT-UFT0000001,GL0000061,2018-07-17,,B-001,Land Bank of the Philippines,0,-72000.00
+1125,ASCT-LT000037,Miche Cellphone Accessories,,Payment,Security Deposit Payable-Preop Clearing,ASCT-UFT0000008,GL0000185,2018-07-18,,B-001,,0,-60000.00
+387,ASCT-LT000017,BUKO FACTORY,,Payment,Security Deposit Payable,PR025299,GL0000064,2018-08-02,,B-001,Land Bank of the Philippines,0,-72000.00
+383,ASCT-LT000016,WAFFLE TIME,005-982-291-578,Payment,Security Deposit Payable,PR025300,GL0000062,2018-08-04,,B-001,Land Bank of the Philippines,0,-60000.00
+1227,ASCT-LT000033,ABENSON,,Payment,Security Deposit Payable,PR030095,GL0000193,2018-08-10,,,,0,-808500.00
+1233,ASCT-LT000002,IDEAL VISION CENTER,,Payment,Security Deposit Payable,PR030063,GL0000196,2018-09-14,,B-001,Land Bank of the Philippines,0,-384000.00
+1121,ASCT-LT000035,Lugaw ni Bossing,,Payment,Security Deposit Payable,PR30072,GL0000183,2018-10-03,,B-001,Land Bank of the Philippines,0,-36000.00
+1239,ASCT-LT000038,ASC TECH,,Payment,Security Deposit Payable,PR030086,GL0000199,2018-11-06,,B-001,Land Bank of the Philippines,0,-300000.00
+1269,ASCT-LT000036,M Lhuillier,002-394-238-146,Payment,Security Deposit Payable,PR030097,GL0000202,2018-11-22,,B-001,Land Bank of the Philippines,0,-132000.00
+3047,ASCT-LT000043,K AND K VIBE AND AUZOCA PROPERTIES 01,,Payment,Security Deposit Payable,PR30137,GL0000485,2019-02-21,,,,0,-72000.00
+3775,ASCT-LT000034,RED RIBBON,,Payment,Security Deposit Payable,PRJV#3-1738,GL0000572,2019-02-28,,,,0,-124443.00
+3757,ASCT-LT000014,JOLLIBEE,009-657-532-001,Payment,Security Deposit Payable,PRJV#2-1783,GL0000571,2019-02-28,,,,0,-928200.00
+3057,ASCT-LT000044,LFAFA ENTERPRISE,,Payment,Security Deposit Payable,PR30138/AR#34421,GL0000487,2019-03-04,,,,0,-45000.00
+4024,ASCT-LT000046,Potato Corner,924-984-019-000,Payment,Security Deposit Payable,PR030204/030150/CHECK#2-405,GL0000620,2019-03-28,,B-001,Land Bank of the Philippines,0,-45000.00
+3658,ASCT-LT000045,JJJ Key Services,316-893-319-000,Payment,Security Deposit Payable,PR030208/AR#34624-A,GL0000565,2019-04-16,,B-001,Land Bank of the Philippines,0,-72000.00
+3611,ASCT-LT000018,TWIN ANGELS FOOD PANTRY,,Payment,Security Deposit Payable,P0000221,GL0000101,2019-04-30,,,,26549.93,0
+4163,ASCT-LT000008,TECHNOCARE,,Payment,Security Deposit Payable,PR030187,GL0000640,2019-05-31,,B-001,Land Bank of the Philippines,0,-9000.00
+4904,ASCT-LT000055,PCSO Lotto,,Payment,Security Deposit Payable,PR030227,GL0000766,2019-06-01,,B-001,Land Bank of the Philippines,0,-72000.00
+4217,ASCT-LT000009,SAVE N EARN,,Payment,Security Deposit Payable,PR030230/CHECK#1481186,GL0000646,2019-06-06,,B-001,Land Bank of the Philippines,0,-6000.00
+4191,ASCT-LT000013,MASTER SIOMAI,,Payment,Security Deposit Payable,PR030191,GL0000642,2019-06-07,,B-001,Land Bank of the Philippines,0,-7200.00
+4205,ASCT-LT000012,RDIAZ BUSINESS CENTER,,Payment,Security Deposit Payable,PR030194,GL0000643,2019-06-08,,B-001,Land Bank of the Philippines,0,-3600.00
+4223,ASCT-LT000005,THIRSTY THE HEALTHY WAY,,Payment,Security Deposit Payable,PR030232/CHECK#1630684,GL0000647,2019-06-10,,B-001,Land Bank of the Philippines,0,-6000.00
+4229,ASCT-LT000006,ZAGU PEARL SHAKE,295-262-045-002,Payment,Security Deposit Payable,PR030233/CHECK#662585,GL0000648,2019-06-10,,B-001,Land Bank of the Philippines,0,-7200.00
+4898,ASCT-LT000057,Santinos Italian Pizza Slices,934-667-877-000,Payment,Security Deposit Payable,PR030243,GL0000765,2019-07-02,,B-001,Land Bank of the Philippines,0,-72000.00
+4581,ASCT-LT000011,LROYALE SKIN CARE AND WELNESS SHOP,,Payment,Security Deposit Payable,PR030259,GL0000708,2019-07-07,,B-001,Land Bank of the Philippines,0,-7200.00
+4967,ASCT-LT000038,ASC TECH,,Payment,Security Deposit Payable,PR030270,GL0000775,2019-08-06,,B-001,Land Bank of the Philippines,0,-30000.00
+5298,ASCT-LT000012,RDIAZ BUSINESS CENTER,,Payment,Security Deposit Payable,P0000324,GL0000006,2019-08-30,,,,8868.77,0
+5402,ASCT-LT000017,BUKO FACTORY,,Payment,Security Deposit Payable,P0000332,GL0000064,2019-08-31,,,,15777.56,0
+5529,ASCT-LT000019,LEYLAM,,Payment,Security Deposit Payable,PRCHECK# 1900773 / OR# 030324,GL0000869,2019-09-05,,B-001,Land Bank of the Philippines,0,-3600.00
+5461,ASCT-LT000017,BUKO FACTORY,,Payment,Security Deposit Payable,P0000343,GL0000064,2019-09-07,,,,15777.56,0
+13762,ASCT-LT000064,Mr. Softy,179-933-074-000,Payment,Security Deposit Payable,PRCHCK#1116383/OR#030326,GL0002232,2019-09-10,,B-001,Land Bank of the Philippines,0,-30000.00
+6552,ASCT-LT000016,WAFFLE TIME,005-982-291-578,Payment,Security Deposit Payable,PRAR# 110830,GL0001031,2019-10-09,,B-001,? undefined:undefined ?,0,-6000.00
+9228,ASCT-LT000033,ABENSON,,Payment,Security Deposit Payable,PRCHCK#1929350 / OR#030436,GL0001487,2020-01-08,,B-001,Land Bank of the Philippines,0,-14606.04
+7586,ASCT-LT000073,PNB,,Payment,Security Deposit Payable,PR030457,GL0001201,2020-01-08,,B-001,Land Bank of the Philippines,0,-230357.88
+9232,ASCT-LT000033,ABENSON,,Payment,Security Deposit Payable,PRCHCK#1587256 / OR#005004,GL0001488,2020-02-07,,B-001,Land Bank of the Philippines,0,-25818.96
+9275,ASCT-LT000078,Sticker Race Prints and Design,494-403-926-000,Payment,Security Deposit Payable,PROR#111276,GL0001496,2020-02-07,,B-001,Land Bank of the Philippines,0,-90000.00
+9926,ASCT-LT000077,CHOWKING,004-917-250-008,Payment,Security Deposit Payable,PRJV#05000370,GL0001601,2020-05-27,,,,0,-172500.00
+13763,ASCT-LT000064,Mr. Softy,179-933-074-000,Payment,Security Deposit Payable,P0000916,GL0002232,2020-09-10,,,,8972.44,0
+12010,ASCT-LT000008,TECHNOCARE,,Payment,Security Deposit Payable,PR030653,GL0001952,2020-12-04,,B-001,Land Bank of the Philippines,0,-108000.00
+12884,ASCT-LT000005,THIRSTY THE HEALTHY WAY,,Payment,Security Deposit Payable,P0000820,GL0000003,2021-01-29,,,,15856.40,0
+18858,ASCT-LT000209,Oppo,,Payment,Security Deposit Payable,PROR# 030768,GL0003254,2021-02-15,,B-001,Land Bank of the Philippines,0,-30000.00
+12943,ASCT-LT000214,The Buzz Cafe,,Payment,Security Deposit Payable,PROR#030790,GL0002097,2021-03-16,,B-001,Land Bank of the Philippines,0,-359966.40
+13988,ASCT-LT000221,Golden Locket Jewelry Shop,,Payment,Security Deposit Payable,PROR# 030869,GL0002272,2021-05-26,,B-001,Land Bank of the Philippines,0,-48000.00
+14134,ASCT-LT000214,The Buzz Cafe,,Payment,Security Deposit Payable,PR30929,GL0002315,2021-07-19,,B-001,Land Bank of the Philippines,0,-48000.00
+15834,ASCT-LT000044,LFAFA ENTERPRISE,,Payment,Security Deposit Payable,P0001076,GL0000487,2021-10-13,,,,9163.80,0
+16135,ASCT-LT000237,Terays Food Hub,,Payment,Security Deposit Payable,PROR#030994,GL0002662,2021-11-16,,B-001,Land Bank of the Philippines,0,-10000.00
+16137,ASCT-LT000238,Robotic Touch Massage Services,,Payment,Security Deposit Payable,PROR#031102,GL0002663,2021-11-18,,B-001,Land Bank of the Philippines,0,-45000.00
+16566,ASCT-LT000254,GOOGOO SWEET CAKE SHOP,765-339-511-000,Payment,Security Deposit Payable,PRAR#031136,GL0002788,2022-03-14,,B-001,Land Bank of the Philippines,0,-72000.00
+16560,ASCT-LT000263,GOODIE-H FOOD HUB,,Payment,Security Deposit Payable,PR31250,GL0002785,2022-05-05,,B-001,Land Bank of the Philippines,0,-60000.00
+16562,ASCT-LT000256,GANGNAM OPPA CAFE,,Payment,Security Deposit Payable,PR31301,GL0002786,2022-05-06,,B-001,Land Bank of the Philippines,0,-60000.00
+16906,ASCT-LT000262,K AND K VIBE AND AUZOCA PROPERTIES 02,605-940-919-015,Payment,Security Deposit Payable,PR31381,GL0002894,2022-07-13,,B-001,Land Bank of the Philippines,0,-72000.00
+20075,ASCT-LT000238,Robotic Touch Massage Services,,Payment,Security Deposit Payable,P0001518,GL0002663,2022-11-04,,,,32551.45,0
+21345,ASCT-LT000476,TURKS SHAWARMA,,Payment,Security Deposit Payable,PR31583,GL0003659,2022-12-27,,B-001,Land Bank of the Philippines,0,-45000.00
+22870,ASCT-LT000172,SAVE N EARN 02,,Payment,Security Deposit Payable,PROR#031611,GL0003919,2023-01-07,,B-001,Land Bank of the Philippines,0,-300000.00
+32895,ASCT-LT000172,SAVE N EARN 02,,Payment,Security Deposit Payable,PROR#031829,GL0005331,2023-06-06,,B-001,Land Bank of the Philippines,0,-120000.00
+35579,ASCT-LT000490,Chikitings Playhouse,,Payment,Security Deposit Payable,PROR#032070,GL0005673,2023-10-18,,B-001,Land Bank of the Philippines,0,-50000.00
+35581,ASCT-LT000490,Chikitings Playhouse,,Payment,Security Deposit Payable,PROR#032071,GL0005674,2023-10-19,,B-001,Land Bank of the Philippines,0,-1205.50
+36299,ASCT-LT000577,WATSONS,,Payment,Security Deposit Payable,PR32140,GL0005767,2023-12-01,,B-001,Land Bank of the Philippines,0,-204000.00

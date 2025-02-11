@@ -1,0 +1,9 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+9288,ASCT-LT000078,Sticker Race Prints and Design,Payment,A/R  Non Trade External,PROR#145032,GL0001498,2020-02-07,,B-001,Land Bank of the Philippines,0,-2489.65
+9286,ASCT-LT000078,Sticker Race Prints and Design,Payment,Rent Receivables,PROR#145032,GL0001497,2020-02-07,,B-001,Land Bank of the Philippines,0,-12452.58
+9276,ASCT-LT000078,Sticker Race Prints and Design,Invoice,Rent Receivables,ASCT-IC0001288,GL0001497,2020-03-31,2020-04-08,,,12452.58,0
+9280,ASCT-LT000078,Sticker Race Prints and Design,Invoice,A/R  Non Trade External,ASCT-IC0001289,GL0001498,2020-03-31,2020-04-08,,,2489.65,0
+9641,ASCT-LT000078,Sticker Race Prints and Design,Invoice,Rent Receivables,ASCT-IC0001355,GL0001567,2020-05-31,2020-06-08,,,8025.00,0
+9645,ASCT-LT000078,Sticker Race Prints and Design,Invoice,A/R  Non Trade External,ASCT-IC0001356,GL0001568,2020-05-31,2020-06-08,,,2000.00,0
+9652,ASCT-LT000078,Sticker Race Prints and Design,Payment,A/R  Non Trade External,ASCT-B0000750,GL0001568,2020-05-31,,,,0,-2000.00
+9650,ASCT-LT000078,Sticker Race Prints and Design,Payment,Rent Receivables,ASCT-B0000750,GL0001567,2020-05-31,,,,0,-8025.00

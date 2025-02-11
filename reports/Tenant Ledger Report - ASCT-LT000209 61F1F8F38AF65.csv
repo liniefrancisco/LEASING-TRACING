@@ -1,0 +1,5 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+12860,ASCT-LT000209,Oppo,Invoice,Rent Receivables,ASCT-IC0001817,GL0002079,2021-02-28,2021-03-08,,,4967.86,0
+12864,ASCT-LT000209,Oppo,Invoice,A/R  Non Trade External,ASCT-IC0001818,GL0002080,2021-02-28,2021-03-08,,,928.57,0
+12873,ASCT-LT000209,Oppo,Payment,A/R  Non Trade External,ASCT-B0000962,GL0002080,2021-02-28,,,,0,-928.57
+12871,ASCT-LT000209,Oppo,Payment,Rent Receivables,ASCT-B0000962,GL0002079,2021-02-28,,,,0,-4967.86

@@ -1,0 +1,105 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+5351,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0000746,GL0000854,2019-08-31,2019-09-08,,,8973.63,0
+5310,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0000741,GL0000847,2019-08-31,2019-09-08,,,8629.03,0
+5749,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0000806,GL0000918,2019-09-30,2019-10-08,,,16323.00,0
+5745,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0000805,GL0000917,2019-09-30,2019-10-08,,,10700.00,0
+6419,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR030298,GL0000847,2019-10-05,,B-001,Land Bank of the Philippines,0,-8629.03
+6421,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR030298,GL0000854,2019-10-05,,B-001,Land Bank of the Philippines,0,-8973.63
+6423,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR030360,GL0000917,2019-10-17,,B-001,Land Bank of the Philippines,0,-10700.00
+6425,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR030360,GL0000918,2019-10-17,,B-001,Land Bank of the Philippines,0,-16323.00
+6246,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0000871,GL0001003,2019-10-31,2019-11-08,,,15358.00,0
+6242,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0000870,GL0001002,2019-10-31,2019-11-08,,,10700.00,0
+6511,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR030375,GL0001002,2019-11-14,,B-001,Land Bank of the Philippines,0,-10700.00
+6513,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR030375,GL0001003,2019-11-14,,B-001,Land Bank of the Philippines,0,-15358.00
+6801,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0000928,GL0001079,2019-11-30,2019-12-08,,,17772.00,0
+6797,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0000927,GL0001078,2019-11-30,2019-12-08,,,10700.00,0
+7050,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR030392,GL0001078,2019-12-12,,B-001,Land Bank of the Philippines,0,-10700.00
+7052,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR030392,GL0001079,2019-12-12,,B-001,Land Bank of the Philippines,0,-17772.00
+7215,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0000970,GL0001140,2019-12-31,2020-01-08,,,19451.00,0
+7211,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0000969,GL0001139,2019-12-31,2020-01-08,,,10700.00,0
+7889,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001078,GL0001253,2020-01-31,2020-02-08,,,20566.50,0
+7885,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001077,GL0001252,2020-01-31,2020-02-08,,,10700.00,0
+8098,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR030464,GL0001139,2020-02-05,,B-001,Land Bank of the Philippines,0,-10700.00
+8100,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR030464,GL0001140,2020-02-05,,B-001,Land Bank of the Philippines,0,-19451.00
+8471,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001155,GL0001349,2020-02-29,2020-03-08,,,15449.00,0
+8467,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001154,GL0001348,2020-02-29,2020-03-08,,,10700.00,0
+8951,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001234,GL0001437,2020-03-31,2020-04-08,,,14909.00,0
+8947,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001233,GL0001436,2020-03-31,2020-04-08,,,5350.00,0
+9351,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001300,GL0001510,2020-04-30,2020-05-08,,,5350.00,0
+9355,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001301,GL0001511,2020-04-30,2020-05-08,,,1500.00,0
+9562,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001337,GL0001549,2020-05-31,2020-06-08,,,8560.00,0
+9566,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001338,GL0001550,2020-05-31,2020-06-08,,,2000.00,0
+10113,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001409,GL0001627,2020-06-30,2020-07-08,,,38236.50,0
+10109,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001408,GL0001626,2020-06-30,2020-07-08,,,8560.00,0
+10438,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001462,GL0001691,2020-07-31,2020-08-15,,,17145.50,0
+10434,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001461,GL0001690,2020-07-31,2020-08-15,,,8560.00,0
+10262,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PROR#005035,GL0001436,2020-08-05,,B-001,Land Bank of the Philippines,0,-5350.00
+10252,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PROR#005035,GL0001252,2020-08-05,,? undefined:undefined ?,? undefined:undefined ?,0,-10700.00
+10258,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PROR#005035,GL0001348,2020-08-05,,B-001,Land Bank of the Philippines,0,-10700.00
+10264,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PROR#005035,GL0001437,2020-08-05,,B-001,Land Bank of the Philippines,0,-14909.00
+10260,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PROR#005035,GL0001349,2020-08-05,,B-001,Land Bank of the Philippines,0,-15449.00
+10256,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PROR#005035,GL0001253,2020-08-05,,B-001,Land Bank of the Philippines,0,-20566.50
+10741,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30550,GL0001688,2020-08-27,,B-001,Land Bank of the Philippines,0,-115.26
+10743,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30550,GL0001689,2020-08-27,,B-001,Land Bank of the Philippines,0,-1037.33
+10747,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30550,GL0001511,2020-08-27,,B-001,Land Bank of the Philippines,0,-1500.00
+10751,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30550,GL0001550,2020-08-27,,B-001,Land Bank of the Philippines,0,-2000.00
+10745,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30550,GL0001510,2020-08-27,,B-001,Land Bank of the Philippines,0,-5350.00
+10753,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30550,GL0001626,2020-08-27,,B-001,Land Bank of the Philippines,0,-7142.91
+10749,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30550,GL0001549,2020-08-27,,B-001,Land Bank of the Philippines,0,-8560.00
+11004,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001550,GL0001788,2020-08-31,2020-09-15,,,17599.50,0
+11000,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001549,GL0001787,2020-08-31,2020-09-15,,,10700.00,0
+10780,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30553,GL0001626,2020-09-03,,B-001,Land Bank of the Philippines,0,-1417.09
+10784,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30553,GL0001690,2020-09-03,,B-001,Land Bank of the Philippines,0,-8560.00
+10786,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30553,GL0001691,2020-09-03,,B-001,Land Bank of the Philippines,0,-15992.91
+10782,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30553,GL0001627,2020-09-03,,B-001,Land Bank of the Philippines,0,-38236.50
+11426,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001616,GL0001859,2020-09-30,2020-10-15,,,13839.00,0
+11422,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001615,GL0001858,2020-09-30,2020-10-15,,,10700.00,0
+11866,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001685,GL0001930,2020-10-31,2020-11-15,,,15012.00,0
+11862,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001684,GL0001929,2020-10-31,2020-11-15,,,10700.00,0
+12269,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001742,GL0001990,2020-11-30,2020-12-15,,,15207.50,0
+12265,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001741,GL0001989,2020-11-30,2020-12-15,,,10700.00,0
+12042,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30658,GL0001691,2020-12-10,,B-001,Land Bank of the Philippines,0,-1152.59
+12044,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30658,GL0001787,2020-12-10,,B-001,Land Bank of the Philippines,0,-10700.00
+12048,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30658,GL0001858,2020-12-10,,B-001,Land Bank of the Philippines,0,-10700.00
+12052,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30658,GL0001929,2020-12-10,,B-001,Land Bank of the Philippines,0,-10700.00
+12050,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30658,GL0001859,2020-12-10,,B-001,Land Bank of the Philippines,0,-13839.00
+12054,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30658,GL0001930,2020-12-10,,B-001,Land Bank of the Philippines,0,-13859.41
+12046,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30658,GL0001788,2020-12-10,,B-001,Land Bank of the Philippines,0,-17599.50
+12617,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0001800,GL0002050,2020-12-31,2021-01-15,,,18082.50,0
+12613,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0001799,GL0002049,2020-12-31,2021-01-08,,,10700.00,0
+12735,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30692,GL0001930,2021-01-26,,B-001,Land Bank of the Philippines,0,-1152.59
+12737,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30692,GL0001989,2021-01-26,,B-001,Land Bank of the Philippines,0,-10700.00
+12739,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30692,GL0001990,2021-01-26,,B-001,Land Bank of the Philippines,0,-14054.91
+15314,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0002130,GL0002509,2021-01-31,2021-02-08,,,17277.50,0
+15310,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0002129,GL0002508,2021-01-31,2021-02-08,,,10700.00,0
+15320,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,ASCT-B0001105,GL0002508,2021-01-31,,,,0,-10700.00
+15322,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,ASCT-B0001105,GL0002509,2021-01-31,,,,0,-17277.50
+12771,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30698,GL0001990,2021-02-03,,B-001,Land Bank of the Philippines,0,-1152.59
+12773,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,PR30698,GL0002049,2021-02-03,,B-001,Land Bank of the Philippines,0,-10700.00
+12775,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30698,GL0002050,2021-02-03,,B-001,Land Bank of the Philippines,0,-16929.91
+15329,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0002132,GL0002511,2021-02-28,2021-03-08,,,15863.00,0
+15325,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0002131,GL0002510,2021-02-28,2021-03-08,,,10700.00,0
+15335,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,ASCT-B0001106,GL0002510,2021-02-28,,,,0,-10700.00
+15337,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,ASCT-B0001106,GL0002511,2021-02-28,,,,0,-15863.00
+12875,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR30720,GL0002050,2021-03-03,,B-001,Land Bank of the Philippines,0,-1152.59
+15344,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0002134,GL0002513,2021-03-31,2021-04-08,,,17185.50,0
+15340,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0002133,GL0002512,2021-03-31,2021-04-08,,,10700.00,0
+15350,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,ASCT-B0001107,GL0002512,2021-03-31,,,,0,-10700.00
+15352,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,ASCT-B0001107,GL0002513,2021-03-31,,,,0,-17185.50
+15359,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0002136,GL0002515,2021-04-30,2021-05-08,,,14621.00,0
+15355,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0002135,GL0002514,2021-04-30,2021-05-08,,,10700.00,0
+15365,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,ASCT-B0001108,GL0002514,2021-04-30,,,,0,-10700.00
+15367,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,ASCT-B0001108,GL0002515,2021-04-30,,,,0,-14621.00
+15372,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0002138,GL0002517,2021-05-31,2021-06-08,,,18233.00,0
+15368,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0002137,GL0002516,2021-05-31,2021-06-08,,,10700.00,0
+15379,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,ASCT-B0001109,GL0002516,2021-05-31,,,,0,-10700.00
+15381,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,ASCT-B0001109,GL0002517,2021-05-31,,,,0,-18233.00
+15386,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0002140,GL0002519,2021-06-30,2021-07-08,,,15219.00,0
+15382,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0002139,GL0002518,2021-06-30,2021-07-08,,,10700.00,0
+15392,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,ASCT-B0001110,GL0002518,2021-06-30,,,,0,-10700.00
+15394,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,ASCT-B0001110,GL0002519,2021-06-30,,,,0,-15219.00
+15401,ASCT-LT000060,Marcela Chicken,Invoice,A/R  Non Trade External,ASCT-IC0002142,GL0002521,2021-07-31,2021-08-08,,,16806.00,0
+15397,ASCT-LT000060,Marcela Chicken,Invoice,Rent Receivables,ASCT-IC0002141,GL0002520,2021-07-31,2021-08-08,,,10700.00,0
+15407,ASCT-LT000060,Marcela Chicken,Payment,Rent Receivables,ASCT-B0001111,GL0002520,2021-07-31,,,,0,-10700.00
+15409,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,ASCT-B0001111,GL0002521,2021-07-31,,,,0,-15653.41
+15773,ASCT-LT000060,Marcela Chicken,Payment,A/R  Non Trade External,PR31028,GL0002521,2021-09-23,,B-001,Land Bank of the Philippines,0,-1152.59

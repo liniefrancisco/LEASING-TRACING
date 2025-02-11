@@ -1,0 +1,23 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+1816,ASCT-LT000035,Lugaw ni Bossing,Invoice,Rent Receivables,ASCT-IC0000257,GL0000300,2018-12-31,2019-01-08,,,18404.00,0
+1820,ASCT-LT000035,Lugaw ni Bossing,Invoice,A/R  Non Trade External,ASCT-IC0000258,GL0000301,2018-12-31,2019-01-08,,,2428.67,0
+1833,ASCT-LT000035,Lugaw ni Bossing,Payment,Rent Receivables,ASCT-B0000150,GL0000300,2018-12-31,,,,0,-12840.00
+1915,ASCT-LT000035,Lugaw ni Bossing,Payment,A/R  Non Trade External,PR030037,GL0000301,2019-01-03,,B-001,Land Bank of the Philippines,0,-2428.67
+1913,ASCT-LT000035,Lugaw ni Bossing,Payment,Rent Receivables,PR030037,GL0000300,2019-01-03,,B-001,Land Bank of the Philippines,0,-5564.00
+2106,ASCT-LT000035,Lugaw ni Bossing,Invoice,Rent Receivables,ASCT-IC0000302,GL0000344,2019-01-31,2019-02-08,,,12840.00,0
+2110,ASCT-LT000035,Lugaw ni Bossing,Invoice,A/R  Non Trade External,ASCT-IC0000303,GL0000345,2019-01-31,2019-02-08,,,1836.50,0
+2116,ASCT-LT000035,Lugaw ni Bossing,Payment,Rent Receivables,ASCT-B0000175,GL0000344,2019-01-31,,,,0,-7.33
+2330,ASCT-LT000035,Lugaw ni Bossing,Payment,A/R  Non Trade External,PR030050,GL0000345,2019-02-07,,B-001,Land Bank of the Philippines,0,-1836.50
+2328,ASCT-LT000035,Lugaw ni Bossing,Payment,Rent Receivables,PR030050,GL0000344,2019-02-07,,B-001,Land Bank of the Philippines,0,-12832.67
+2528,ASCT-LT000035,Lugaw ni Bossing,Invoice,Rent Receivables,ASCT-IC0000359,GL0000416,2019-02-28,2019-03-08,,,12840.00,0
+2532,ASCT-LT000035,Lugaw ni Bossing,Invoice,A/R  Non Trade External,ASCT-IC0000360,GL0000417,2019-02-28,2019-03-08,,,1682.50,0
+2632,ASCT-LT000035,Lugaw ni Bossing,Invoice,A/R  Non Trade External,ASCT-IC0000369,GL0000427,2019-02-28,2019-03-08,,,200.00,0
+2672,ASCT-LT000035,Lugaw ni Bossing,Payment,A/R  Non Trade External,PR030157,GL0000427,2019-03-08,,B-001,Land Bank of the Philippines,0,-200.00
+2670,ASCT-LT000035,Lugaw ni Bossing,Payment,A/R  Non Trade External,PR030157,GL0000417,2019-03-08,,B-001,Land Bank of the Philippines,0,-1682.50
+2668,ASCT-LT000035,Lugaw ni Bossing,Payment,Rent Receivables,PR030157,GL0000416,2019-03-08,,B-001,Land Bank of the Philippines,0,-12840.00
+2861,ASCT-LT000035,Lugaw ni Bossing,Invoice,Rent Receivables,ASCT-IC0000402,GL0000464,2019-03-31,2019-04-08,,,12840.00,0
+2865,ASCT-LT000035,Lugaw ni Bossing,Invoice,A/R  Non Trade External,ASCT-IC0000403,GL0000465,2019-03-31,2019-04-08,,,1917.00,0
+3187,ASCT-LT000035,Lugaw ni Bossing,Payment,A/R  Non Trade External,PR030165,GL0000465,2019-04-05,,B-001,Land Bank of the Philippines,0,-1917.00
+3185,ASCT-LT000035,Lugaw ni Bossing,Payment,Rent Receivables,PR030165,GL0000464,2019-04-05,,B-001,Land Bank of the Philippines,0,-12840.00
+3704,ASCT-LT000035,Lugaw ni Bossing,Invoice,Rent Receivables,ASCT-IC0000497,GL0000569,2019-04-30,2019-05-08,,,6420.00,0
+3708,ASCT-LT000035,Lugaw ni Bossing,Invoice,A/R  Non Trade External,ASCT-IC0000498,GL0000570,2019-04-30,2019-05-08,,,625.00,0

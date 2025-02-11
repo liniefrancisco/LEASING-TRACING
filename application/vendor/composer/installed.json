@@ -1,0 +1,109 @@
+[
+    {
+        "name": "jdrieghe/array-helpers",
+        "version": "v0.2.0",
+        "version_normalized": "0.2.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/jdrieghe/array-helpers.git",
+            "reference": "c2ce0a40a160cfa861feb3af4cb7dc1699206b0e"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/jdrieghe/array-helpers/zipball/c2ce0a40a160cfa861feb3af4cb7dc1699206b0e",
+            "reference": "c2ce0a40a160cfa861feb3af4cb7dc1699206b0e",
+            "shasum": ""
+        },
+        "require-dev": {
+            "phpunit/php-code-coverage": "^4.0",
+            "phpunit/phpunit": "^5.7"
+        },
+        "time": "2018-07-17T15:53:10+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "files": [
+                "src/array-helpers.php"
+            ],
+            "psr-4": {
+                "ArrayHelpers\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Jonas Drieghe",
+                "email": "jonasd@madewithlove.be"
+            }
+        ],
+        "description": "A collection of convenience methods to deal with arrays in php. Somewhat inspired by Laravel array helpers."
+    },
+    {
+        "name": "tecnick.com/tcpdf",
+        "version": "6.2.26",
+        "version_normalized": "6.2.26.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tecnickcom/TCPDF.git",
+            "reference": "367241059ca166e3a76490f4448c284e0a161f15"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/367241059ca166e3a76490f4448c284e0a161f15",
+            "reference": "367241059ca166e3a76490f4448c284e0a161f15",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2018-10-16T17:24:05+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "classmap": [
+                "config",
+                "include",
+                "tcpdf.php",
+                "tcpdf_parser.php",
+                "tcpdf_import.php",
+                "tcpdf_barcodes_1d.php",
+                "tcpdf_barcodes_2d.php",
+                "include/tcpdf_colors.php",
+                "include/tcpdf_filters.php",
+                "include/tcpdf_font_data.php",
+                "include/tcpdf_fonts.php",
+                "include/tcpdf_images.php",
+                "include/tcpdf_static.php",
+                "include/barcodes/datamatrix.php",
+                "include/barcodes/pdf417.php",
+                "include/barcodes/qrcode.php"
+            ]
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Nicola Asuni",
+                "email": "info@tecnick.com",
+                "role": "lead"
+            }
+        ],
+        "description": "TCPDF is a PHP class for generating PDF documents and barcodes.",
+        "homepage": "http://www.tcpdf.org/",
+        "keywords": [
+            "PDFD32000-2008",
+            "TCPDF",
+            "barcodes",
+            "datamatrix",
+            "pdf",
+            "pdf417",
+            "qrcode"
+        ],
+        "abandoned": "tecnickcom/tcpdf"
+    }
+]

@@ -1,0 +1,4 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+12884,ASCT-LT000005,THIRSTY THE HEALTHY WAY,Payment,Security Deposit Payable,P0000820,GL0000003,2021-01-29,,,,7928.20,0
+12943,ASCT-LT000214,The Buzz Cafe,Payment,Security Deposit Payable,PROR#030790,GL0002097,2021-03-16,,B-001,Land Bank of the Philippines,0,-179983.20
+13988,ASCT-LT000221,Golden Locket Jewelry Shop,Payment,Security Deposit Payable,PROR# 030869,GL0002272,2021-05-26,,B-001,Land Bank of the Philippines,0,-24000.00

@@ -1,0 +1,15 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+79254,ACT-LT000005,Davids Salon,Payment,Construction Bond,PRJV-02-110,GL0013089,2019-02-26,,,,0,-50400.00
+78649,ACT-LT000010,Nails Dot Glow,Payment,Construction Bond,PRJV-131,GL0012999,2019-03-27,,,,0,-25000.00
+110429,ACT-LT000008,Estrella Bakery,Payment,Construction Bond,PRJV-115,GL0018033,2019-04-15,,,,0,-32224.00
+110447,ACT-LT000062,Angels Wings Tours and Travel,Payment,Construction Bond,PRJV-122,GL0018041,2019-06-03,,,,0,-25000.00
+75335,ACT-LT000001,"Ibex Global Solutions (Philippines), Inc.",Payment,Construction Bond,PRJV-07000016,GL0012302,2019-07-04,,,,0,-1954489.50
+78567,ACT-LT000012,EO Executive Optical,Payment,Construction Bond,PRJV-07000588-A,GL0012978,2019-07-18,,,,0,-55300.00
+78143,ACT-LT000028,Dimsum Break,Payment,Construction Bond,PR0000005,GL0012871,2019-07-29,,B-001,PNB,0,-89700.00
+78686,ACT-LT000009,Sunburst Fried Chicken,Payment,Construction Bond,PRJV-04-14,GL0013003,2019-07-31,,,,0,-143316.00
+78900,ACT-LT000034,DUNKIN DONUTS,Payment,Construction Bond,PR23553,GL0013049,2019-08-02,,B-001,PNB,0,-38764.00
+99522,ACT-LT000014,Jollibee,Payment,Construction Bond,PRJV#09-665,GL0016257,2019-09-06,,,,0,-198615.00
+87561,ACT-LT000049,Golden Locket Jewelry Shop New,Payment,Construction Bond,PR23561,GL0014215,2019-09-19,,B-001,PNB,0,-25000.00
+93497,ACT-LT000013,The Prawn Farm,Payment,Construction Bond,PRJV#10-119,GL0015243,2019-10-05,,,,0,-122750.00
+101456,ACT-LT000057,Body and Sole,Payment,Construction Bond,PR23564,GL0016486,2019-11-26,,B-001,PNB,0,-29184.00
+113850,ACT-LT000048,Hukad,Payment,Construction Bond,PR0002033,GL0018326,2020-01-18,,B-003,PNB,0,-83309.00

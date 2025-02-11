@@ -1,0 +1,5 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+364,ASCT-ST000002,LEYLAM - Exhibit,Invoice,Rent Receivables,ASCT-IC0000051,GL0000058,2018-08-01,2018-08-22,,,9630.00,0
+368,ASCT-ST000002,LEYLAM - Exhibit,Invoice,A/R  Non Trade External,ASCT-IC0000052,GL0000059,2018-08-01,2018-08-22,,,500.00,0
+399,ASCT-ST000002,LEYLAM - Exhibit,Payment,A/R  Non Trade External,PR030006,GL0000059,2018-08-22,,B-001,Land Bank of the Philippines,0,-500.00
+397,ASCT-ST000002,LEYLAM - Exhibit,Payment,Rent Receivables,PR030006,GL0000058,2018-08-22,,B-001,Land Bank of the Philippines,0,-9630.00

@@ -1,0 +1,3 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+1214,ASCT-ST000003,Kaikai Baskets,Invoice,Rent Receivables,ASCT-IC0000162,GL0000189,2018-10-18,2018-10-26,,,3210.00,0
+1219,ASCT-ST000003,Kaikai Baskets,Payment,Rent Receivables,PR030082,GL0000189,2018-10-26,,B-001,Land Bank of the Philippines,0,-3210.00

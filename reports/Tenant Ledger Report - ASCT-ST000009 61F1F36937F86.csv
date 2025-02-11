@@ -1,0 +1,5 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+12753,ASCT-ST000009,Grolier Torch Exhibit,Payment,Rent Receivables,PROR#030622,GL0002065,2020-11-16,,B-001,Land Bank of the Philippines,0,-16050.00
+12748,ASCT-ST000009,Grolier Torch Exhibit,Invoice,Rent Receivables,ASCT-IC0001813,GL0002065,2020-11-30,2020-12-27,,,16050.00,0
+12754,ASCT-ST000009,Grolier Torch Exhibit,Invoice,Rent Receivables,ASCT-IC0001814,GL0002066,2021-01-31,2021-02-28,,,16050.00,0
+12759,ASCT-ST000009,Grolier Torch Exhibit,Payment,Rent Receivables,PROR#030760,GL0002066,2021-02-02,,B-001,Land Bank of the Philippines,0,-16050.00

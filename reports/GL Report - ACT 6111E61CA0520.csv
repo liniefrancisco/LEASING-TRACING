@@ -1,0 +1,48 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+79242,ACT-LT000011,The Lemon Co,Payment,Security Deposit Payable,PRJV-02-95,GL0013086,2019-02-15,,,,0,-75000.00
+79256,ACT-LT000005,Davids Salon,Payment,Security Deposit Payable,PRJV-02-110,GL0013090,2019-02-26,,,,0,-302400.00
+79230,ACT-LT000007,The Shawarma Shack,Payment,Security Deposit Payable,PRJV-03-108,GL0013084,2019-03-11,,,,0,-90000.00
+78651,ACT-LT000010,Nails Dot Glow,Payment,Security Deposit Payable,PRJV-131,GL0013000,2019-03-27,,,,0,-150000.00
+110431,ACT-LT000008,Estrella Bakery,Payment,Security Deposit Payable,PRJV-115,GL0018034,2019-04-15,,,,0,-128896.00
+110445,ACT-LT000062,Angels Wings Tours and Travel,Payment,Security Deposit Payable,PRJV-122,GL0018040,2019-06-03,,,,0,-75000.00
+79278,ACT-LT000016,Golden Locket Jewelry Shop,Payment,Security Deposit Payable,PRJV-06-149,GL0013095,2019-06-24,,,,0,-36000.00
+78619,ACT-LT000003,Thirsty,Payment,Security Deposit Payable,PRJV-153,GL0012990,2019-06-27,,,,0,-75000.00
+78630,ACT-LT000004,Turks Shawarma,Payment,Security Deposit Payable,PRJV-156,GL0012993,2019-06-28,,,,0,-75000.00
+78573,ACT-LT000002,Antepara Sunglasses,Payment,Security Deposit Payable,PRJV-07000588-B,GL0012981,2019-07-18,,,,0,-90000.00
+78569,ACT-LT000012,EO Executive Optical,Payment,Security Deposit Payable,PRJV-07000588-A,GL0012979,2019-07-18,,,,0,-331800.00
+76669,ACT-LT000017,Goldilocks,Payment,Security Deposit Payable,PR0000002,GL0012524,2019-07-25,,B-001,PNB,0,-66000.00
+78141,ACT-LT000028,Dimsum Break,Payment,Security Deposit Payable,PR0000005,GL0012870,2019-07-29,,B-001,PNB,0,-269100.00
+78393,ACT-LT000029,Mister Donut,Payment,Security Deposit Payable,PR0000006,GL0012945,2019-07-30,,B-001,PNB,0,-90000.00
+78688,ACT-LT000009,Sunburst Fried Chicken,Payment,Security Deposit Payable,PRJV-04-14,GL0013004,2019-07-31,,,,0,-281615.94
+78690,ACT-LT000009,Sunburst Fried Chicken,Payment,Security Deposit Payable,PR0000007,GL0013005,2019-07-31,,B-001,PNB,0,-578280.06
+78888,ACT-LT000015,Potato Corner,Payment,Security Deposit Payable,PR23551,GL0013046,2019-08-02,,B-001,PNB,0,-75000.00
+159063,ACT-LT000124,Smart Antenna-Rent,Payment,Security Deposit Payable,PRDS 120 -A,GL0025449,2019-08-02,,,,0,-75000.00
+78898,ACT-LT000034,DUNKIN DONUTS,Payment,Security Deposit Payable,PR23552,GL0013048,2019-08-02,,B-001,PNB,0,-232584.00
+80769,ACT-LT000019,Ahongs Ngohiong and Fried Chicken,Payment,Security Deposit Payable,PR23554,GL0013237,2019-08-15,,B-001,PNB,0,-60000.00
+80790,ACT-LT000021,Alvas Chicharon,Payment,Security Deposit Payable,PR23556,GL0013240,2019-08-16,,B-001,PNB,0,-40000.00
+85502,ACT-LT000001,"Ibex Global Solutions (Philippines), Inc.",Payment,Security Deposit Payable-Preop Clearing,UFT0001393,GL0014063,2019-08-23,,B-001,PNB,0,-6787681.44
+99524,ACT-LT000014,Jollibee,Payment,Security Deposit Payable,PRJV#09-665,GL0016258,2019-09-06,,,,0,-595845.00
+87447,ACT-LT000048,Hukad,Payment,Security Deposit Payable,PR23558,GL0014207,2019-09-18,,B-001,PNB,0,-83309.00
+194557,ACT-LT000049,Golden Locket Jewelry Shop New,Payment,Security Deposit Payable,PR23560,GL0031154,2019-09-19,,B-003,PNB,0,-39000.00
+87537,ACT-LT000046,Sticker Race Prints and Design,Payment,Security Deposit Payable,PR23559,GL0014213,2019-09-19,,B-001,PNB,0,-60000.00
+87697,ACT-LT000047,Miguelitos Avocado Locco,Payment,Security Deposit Payable,PR0000021,GL0014226,2019-09-20,,B-001,PNB,0,-21400.00
+87695,ACT-LT000047,Miguelitos Avocado Locco,Payment,Security Deposit Payable,PR23562,GL0014225,2019-09-20,,B-001,PNB,0,-38600.00
+93499,ACT-LT000013,The Prawn Farm,Payment,Security Deposit Payable,PRJV#10-119,GL0015244,2019-10-05,,,,0,-368250.00
+101428,ACT-LT000057,Body and Sole,Payment,Security Deposit Payable,PR23563,GL0016479,2019-11-26,,B-001,PNB,0,-175104.00
+106624,ACT-LT000065,Rulls Cellphone Accessories,Payment,Security Deposit Payable-Preop Clearing,UFT0001740,GL0017286,2019-12-09,,B-003,PNB,0,-21400.00
+106586,ACT-LT000065,Rulls Cellphone Accessories,Payment,Security Deposit Payable-Preop Clearing,UFT0001737,GL0017285,2019-12-09,,B-003,PNB,0,-38600.00
+132033,ACT-LT000027,BPI-Branch,Payment,Security Deposit Payable-Preop Clearing,UFT0002153,GL0021158,2019-12-23,,B-005,Banks of the Philippine Islands,0,-507906.00
+113848,ACT-LT000048,Hukad,Payment,Security Deposit Payable,PR0002033,GL0018325,2020-01-18,,B-003,PNB,0,-166618.00
+149165,ACT-LT000019,Ahongs Ngohiong and Fried Chicken,Payment,Security Deposit Payable,P0008748,GL0013237,2020-03-31,,,,17204.00,0
+141313,ACT-LT000164,MI Cellphone and Accessories Shop,Payment,Security Deposit Payable,PR23566,GL0022673,2020-07-29,,B-003,PNB,0,-60000.00
+148092,ACT-LT000122,Our Delibread,Payment,Security Deposit Payable,PR23567,GL0023777,2020-09-09,,B-003,PNB,0,-45000.00
+157143,ACT-LT000163,Musashi Takoyaki,Payment,Security Deposit Payable,PR23568,GL0025223,2020-11-09,,B-003,PNB,0,-15000.00
+157920,ACT-LT000167,PNB ATM 01,Payment,Security Deposit Payable,PR23570,GL0025330,2020-11-12,,B-003,PNB,0,-18000.00
+157934,ACT-LT000168,PNB ATM 02,Payment,Security Deposit Payable,PR23571,GL0025331,2020-11-12,,B-003,PNB,0,-18000.00
+158773,ACT-LT000163,Musashi Takoyaki,Payment,Security Deposit Payable,PR23572,GL0025402,2020-11-19,,B-003,PNB,0,-15000.00
+161872,ACT-LT000176,M and M Cell Depot,Payment,Security Deposit Payable,PR23573,GL0026010,2020-12-07,,B-003,PNB,0,-60000.00
+173524,ACT-LT000182,Vitabella Bubble Drink and Coffee Shop,Payment,Security Deposit Payable,PR23575,GL0027794,2021-02-23,,B-003,PNB,0,-60000.00
+182816,ACT-LT000187,Royal Aura,Payment,Security Deposit Payable,PR0002644,GL0029272,2021-04-14,,B-003,PNB,0,-12160.00
+187487,ACT-LT000187,Royal Aura,Payment,Security Deposit Payable,PR0002672,GL0030043,2021-05-10,,B-003,PNB,0,-23840.00
+191642,ACT-LT000190,Creame Tea,Payment,Security Deposit Payable,PR23576,GL0030778,2021-05-28,,B-003,PNB,0,-30000.00
+193044,ACT-LT000188,I Love Milktea,Payment,Security Deposit Payable,PR0002731,GL0030926,2021-06-12,,B-003,PNB,0,-45000.00

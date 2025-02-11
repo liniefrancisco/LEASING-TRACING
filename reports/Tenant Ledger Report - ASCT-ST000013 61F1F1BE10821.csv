@@ -1,0 +1,11 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+16106,ASCT-ST000013,Bohol Dairy,Invoice,Rent Receivables,ASCT-IC0002222,GL0002656,2021-08-31,2021-09-22,,,8560.00,0
+16110,ASCT-ST000013,Bohol Dairy,Invoice,A/R  Non Trade External,ASCT-IC0002223,GL0002657,2021-08-31,2021-09-22,,,514.05,0
+16115,ASCT-ST000013,Bohol Dairy,Payment,A/R  Non Trade External,PROR#030974,GL0002657,2021-09-22,,B-001,Land Bank of the Philippines,0,-514.05
+16113,ASCT-ST000013,Bohol Dairy,Payment,Rent Receivables,PROR#030974,GL0002656,2021-09-22,,B-001,Land Bank of the Philippines,0,-8560.00
+16116,ASCT-ST000013,Bohol Dairy,Invoice,Rent Receivables,ASCT-IC0002224,GL0002658,2021-09-30,2021-10-22,,,8560.00,0
+16120,ASCT-ST000013,Bohol Dairy,Invoice,A/R  Non Trade External,ASCT-IC0002225,GL0002659,2021-09-30,2021-10-22,,,1516.85,0
+16122,ASCT-ST000013,Bohol Dairy,Invoice,Rent Receivables,ASCT-IC0002226,GL0002660,2021-10-31,2021-11-22,,,8560.00,0
+16126,ASCT-ST000013,Bohol Dairy,Invoice,A/R  Non Trade External,ASCT-IC0002227,GL0002661,2021-10-31,2021-11-22,,,1635.30,0
+16131,ASCT-ST000013,Bohol Dairy,Payment,A/R  Non Trade External,PR31082,GL0002659,2021-11-23,,B-001,Land Bank of the Philippines,0,-1516.85
+16129,ASCT-ST000013,Bohol Dairy,Payment,Rent Receivables,PR31082,GL0002658,2021-11-23,,B-001,Land Bank of the Philippines,0,-8560.00

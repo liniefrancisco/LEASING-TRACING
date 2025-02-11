@@ -1,0 +1,597 @@
+ID,Tenant Code,Trade Name,Document Type,GL Account,Doc. No.,Ref. No.,Posting Date,Due Date,Bank Code,Bank Name,Debit,Credit
+141153,ICM-LT000109,IDEAL VISION,Payment,Rent Receivables-RR Clearing,PR040710,GL0021465,2020-07-01,,B-012,Banks of the Philippine Islands,32324.54,0
+141166,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Payment,Rent Receivables-RR Clearing,PR040711,GL0021702,2020-07-01,,B-012,Banks of the Philippine Islands,20715.20,0
+141400,ICM-LT000068,SST LAPTOP,Payment,Rent Receivables-RR Clearing,PR040724,GL0021494,2020-07-01,,B-012,Banks of the Philippine Islands,9289.94,0
+141401,ICM-LT000068,SST LAPTOP,Payment,Rent Receivables,PR040724,GL0021494,2020-07-01,,B-012,Banks of the Philippine Islands,0,-9289.94
+141397,ICM-LT000068,SST LAPTOP,Payment,Rent Receivables-RR Clearing,UFT0002286,GL0021494,2020-07-01,,B-012,Banks of the Philippine Islands,0,-9289.94
+137019,ICM-LT000036,CELL DEPOT,Payment,Rent Receivables,PR039830,GL0021565,2020-07-01,,B-007,Land Bank of the Philippines,0,-14712.50
+141167,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Payment,Rent Receivables,PR040711,GL0021702,2020-07-01,,B-012,Banks of the Philippine Islands,0,-20715.20
+141158,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Payment,Rent Receivables-RR Clearing,UFT0002281,GL0021702,2020-07-01,,B-012,Banks of the Philippine Islands,0,-20715.20
+141154,ICM-LT000109,IDEAL VISION,Payment,Rent Receivables,PR040710,GL0021465,2020-07-01,,B-012,Banks of the Philippine Islands,0,-32324.54
+141140,ICM-LT000109,IDEAL VISION,Payment,Rent Receivables-RR Clearing,UFT0002280,GL0021465,2020-07-01,,B-012,Banks of the Philippine Islands,0,-32324.54
+141404,ICM-LT000004,RAI RAI KEN,Payment,Rent Receivables-RR Clearing,PR040726,GL0020310,2020-07-02,,B-012,Banks of the Philippine Islands,68307.00,0
+144631,ICM-LT000054,FORTRESS,Payment,Rent Receivables-RR Clearing,PR040766,GL0021469,2020-07-02,,B-012,Banks of the Philippine Islands,28439.44,0
+148677,ICM-LT000154,MASTER SIOMAI - WS,Payment,Rent Receivables-RR Clearing,PR040782,GL0021599,2020-07-02,,B-012,Banks of the Philippine Islands,16050.00,0
+137269,ICM-LT000159,THE LEMON CO,Payment,Rent Receivables,PR039831,GL0021644,2020-07-02,,B-007,Land Bank of the Philippines,0,-11770.00
+148678,ICM-LT000154,MASTER SIOMAI - WS,Payment,Rent Receivables,PR040782,GL0021599,2020-07-02,,B-012,Banks of the Philippine Islands,0,-16050.00
+145209,ICM-LT000154,MASTER SIOMAI - WS,Payment,Rent Receivables-RR Clearing,UFT0002364,GL0021599,2020-07-02,,B-012,Banks of the Philippine Islands,0,-16050.00
+144632,ICM-LT000054,FORTRESS,Payment,Rent Receivables,PR040766,GL0021469,2020-07-02,,B-012,Banks of the Philippine Islands,0,-28439.44
+142222,ICM-LT000054,FORTRESS,Payment,Rent Receivables-RR Clearing,UFT0002307,GL0021469,2020-07-02,,B-012,Banks of the Philippine Islands,0,-28439.44
+141405,ICM-LT000004,RAI RAI KEN,Payment,Rent Receivables,PR040726,GL0020310,2020-07-02,,B-012,Banks of the Philippine Islands,0,-68307.00
+139436,ICM-LT000004,RAI RAI KEN,Payment,Rent Receivables-RR Clearing,UFT0002248,GL0020310,2020-07-02,,B-012,Banks of the Philippine Islands,0,-68307.00
+148597,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables-RR Clearing,PR040700,GL0015866,2020-07-03,,B-012,Banks of the Philippine Islands,25894.00,0
+148601,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables-RR Clearing,PR040700,GL0017035,2020-07-03,,B-012,Banks of the Philippine Islands,23852.84,0
+148593,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables-RR Clearing,PR040700,GL0014773,2020-07-03,,B-012,Banks of the Philippine Islands,3918.36,0
+148594,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables,PR040700,GL0014773,2020-07-03,,B-012,Banks of the Philippine Islands,0,-3918.36
+137899,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables-RR Clearing,UFT0002222,GL0014773,2020-07-03,,B-012,Banks of the Philippine Islands,0,-3918.36
+137607,ICM-LT000377,OUR DELIBREAD,Payment,Rent Receivables,PR039832,GL0021612,2020-07-03,,B-007,Land Bank of the Philippines,0,-10700.00
+137732,ICM-LT000158,ZAMIN FOREIGN EXCHANGE,Payment,Rent Receivables,PR039837,GL0021572,2020-07-03,,B-007,Land Bank of the Philippines,0,-10700.00
+137726,ICM-LT000070,BOHOL DENTAL CARE,Payment,Rent Receivables,PR039836,GL0020889,2020-07-03,,B-007,Land Bank of the Philippines,0,-11426.26
+137618,ICM-LT000090,BOHECO I AND II,Payment,Rent Receivables,PR039833,GL0021834,2020-07-03,,B-007,Land Bank of the Philippines,0,-18580.12
+137657,ICM-LT000451,CREPETEALOGY CAFE,Payment,Rent Receivables,PR039835,GL0021579,2020-07-03,,B-007,Land Bank of the Philippines,0,-18725.00
+148602,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables,PR040700,GL0017035,2020-07-03,,B-012,Banks of the Philippine Islands,0,-23852.84
+137907,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables-RR Clearing,UFT0002222,GL0017035,2020-07-03,,B-012,Banks of the Philippine Islands,0,-23852.84
+148598,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables,PR040700,GL0015866,2020-07-03,,B-012,Banks of the Philippine Islands,0,-25894.00
+137903,ICM-LT000034,DIGITALCOM SERVICES,Payment,Rent Receivables-RR Clearing,UFT0002222,GL0015866,2020-07-03,,B-012,Banks of the Philippine Islands,0,-25894.00
+137722,ICM-LT000070,BOHOL DENTAL CARE,Payment,Rent Receivables,PR039836,GL0019739,2020-07-03,,B-007,Land Bank of the Philippines,0,-36193.10
+137633,ICM-LT000090,BOHECO I AND II,Payment,Rent Receivables,PR039834,GL0021836,2020-07-03,,B-007,Land Bank of the Philippines,0,-37160.24
+158362,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables-RR Clearing,PR042619,GL0021067,2020-07-06,,B-012,Banks of the Philippine Islands,69721.09,0
+158358,ICM-LT000275,OXYGEN,Payment,Rent Receivables-RR Clearing,PR042618,GL0021087,2020-07-06,,B-012,Banks of the Philippine Islands,33818.67,0
+158354,ICM-LT000025,REGATTA,Payment,Rent Receivables-RR Clearing,PR042617,GL0021080,2020-07-06,,B-012,Banks of the Philippine Islands,29562.91,0
+158366,ICM-LT000007,FOR ME,Payment,Rent Receivables-RR Clearing,PR042620,GL0021089,2020-07-06,,B-012,Banks of the Philippine Islands,24895.95,0
+169557,ICM-LT000455,OPPO- NEW,Payment,Rent Receivables-RR Clearing,PR042849,GL0021537,2020-07-06,,B-007,Land Bank of the Philippines,18725.00,0
+169551,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables-RR Clearing,PR042848,GL0021188,2020-07-06,,B-007,Land Bank of the Philippines,16050.00,0
+141325,ICM-LT000051,HEALTH SHOP,Payment,Rent Receivables-RR Clearing,PR040722,GL0020691,2020-07-06,,B-012,Banks of the Philippine Islands,15709.40,0
+148721,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,PR040829,GL0020972,2020-07-06,,B-012,Banks of the Philippine Islands,7490.00,0
+148723,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,PR040829,GL0021640,2020-07-06,,B-012,Banks of the Philippine Islands,7490.00,0
+148725,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,PR040829,GL0021643,2020-07-06,,B-012,Banks of the Philippine Islands,7490.00,0
+137961,ICM-LT000137,TAKUYAKI,Payment,Rent Receivables,PR039840,GL0021636,2020-07-06,,B-007,Land Bank of the Philippines,0,-5350.00
+148722,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables,PR040829,GL0020972,2020-07-06,,B-012,Banks of the Philippine Islands,0,-7490.00
+146026,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,UFT0002373,GL0020972,2020-07-06,,B-012,Banks of the Philippine Islands,0,-7490.00
+148724,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables,PR040829,GL0021640,2020-07-06,,B-012,Banks of the Philippine Islands,0,-7490.00
+146028,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,UFT0002373,GL0021640,2020-07-06,,B-012,Banks of the Philippine Islands,0,-7490.00
+148726,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables,PR040829,GL0021643,2020-07-06,,B-012,Banks of the Philippine Islands,0,-7490.00
+146030,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,UFT0002373,GL0021643,2020-07-06,,B-012,Banks of the Philippine Islands,0,-7490.00
+141326,ICM-LT000051,HEALTH SHOP,Payment,Rent Receivables,PR040722,GL0020691,2020-07-06,,B-012,Banks of the Philippine Islands,0,-15709.40
+137975,ICM-LT000051,HEALTH SHOP,Payment,Rent Receivables-RR Clearing,UFT0002231,GL0020691,2020-07-06,,B-012,Banks of the Philippine Islands,0,-15709.40
+169552,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables,PR042848,GL0021188,2020-07-06,,B-007,Land Bank of the Philippines,0,-16050.00
+169550,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables-RR Clearing,UFT0002999,GL0021188,2020-07-06,,B-007,Land Bank of the Philippines,0,-16050.00
+169558,ICM-LT000455,OPPO- NEW,Payment,Rent Receivables,PR042849,GL0021537,2020-07-06,,B-007,Land Bank of the Philippines,0,-18725.00
+169554,ICM-LT000455,OPPO- NEW,Payment,Rent Receivables-RR Clearing,UFT0003000,GL0021537,2020-07-06,,B-007,Land Bank of the Philippines,0,-18725.00
+137957,ICM-LT000049,WRENLEYS MOTOR PLAZA,Payment,Rent Receivables,PR039839,GL0021483,2020-07-06,,B-007,Land Bank of the Philippines,0,-19451.25
+137949,ICM-LT000046,M LHUILLIER,Payment,Rent Receivables,PR039838,GL0021468,2020-07-06,,B-007,Land Bank of the Philippines,0,-21459.77
+158367,ICM-LT000007,FOR ME,Payment,Rent Receivables,PR042620,GL0021089,2020-07-06,,B-012,Banks of the Philippine Islands,0,-24895.95
+139059,ICM-LT000007,FOR ME,Payment,Rent Receivables-RR Clearing,UFT0002239,GL0021089,2020-07-06,,B-012,Banks of the Philippine Islands,0,-24895.95
+158355,ICM-LT000025,REGATTA,Payment,Rent Receivables,PR042617,GL0021080,2020-07-06,,B-012,Banks of the Philippine Islands,0,-29562.91
+139025,ICM-LT000025,REGATTA,Payment,Rent Receivables-RR Clearing,UFT0002237,GL0021080,2020-07-06,,B-012,Banks of the Philippine Islands,0,-29562.91
+158359,ICM-LT000275,OXYGEN,Payment,Rent Receivables,PR042618,GL0021087,2020-07-06,,B-012,Banks of the Philippine Islands,0,-33818.67
+139123,ICM-LT000275,OXYGEN,Payment,Rent Receivables-RR Clearing,UFT0002244,GL0021087,2020-07-06,,B-012,Banks of the Philippine Islands,0,-33818.67
+158363,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables,PR042619,GL0021067,2020-07-06,,B-012,Banks of the Philippine Islands,0,-69721.09
+139039,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables-RR Clearing,UFT0002238,GL0021067,2020-07-06,,B-012,Banks of the Philippine Islands,0,-69721.09
+158314,ICM-LT000148,GLOBE ANTENNA,Payment,Rent Receivables-RR Clearing,PR042609,GL0018159,2020-07-07,,B-012,Banks of the Philippine Islands,54984.09,0
+142103,ICM-LT000133,AFICIONADO,Payment,Rent Receivables-RR Clearing,PR040762,GL0021461,2020-07-07,,B-012,Banks of the Philippine Islands,10700.00,0
+142099,ICM-LT000133,AFICIONADO,Payment,Rent Receivables-RR Clearing,PR040762,GL0020804,2020-07-07,,B-012,Banks of the Philippine Islands,8583.91,0
+142100,ICM-LT000133,AFICIONADO,Payment,Rent Receivables,PR040762,GL0020804,2020-07-07,,B-012,Banks of the Philippine Islands,0,-8583.91
+141998,ICM-LT000133,AFICIONADO,Payment,Rent Receivables-RR Clearing,UFT0002304,GL0020804,2020-07-07,,B-012,Banks of the Philippine Islands,0,-8583.91
+140779,ICM-LT000148,GLOBE ANTENNA,Payment,Rent Receivables-RR Clearing,UFT0002267,GL0017055,2020-07-07,,B-012,Banks of the Philippine Islands,0,-9924.25
+142104,ICM-LT000133,AFICIONADO,Payment,Rent Receivables,PR040762,GL0021461,2020-07-07,,B-012,Banks of the Philippine Islands,0,-10700.00
+142002,ICM-LT000133,AFICIONADO,Payment,Rent Receivables-RR Clearing,UFT0002304,GL0021461,2020-07-07,,B-012,Banks of the Philippine Islands,0,-10700.00
+138162,ICM-LT000121,USSC,Payment,Rent Receivables,PR039841,GL0021265,2020-07-07,,B-007,Land Bank of the Philippines,0,-21627.37
+140781,ICM-LT000148,GLOBE ANTENNA,Payment,Rent Receivables-RR Clearing,UFT0002267,GL0018159,2020-07-07,,B-012,Banks of the Philippine Islands,0,-45059.84
+158315,ICM-LT000148,GLOBE ANTENNA,Payment,Rent Receivables,PR042609,GL0018159,2020-07-07,,B-012,Banks of the Philippine Islands,0,-54984.09
+139429,ICM-LT000008,WATSONS,Payment,Rent Receivables-RR Clearing,PR040725,GL0021271,2020-07-08,,B-011,BPI Alturas Supermarket Corp,185091.79,0
+139419,ICM-LT000008,WATSONS,Payment,Rent Receivables-RR Clearing,PR040725,GL0020356,2020-07-08,,B-011,BPI Alturas Supermarket Corp,163336.65,0
+139425,ICM-LT000008,WATSONS,Payment,Rent Receivables-RR Clearing,PR040725,GL0021249,2020-07-08,,B-011,BPI Alturas Supermarket Corp,126647.70,0
+138241,ICM-ST000286,MAMI,Payment,Rent Receivables,PR039844,GL0021824,2020-07-08,,B-007,Land Bank of the Philippines,0,-2000.00
+138237,ICM-LT000106,VANILLA ICE PEARL,Payment,Rent Receivables,PR039843,GL0021634,2020-07-08,,B-007,Land Bank of the Philippines,0,-10700.00
+138229,ICM-LT000043,PET CENTRAL ANIMAL CLINIC AND PET SHOP,Payment,Rent Receivables,PR039842,GL0021288,2020-07-08,,B-007,Land Bank of the Philippines,0,-15721.59
+147394,ICM-LT000478,MEMO,Payment,Rent Receivables-RR Clearing,UFT0002416,GL0020981,2020-07-08,,B-012,Banks of the Philippine Islands,0,-19683.72
+138233,ICM-LT000043,PET CENTRAL ANIMAL CLINIC AND PET SHOP,Payment,Rent Receivables,PR039842,GL0021428,2020-07-08,,B-007,Land Bank of the Philippines,0,-31443.16
+139426,ICM-LT000008,WATSONS,Payment,Rent Receivables,PR040725,GL0021249,2020-07-08,,B-011,BPI Alturas Supermarket Corp,0,-126647.70
+139406,ICM-LT000008,WATSONS,Payment,Rent Receivables-RR Clearing,UFT0002246,GL0021249,2020-07-08,,B-011,BPI Alturas Supermarket Corp,0,-126647.70
+139420,ICM-LT000008,WATSONS,Payment,Rent Receivables,PR040725,GL0020356,2020-07-08,,B-011,BPI Alturas Supermarket Corp,0,-163336.65
+139402,ICM-LT000008,WATSONS,Payment,Rent Receivables-RR Clearing,UFT0002246,GL0020356,2020-07-08,,B-011,BPI Alturas Supermarket Corp,0,-163336.65
+139430,ICM-LT000008,WATSONS,Payment,Rent Receivables,PR040725,GL0021271,2020-07-08,,B-011,BPI Alturas Supermarket Corp,0,-185091.79
+139410,ICM-LT000008,WATSONS,Payment,Rent Receivables-RR Clearing,UFT0002246,GL0021271,2020-07-08,,B-011,BPI Alturas Supermarket Corp,0,-185091.79
+140894,ICM-LT000063,SAVE N EARN,Payment,Rent Receivables-RR Clearing,PR040701,GL0021520,2020-07-09,,B-007,Land Bank of the Philippines,44522.96,0
+158530,ICM-LT000022,CLN,Payment,Rent Receivables-RR Clearing,PR042668,GL0021711,2020-07-09,,B-012,Banks of the Philippine Islands,26285.00,0
+140947,ICM-LT000162,CIGNAL TV INC,Payment,Rent Receivables-RR Clearing,PR040705,GL0021439,2020-07-09,,B-007,Land Bank of the Philippines,17655.00,0
+140963,ICM-LT000093,HUAWEI,Payment,Rent Receivables-RR Clearing,PR040707,GL0021450,2020-07-09,,B-007,Land Bank of the Philippines,17655.00,0
+153875,ICM-LT000171,SMART ANTENNA - Rent,Payment,Rent Receivables-RR Clearing,PR042593,GL0024228,2020-07-09,,B-012,Banks of the Philippine Islands,16769.61,0
+140931,ICM-LT000356,VIVO,Payment,Rent Receivables-RR Clearing,PR040703,GL0021522,2020-07-09,,B-007,Land Bank of the Philippines,14712.50,0
+140911,ICM-LT000477,ROCKSPACE,Payment,Rent Receivables-RR Clearing,PR040702,GL0021526,2020-07-09,,B-007,Land Bank of the Philippines,13375.00,0
+140955,ICM-LT000047,MY PHONE,Payment,Rent Receivables-RR Clearing,PR040706,GL0021502,2020-07-09,,B-007,Land Bank of the Philippines,10700.00,0
+140939,ICM-LT000031,REAL ME,Payment,Rent Receivables-RR Clearing,PR040704,GL0021528,2020-07-09,,B-007,Land Bank of the Philippines,10700.00,0
+158494,ICM-LT000027,CLN - Storage,Payment,Rent Receivables-RR Clearing,PR042655,GL0021753,2020-07-09,,B-012,Banks of the Philippine Islands,5350.00,0
+138385,ICM-ST000126,KWEK KWEK,Payment,Rent Receivables,PR039846,GL0017747,2020-07-09,,B-007,Land Bank of the Philippines,0,-351.58
+138387,ICM-ST000126,KWEK KWEK,Payment,Rent Receivables,PR039846,GL0018906,2020-07-09,,B-007,Land Bank of the Philippines,0,-3000.00
+138389,ICM-ST000126,KWEK KWEK,Payment,Rent Receivables,PR039846,GL0019514,2020-07-09,,B-007,Land Bank of the Philippines,0,-3000.00
+158495,ICM-LT000027,CLN - Storage,Payment,Rent Receivables,PR042655,GL0021753,2020-07-09,,B-012,Banks of the Philippine Islands,0,-5350.00
+156485,ICM-LT000027,CLN - Storage,Payment,Rent Receivables-RR Clearing,UFT0002640,GL0021753,2020-07-09,,B-012,Banks of the Philippine Islands,0,-5350.00
+140956,ICM-LT000047,MY PHONE,Payment,Rent Receivables,PR040706,GL0021502,2020-07-09,,B-007,Land Bank of the Philippines,0,-10700.00
+140952,ICM-LT000047,MY PHONE,Payment,Rent Receivables-RR Clearing,UFT0002273,GL0021502,2020-07-09,,B-007,Land Bank of the Philippines,0,-10700.00
+140940,ICM-LT000031,REAL ME,Payment,Rent Receivables,PR040704,GL0021528,2020-07-09,,B-007,Land Bank of the Philippines,0,-10700.00
+140936,ICM-LT000031,REAL ME,Payment,Rent Receivables-RR Clearing,UFT0002271,GL0021528,2020-07-09,,B-007,Land Bank of the Philippines,0,-10700.00
+140912,ICM-LT000477,ROCKSPACE,Payment,Rent Receivables,PR040702,GL0021526,2020-07-09,,B-007,Land Bank of the Philippines,0,-13375.00
+140903,ICM-LT000477,ROCKSPACE,Payment,Rent Receivables-RR Clearing,UFT0002269,GL0021526,2020-07-09,,B-007,Land Bank of the Philippines,0,-13375.00
+140932,ICM-LT000356,VIVO,Payment,Rent Receivables,PR040703,GL0021522,2020-07-09,,B-007,Land Bank of the Philippines,0,-14712.50
+140916,ICM-LT000356,VIVO,Payment,Rent Receivables-RR Clearing,UFT0002270,GL0021522,2020-07-09,,B-007,Land Bank of the Philippines,0,-14712.50
+153876,ICM-LT000171,SMART ANTENNA - Rent,Payment,Rent Receivables,PR042593,GL0024228,2020-07-09,,B-012,Banks of the Philippine Islands,0,-16769.61
+152579,ICM-LT000171,SMART ANTENNA - Rent,Payment,Rent Receivables-RR Clearing,UFT0002534,GL0024228,2020-07-09,,B-012,Banks of the Philippine Islands,0,-16769.61
+140948,ICM-LT000162,CIGNAL TV INC,Payment,Rent Receivables,PR040705,GL0021439,2020-07-09,,B-007,Land Bank of the Philippines,0,-17655.00
+140944,ICM-LT000162,CIGNAL TV INC,Payment,Rent Receivables-RR Clearing,UFT0002272,GL0021439,2020-07-09,,B-007,Land Bank of the Philippines,0,-17655.00
+140964,ICM-LT000093,HUAWEI,Payment,Rent Receivables,PR040707,GL0021450,2020-07-09,,B-007,Land Bank of the Philippines,0,-17655.00
+140960,ICM-LT000093,HUAWEI,Payment,Rent Receivables-RR Clearing,UFT0002274,GL0021450,2020-07-09,,B-007,Land Bank of the Philippines,0,-17655.00
+158531,ICM-LT000022,CLN,Payment,Rent Receivables,PR042668,GL0021711,2020-07-09,,B-012,Banks of the Philippine Islands,0,-26285.00
+140895,ICM-LT000063,SAVE N EARN,Payment,Rent Receivables,PR040701,GL0021520,2020-07-09,,B-007,Land Bank of the Philippines,0,-44522.96
+140891,ICM-LT000063,SAVE N EARN,Payment,Rent Receivables-RR Clearing,UFT0002268,GL0021520,2020-07-09,,B-007,Land Bank of the Philippines,0,-44522.96
+141392,ICM-LT000075,UNISILVER TIME,Payment,Rent Receivables-RR Clearing,PR040723,GL0021451,2020-07-10,,B-012,Banks of the Philippine Islands,17802.12,0
+138434,ICM-LT000003,RAMIREZ CAKE AVENUE,Payment,Rent Receivables,PR039847,GL0021919,2020-07-10,,B-007,Land Bank of the Philippines,0,-75.02
+138544,ICM-LT000088,JEWELRICH,Payment,Rent Receivables,PR039855,GL0021867,2020-07-10,,B-007,Land Bank of the Philippines,0,-2857.41
+138516,ICM-LT000156,TECHNOCARE GADGETS REPAIR,Payment,Rent Receivables,PR039852,GL0022010,2020-07-10,,B-007,Land Bank of the Philippines,0,-10700.00
+138520,ICM-LT000158,ZAMIN FOREIGN EXCHANGE,Payment,Rent Receivables,PR039853,GL0021996,2020-07-10,,B-007,Land Bank of the Philippines,0,-10700.00
+138512,ICM-LT000499,XUNDD,Payment,Rent Receivables,PR039851,GL0022108,2020-07-10,,B-007,Land Bank of the Philippines,0,-13375.00
+138489,ICM-LT000020,CORE PACIFIC,Payment,Rent Receivables,PR039849,GL0021531,2020-07-10,,B-007,Land Bank of the Philippines,0,-16183.75
+138430,ICM-LT000003,RAMIREZ CAKE AVENUE,Payment,Rent Receivables,PR039847,GL0021584,2020-07-10,,B-007,Land Bank of the Philippines,0,-16990.18
+142781,ICM-LT000078,JOJIES PA-INITANG BOL-ANON,Payment,Rent Receivables,PR039848,GL0021620,2020-07-10,,B-007,Land Bank of the Philippines,0,-17655.00
+141393,ICM-LT000075,UNISILVER TIME,Payment,Rent Receivables,PR040723,GL0021451,2020-07-10,,B-012,Banks of the Philippine Islands,0,-17802.12
+141387,ICM-LT000075,UNISILVER TIME,Payment,Rent Receivables-RR Clearing,UFT0002285,GL0021451,2020-07-10,,B-012,Banks of the Philippine Islands,0,-17802.12
+139692,ICM-LT000022,CLN,Payment,Rent Receivables-RR Clearing,UFT0002249,GL0021711,2020-07-10,,B-012,Banks of the Philippine Islands,0,-26285.00
+138503,ICM-LT000033,DAVIDS SALON,Payment,Rent Receivables,PR039850,GL0021444,2020-07-10,,B-007,Land Bank of the Philippines,0,-36122.13
+143802,ICM-LT000021,SPORTS BASIC,Payment,Rent Receivables-RR Clearing,UFT0002342,GL0021709,2020-07-10,,B-012,Banks of the Philippine Islands,0,-53471.66
+141477,ICM-LT000089,SAMSUNG,Payment,Rent Receivables-RR Clearing,PR040732,GL0021454,2020-07-11,,B-007,Land Bank of the Philippines,40403.39,0
+141054,ICM-LT000089,SAMSUNG,Payment,Rent Receivables-RR Clearing,PR040709,GL0022201,2020-07-11,,B-007,Land Bank of the Philippines,40403.39,0
+140975,ICM-LT000455,OPPO- NEW,Payment,Rent Receivables-RR Clearing,PR040708,GL0022107,2020-07-11,,B-007,Land Bank of the Philippines,18725.00,0
+138548,ICM-LT000113,MOBILE WORKS,Payment,Rent Receivables,PR039856,GL0022063,2020-07-11,,B-007,Land Bank of the Philippines,0,-12976.42
+138560,ICM-LT000060,RJB GOLD AVENUE,Payment,Rent Receivables,PR039857,GL0022065,2020-07-11,,B-007,Land Bank of the Philippines,0,-16050.00
+140976,ICM-LT000455,OPPO- NEW,Payment,Rent Receivables,PR040708,GL0022107,2020-07-11,,B-007,Land Bank of the Philippines,0,-18725.00
+140968,ICM-LT000455,OPPO- NEW,Payment,Rent Receivables-RR Clearing,UFT0002275,GL0022107,2020-07-11,,B-007,Land Bank of the Philippines,0,-18725.00
+141478,ICM-LT000089,SAMSUNG,Payment,Rent Receivables,PR040732,GL0021454,2020-07-11,,B-007,Land Bank of the Philippines,0,-40403.39
+141474,ICM-LT000089,SAMSUNG,Payment,Rent Receivables-RR Clearing,UFT0002288,GL0021454,2020-07-11,,B-007,Land Bank of the Philippines,0,-40403.39
+141055,ICM-LT000089,SAMSUNG,Payment,Rent Receivables,PR040709,GL0022201,2020-07-11,,B-007,Land Bank of the Philippines,0,-40403.39
+141013,ICM-LT000089,SAMSUNG,Payment,Rent Receivables-RR Clearing,UFT0002277,GL0022201,2020-07-11,,B-007,Land Bank of the Philippines,0,-40403.39
+138598,ICM-LT000098,THE RIGHT FIT,Payment,Rent Receivables,PR039860,GL0021889,2020-07-12,,B-007,Land Bank of the Philippines,0,-16050.00
+138594,ICM-LT000009,GOLDILOCKS,Payment,Rent Receivables,PR039859,GL0021313,2020-07-12,,B-007,Land Bank of the Philippines,0,-17821.66
+138590,ICM-LT000009,GOLDILOCKS,Payment,Rent Receivables,PR039858,GL0021097,2020-07-12,,B-007,Land Bank of the Philippines,0,-61455.91
+141678,ICM-ST000053,ORO CHINA PAWNSHOP - EXHIBIT,Payment,Rent Receivables-RR Clearing,PR040744,GL0019324,2020-07-13,,B-012,Banks of the Philippine Islands,85600.00,0
+141574,ICM-LT000063,SAVE N EARN,Payment,Rent Receivables-RR Clearing,PR040737,GL0022061,2020-07-13,,B-007,Land Bank of the Philippines,44522.96,0
+141638,ICM-LT000162,CIGNAL TV INC,Payment,Rent Receivables-RR Clearing,PR040740,GL0022039,2020-07-13,,B-007,Land Bank of the Philippines,17655.00,0
+141646,ICM-LT000093,HUAWEI,Payment,Rent Receivables-RR Clearing,PR040741,GL0022071,2020-07-13,,B-007,Land Bank of the Philippines,17655.00,0
+150849,ICM-LT000356,VIVO,Payment,Rent Receivables-RR Clearing,PR040739,GL0022059,2020-07-13,,B-007,Land Bank of the Philippines,14712.50,0
+146780,ICM-LT000477,ROCKSPACE,Payment,Rent Receivables-RR Clearing,PR040738,GL0022013,2020-07-13,,B-007,Land Bank of the Philippines,13375.00,0
+141660,ICM-LT000047,MY PHONE,Payment,Rent Receivables-RR Clearing,PR040742,GL0022067,2020-07-13,,B-007,Land Bank of the Philippines,10700.00,0
+141668,ICM-LT000031,REAL ME,Payment,Rent Receivables-RR Clearing,PR040743,GL0021991,2020-07-13,,B-007,Land Bank of the Philippines,10700.00,0
+158021,ICM-LT000105,BPI ATM 01 - LAC,Payment,Rent Receivables-RR Clearing,PR042630,GL0023923,2020-07-13,,B-012,Banks of the Philippine Islands,3178.44,0
+158072,ICM-LT000105,BPI ATM 01 - LAC,Payment,Rent Receivables-RR Clearing,PR042631,GL0025349,2020-07-13,,B-012,Banks of the Philippine Islands,1320.00,0
+138738,ICM-ST000123,BUKO JUICE,Payment,Rent Receivables,PR039862,GL0018935,2020-07-13,,B-007,Land Bank of the Philippines,0,-499.52
+158073,ICM-LT000105,BPI ATM 01 - LAC,Payment,Rent Receivables,PR042631,GL0025349,2020-07-13,,B-012,Banks of the Philippine Islands,0,-1320.00
+158063,ICM-LT000105,BPI ATM 01 - LAC,Payment,Rent Receivables-RR Clearing,UFT0002705,GL0025349,2020-07-13,,B-012,Banks of the Philippine Islands,0,-1320.00
+138740,ICM-ST000123,BUKO JUICE,Payment,Rent Receivables,PR039862,GL0019750,2020-07-13,,B-007,Land Bank of the Philippines,0,-2000.48
+158022,ICM-LT000105,BPI ATM 01 - LAC,Payment,Rent Receivables,PR042630,GL0023923,2020-07-13,,B-012,Banks of the Philippine Islands,0,-3178.44
+158016,ICM-LT000105,BPI ATM 01 - LAC,Payment,Rent Receivables-RR Clearing,UFT0002702,GL0023923,2020-07-13,,B-012,Banks of the Philippine Islands,0,-3178.44
+138784,ICM-LT000217,JJJ KEY SERVICES,Payment,Rent Receivables,PR039866,GL0021948,2020-07-13,,B-007,Land Bank of the Philippines,0,-10700.00
+138756,ICM-ST000565,Jojies Pa-initang Bol-anon - Exhibit 2,Payment,Rent Receivables,PR039864,GL0021558,2020-07-13,,B-007,Land Bank of the Philippines,0,-10700.00
+141661,ICM-LT000047,MY PHONE,Payment,Rent Receivables,PR040742,GL0022067,2020-07-13,,B-007,Land Bank of the Philippines,0,-10700.00
+141657,ICM-LT000047,MY PHONE,Payment,Rent Receivables-RR Clearing,UFT0002295,GL0022067,2020-07-13,,B-007,Land Bank of the Philippines,0,-10700.00
+141669,ICM-LT000031,REAL ME,Payment,Rent Receivables,PR040743,GL0021991,2020-07-13,,B-007,Land Bank of the Philippines,0,-10700.00
+141665,ICM-LT000031,REAL ME,Payment,Rent Receivables-RR Clearing,UFT0002296,GL0021991,2020-07-13,,B-007,Land Bank of the Philippines,0,-10700.00
+138742,ICM-LT000229,STICKER RACE PRINTS AND DESIGNS,Payment,Rent Receivables,PR039863,GL0021988,2020-07-13,,B-007,Land Bank of the Philippines,0,-11770.00
+146781,ICM-LT000477,ROCKSPACE,Payment,Rent Receivables,PR040738,GL0022013,2020-07-13,,B-007,Land Bank of the Philippines,0,-13375.00
+146777,ICM-LT000477,ROCKSPACE,Payment,Rent Receivables-RR Clearing,UFT0002400,GL0022013,2020-07-13,,B-007,Land Bank of the Philippines,0,-13375.00
+138734,ICM-LT000030,WATCH CENTRAL,Payment,Rent Receivables,PR039861,GL0021897,2020-07-13,,B-007,Land Bank of the Philippines,0,-13602.17
+150850,ICM-LT000356,VIVO,Payment,Rent Receivables,PR040739,GL0022059,2020-07-13,,B-007,Land Bank of the Philippines,0,-14712.50
+141595,ICM-LT000356,VIVO,Payment,Rent Receivables-RR Clearing,UFT0002292,GL0022059,2020-07-13,,B-007,Land Bank of the Philippines,0,-14712.50
+141639,ICM-LT000162,CIGNAL TV INC,Payment,Rent Receivables,PR040740,GL0022039,2020-07-13,,B-007,Land Bank of the Philippines,0,-17655.00
+141627,ICM-LT000162,CIGNAL TV INC,Payment,Rent Receivables-RR Clearing,UFT0002293,GL0022039,2020-07-13,,B-007,Land Bank of the Philippines,0,-17655.00
+141647,ICM-LT000093,HUAWEI,Payment,Rent Receivables,PR040741,GL0022071,2020-07-13,,B-007,Land Bank of the Philippines,0,-17655.00
+141643,ICM-LT000093,HUAWEI,Payment,Rent Receivables-RR Clearing,UFT0002294,GL0022071,2020-07-13,,B-007,Land Bank of the Philippines,0,-17655.00
+138780,ICM-LT000121,USSC,Payment,Rent Receivables,PR039865,GL0021492,2020-07-13,,B-007,Land Bank of the Philippines,0,-34603.80
+141575,ICM-LT000063,SAVE N EARN,Payment,Rent Receivables,PR040737,GL0022061,2020-07-13,,B-007,Land Bank of the Philippines,0,-44522.96
+141546,ICM-LT000063,SAVE N EARN,Payment,Rent Receivables-RR Clearing,UFT0002290,GL0022061,2020-07-13,,B-007,Land Bank of the Philippines,0,-44522.96
+141679,ICM-ST000053,ORO CHINA PAWNSHOP - EXHIBIT,Payment,Rent Receivables,PR040744,GL0019324,2020-07-13,,B-012,Banks of the Philippine Islands,0,-85600.00
+141673,ICM-ST000053,ORO CHINA PAWNSHOP - EXHIBIT,Payment,Rent Receivables-RR Clearing,UFT0002297,GL0019324,2020-07-13,,B-012,Banks of the Philippine Islands,0,-85600.00
+149324,ICM-LT000146,BPI - BRANCH,Payment,Rent Receivables-RR Clearing,PR042512,GL0022281,2020-07-14,,B-012,Banks of the Philippine Islands,55682.71,0
+144615,ICM-LT000038,RC GOLDLINE,Payment,Rent Receivables-RR Clearing,PR040763,GL0021496,2020-07-14,,B-012,Banks of the Philippine Islands,34603.80,0
+144619,ICM-LT000038,RC GOLDLINE,Payment,Rent Receivables-RR Clearing,PR040763,GL0022024,2020-07-14,,B-012,Banks of the Philippine Islands,34603.80,0
+148681,ICM-LT000154,MASTER SIOMAI - WS,Payment,Rent Receivables-RR Clearing,PR040783,GL0021898,2020-07-14,,B-012,Banks of the Philippine Islands,16050.00,0
+144623,ICM-LT000068,SST LAPTOP,Payment,Rent Receivables-RR Clearing,PR040764,GL0022053,2020-07-14,,B-012,Banks of the Philippine Islands,9289.94,0
+144624,ICM-LT000068,SST LAPTOP,Payment,Rent Receivables,PR040764,GL0022053,2020-07-14,,B-012,Banks of the Philippine Islands,0,-9289.94
+142542,ICM-LT000068,SST LAPTOP,Payment,Rent Receivables-RR Clearing,UFT0002314,GL0022053,2020-07-14,,B-012,Banks of the Philippine Islands,0,-9289.94
+139043,ICM-LT000095,GARCIA PAWNSHOP,Payment,Rent Receivables,PR039869,GL0021879,2020-07-14,,B-007,Land Bank of the Philippines,0,-14747.70
+148682,ICM-LT000154,MASTER SIOMAI - WS,Payment,Rent Receivables,PR040783,GL0021898,2020-07-14,,B-012,Banks of the Philippine Islands,0,-16050.00
+145213,ICM-LT000154,MASTER SIOMAI - WS,Payment,Rent Receivables-RR Clearing,UFT0002365,GL0021898,2020-07-14,,B-012,Banks of the Philippine Islands,0,-16050.00
+138836,ICM-LT000046,M LHUILLIER,Payment,Rent Receivables,PR039867,GL0021938,2020-07-14,,B-007,Land Bank of the Philippines,0,-21459.77
+144616,ICM-LT000038,RC GOLDLINE,Payment,Rent Receivables,PR040763,GL0021496,2020-07-14,,B-012,Banks of the Philippine Islands,0,-34603.80
+142534,ICM-LT000038,RC GOLDLINE,Payment,Rent Receivables-RR Clearing,UFT0002313,GL0021496,2020-07-14,,B-012,Banks of the Philippine Islands,0,-34603.80
+144620,ICM-LT000038,RC GOLDLINE,Payment,Rent Receivables,PR040763,GL0022024,2020-07-14,,B-012,Banks of the Philippine Islands,0,-34603.80
+142538,ICM-LT000038,RC GOLDLINE,Payment,Rent Receivables-RR Clearing,UFT0002313,GL0022024,2020-07-14,,B-012,Banks of the Philippine Islands,0,-34603.80
+138914,ICM-LT000090,BOHECO I AND II,Payment,Rent Receivables,PR039868,GL0022133,2020-07-14,,B-007,Land Bank of the Philippines,0,-37160.24
+149325,ICM-LT000146,BPI - BRANCH,Payment,Rent Receivables,PR042512,GL0022281,2020-07-14,,B-012,Banks of the Philippine Islands,0,-55682.71
+141815,ICM-LT000146,BPI - BRANCH,Payment,Rent Receivables-RR Clearing,UFT0002303,GL0022281,2020-07-14,,B-012,Banks of the Philippine Islands,0,-55682.71
+144639,ICM-LT000074,THINKING TOOLS,Payment,Rent Receivables-RR Clearing,PR040768,GL0021551,2020-07-15,,B-012,Banks of the Philippine Islands,74641.60,0
+148513,ICM-LT000074,THINKING TOOLS,Payment,Rent Receivables-RR Clearing,PR040770,GL0021929,2020-07-15,,B-012,Banks of the Philippine Islands,74641.60,0
+148517,ICM-LT000226,THINK MOBILE,Payment,Rent Receivables-RR Clearing,PR040772,GL0021500,2020-07-15,,B-012,Banks of the Philippine Islands,41957.11,0
+148519,ICM-LT000226,THINK MOBILE,Payment,Rent Receivables-RR Clearing,PR040772,GL0022136,2020-07-15,,B-012,Banks of the Philippine Islands,41957.11,0
+144627,ICM-LT000276,SKIN STATION,Payment,Rent Receivables-RR Clearing,PR040765,GL0021549,2020-07-15,,B-012,Banks of the Philippine Islands,29558.00,0
+163759,ICM-LT000276,SKIN STATION,Payment,Rent Receivables-RR Clearing,PR042775,GL0022045,2020-07-15,,B-012,Banks of the Philippine Islands,29558.00,0
+148553,ICM-LT000160,THE SCENTS CO,Payment,Rent Receivables-RR Clearing,PR040777,GL0021883,2020-07-15,,B-012,Banks of the Philippine Islands,10700.00,0
+148554,ICM-LT000160,THE SCENTS CO,Payment,Rent Receivables,PR040777,GL0021883,2020-07-15,,B-012,Banks of the Philippine Islands,0,-10700.00
+142259,ICM-LT000160,THE SCENTS CO,Payment,Rent Receivables-RR Clearing,UFT0002311,GL0021883,2020-07-15,,B-012,Banks of the Philippine Islands,0,-10700.00
+139075,ICM-LT000176,POTATO GIANT,Payment,Rent Receivables,PR039870,GL0020757,2020-07-15,,B-007,Land Bank of the Philippines,0,-11770.00
+139079,ICM-LT000176,POTATO GIANT,Payment,Rent Receivables,PR039870,GL0021630,2020-07-15,,B-007,Land Bank of the Philippines,0,-11770.00
+139083,ICM-LT000176,POTATO GIANT,Payment,Rent Receivables,PR039870,GL0022035,2020-07-15,,B-007,Land Bank of the Philippines,0,-11770.00
+139139,ICM-LT000077,FCB ATM,Payment,Rent Receivables,PR039872,GL0021961,2020-07-15,,B-007,Land Bank of the Philippines,0,-12041.61
+139119,ICM-LT000049,WRENLEYS MOTOR PLAZA,Payment,Rent Receivables,PR039871,GL0021926,2020-07-15,,B-007,Land Bank of the Philippines,0,-19451.25
+144628,ICM-LT000276,SKIN STATION,Payment,Rent Receivables,PR040765,GL0021549,2020-07-15,,B-012,Banks of the Philippine Islands,0,-29558.00
+142546,ICM-LT000276,SKIN STATION,Payment,Rent Receivables-RR Clearing,UFT0002315,GL0021549,2020-07-15,,B-012,Banks of the Philippine Islands,0,-29558.00
+163760,ICM-LT000276,SKIN STATION,Payment,Rent Receivables,PR042775,GL0022045,2020-07-15,,B-012,Banks of the Philippine Islands,0,-29558.00
+146170,ICM-LT000276,SKIN STATION,Payment,Rent Receivables-RR Clearing,UFT0002385,GL0022045,2020-07-15,,B -012,Banks of the Philippine Islands,0,-29558.00
+148518,ICM-LT000226,THINK MOBILE,Payment,Rent Receivables,PR040772,GL0021500,2020-07-15,,B-012,Banks of the Philippine Islands,0,-41957.11
+142567,ICM-LT000226,THINK MOBILE,Payment,Rent Receivables-RR Clearing,UFT0002316,GL0021500,2020-07-15,,B-012,Banks of the Philippine Islands,0,-41957.11
+148520,ICM-LT000226,THINK MOBILE,Payment,Rent Receivables,PR040772,GL0022136,2020-07-15,,B-012,Banks of the Philippine Islands,0,-41957.11
+142569,ICM-LT000226,THINK MOBILE,Payment,Rent Receivables-RR Clearing,UFT0002316,GL0022136,2020-07-15,,B-012,Banks of the Philippine Islands,0,-41957.11
+144640,ICM-LT000074,THINKING TOOLS,Payment,Rent Receivables,PR040768,GL0021551,2020-07-15,,B-012,Banks of the Philippine Islands,0,-74641.60
+142575,ICM-LT000074,THINKING TOOLS,Payment,Rent Receivables-RR Clearing,UFT0002318,GL0021551,2020-07-15,,B-012,Banks of the Philippine Islands,0,-74641.60
+148514,ICM-LT000074,THINKING TOOLS,Payment,Rent Receivables,PR040770,GL0021929,2020-07-15,,B-012,Banks of the Philippine Islands,0,-74641.60
+142579,ICM-LT000074,THINKING TOOLS,Payment,Rent Receivables-RR Clearing,UFT0002320,GL0021929,2020-07-15,,B-012,Banks of the Philippine Islands,0,-74641.60
+149228,ICM-LT000028,J.CO DONUTS AND COFFEE,Payment,Rent Receivables-RR Clearing,PR040778,GL0021851,2020-07-16,,B-012,Banks of the Philippine Islands,34821.94,0
+148779,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables-RR Clearing,PR040844,GL0021697,2020-07-16,,B-012,Banks of the Philippine Islands,32949.40,0
+141693,ICM-LT000026,ORO CHINA,Payment,Rent Receivables-RR Clearing,PR040745,GL0021463,2020-07-16,,B-012,Banks of the Philippine Islands,22806.84,0
+141697,ICM-LT000026,ORO CHINA,Payment,Rent Receivables-RR Clearing,PR040745,GL0022268,2020-07-16,,B-012,Banks of the Philippine Islands,22806.84,0
+141541,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Payment,Rent Receivables-RR Clearing,PR040736,GL0021873,2020-07-16,,B-012,Banks of the Philippine Islands,20715.20,0
+144523,ICM-LT000057,UNISILVER,Payment,Rent Receivables-RR Clearing,PR040751,GL0021875,2020-07-16,,B-012,Banks of the Philippine Islands,18937.34,0
+148787,ICM-LT000478,MEMO,Payment,Rent Receivables-RR Clearing,PR040845,GL0022275,2020-07-16,,B-012,Banks of the Philippine Islands,3746.21,0
+148783,ICM-LT000478,MEMO,Payment,Rent Receivables-RR Clearing,PR040845,GL0021706,2020-07-16,,B-012,Banks of the Philippine Islands,3266.68,0
+148784,ICM-LT000478,MEMO,Payment,Rent Receivables,PR040845,GL0021706,2020-07-16,,B-012,Banks of the Philippine Islands,0,-3266.68
+147386,ICM-LT000478,MEMO,Payment,Rent Receivables-RR Clearing,UFT0002415,GL0021706,2020-07-16,,B-012,Banks of the Philippine Islands,0,-3266.68
+148788,ICM-LT000478,MEMO,Payment,Rent Receivables,PR040845,GL0022275,2020-07-16,,B-012,Banks of the Philippine Islands,0,-3746.21
+147390,ICM-LT000478,MEMO,Payment,Rent Receivables-RR Clearing,UFT0002415,GL0022275,2020-07-16,,B-012,Banks of the Philippine Islands,0,-3746.21
+139398,ICM-LT000377,OUR DELIBREAD,Payment,Rent Receivables,PR039874,GL0021895,2020-07-16,,B-007,Land Bank of the Philippines,0,-10700.00
+139388,ICM-LT000039,CELLPOINT,Payment,Rent Receivables,PR039876,GL0022032,2020-07-16,,B-007,Land Bank of the Philippines,0,-12358.50
+139392,ICM-LT000040,MOLE CELLPHONE SHOP,Payment,Rent Receivables,PR039875,GL0022069,2020-07-16,,B-007,Land Bank of the Philippines,0,-12358.50
+144524,ICM-LT000057,UNISILVER,Payment,Rent Receivables,PR040751,GL0021875,2020-07-16,,B-012,Banks of the Philippine Islands,0,-18937.34
+142236,ICM-LT000057,UNISILVER,Payment,Rent Receivables-RR Clearing,UFT0002309,GL0021875,2020-07-16,,B-012,Banks of the Philippine Islands,0,-18937.34
+141542,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Payment,Rent Receivables,PR040736,GL0021873,2020-07-16,,B-012,Banks of the Philippine Islands,0,-20715.20
+141442,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Payment,Rent Receivables-RR Clearing,UFT0002287,GL0021873,2020-07-16,,B-012,Banks of the Philippine Islands,0,-20715.20
+141694,ICM-LT000026,ORO CHINA,Payment,Rent Receivables,PR040745,GL0021463,2020-07-16,,B-012,Banks of the Philippine Islands,0,-22806.84
+141681,ICM-LT000026,ORO CHINA,Payment,Rent Receivables-RR Clearing,UFT0002298,GL0021463,2020-07-16,,B-012,Banks of the Philippine Islands,0,-22806.84
+141698,ICM-LT000026,ORO CHINA,Payment,Rent Receivables,PR040745,GL0022268,2020-07-16,,B-012,Banks of the Philippine Islands,0,-22806.84
+141685,ICM-LT000026,ORO CHINA,Payment,Rent Receivables-RR Clearing,UFT0002298,GL0022268,2020-07-16,,B-012,Banks of the Philippine Islands,0,-22806.84
+139265,ICM-LT000029,UCPB ATM,Payment,Rent Receivables,PR039873,GL0021998,2020-07-16,,B-007,Land Bank of the Philippines,0,-25500.00
+148780,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables,PR040844,GL0021697,2020-07-16,,B-012,Banks of the Philippine Islands,0,-32949.40
+147566,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables-RR Clearing,UFT0002422,GL0021697,2020-07-16,,B-012,Banks of the Philippine Islands,0,-32949.40
+149229,ICM-LT000028,J.CO DONUTS AND COFFEE,Payment,Rent Receivables,PR040778,GL0021851,2020-07-16,,B-012,Banks of the Philippine Islands,0,-34821.94
+143242,ICM-LT000028,J.CO DONUTS AND COFFEE,Payment,Rent Receivables-RR Clearing,UFT0002337,GL0021851,2020-07-16,,B-012,Banks of the Philippine Islands,0,-34821.94
+148711,ICM-LT000122,ABENSON,Payment,Rent Receivables-RR Clearing,PR040828-A,GL0021518,2020-07-17,,B-012,Banks of the Philippine Islands,146419.16,0
+148715,ICM-LT000122,ABENSON,Payment,Rent Receivables-RR Clearing,PR040828-A,GL0022278,2020-07-17,,B-012,Banks of the Philippine Islands,146419.16,0
+141794,ICM-LT000109,IDEAL VISION,Payment,Rent Receivables-RR Clearing,PR040750,GL0021912,2020-07-17,,B-012,Banks of the Philippine Islands,32324.54,0
+144635,ICM-LT000054,FORTRESS,Payment,Rent Receivables-RR Clearing,PR040767,GL0022217,2020-07-17,,B-012,Banks of the Philippine Islands,28439.44,0
+148537,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables-RR Clearing,PR040774,GL0022351,2020-07-17,,B-012,Banks of the Philippine Islands,16050.00,0
+148539,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables-RR Clearing,PR040774,GL0022353,2020-07-17,,B-012,Banks of the Philippine Islands,16050.00,0
+156930,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables-RR Clearing,PR042602,GL0021654,2020-07-17,,B-012,Banks of the Philippine Islands,10700.00,0
+156934,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables-RR Clearing,PR042603,GL0022287,2020-07-17,,B-012,Banks of the Philippine Islands,10700.00,0
+156928,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables-RR Clearing,PR042601,GL0024426,2020-07-17,,B-012,Banks of the Philippine Islands,10700.00,0
+148719,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,PR040828,GL0021957,2020-07-17,,B-012,Banks of the Philippine Islands,7490.00,0
+139574,ICM-ST000125,URSOS STREET FOOD,Payment,Rent Receivables,PR039877,GL0021783,2020-07-17,,B-007,Land Bank of the Philippines,0,-2000.00
+139578,ICM-ST000125,URSOS STREET FOOD,Payment,Rent Receivables,PR039877,GL0022098,2020-07-17,,B-007,Land Bank of the Philippines,0,-2000.00
+148720,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables,PR040828,GL0021957,2020-07-17,,B-012,Banks of the Philippine Islands,0,-7490.00
+146032,ICM-ST000004,ABENSON BILLBOARD,Payment,Rent Receivables-RR Clearing,UFT0002374,GL0021957,2020-07-17,,B-012,Banks of the Philippine Islands,0,-7490.00
+156931,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables,PR042602,GL0021654,2020-07-17,,B-012,Banks of the Philippine Islands,0,-10700.00
+155378,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables-RR Clearing,UFT0002622,GL0021654,2020-07-17,,B-012,Banks of the Philippine Islands,0,-10700.00
+156935,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables,PR042603,GL0022287,2020-07-17,,B-012,Banks of the Philippine Islands,0,-10700.00
+155388,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables-RR Clearing,UFT0002623,GL0022287,2020-07-17,,B-012,Banks of the Philippine Islands,0,-10700.00
+156929,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables,PR042601,GL0024426,2020-07-17,,B-012,Banks of the Philippine Islands,0,-10700.00
+155354,ICM-LT000143,J.CO DONUTS AND COFFEE - SR,Payment,Rent Receivables-RR Clearing,UFT0002621,GL0024426,2020-07-17,,B-012,Banks of the Philippine Islands,0,-10700.00
+139576,ICM-LT000036,CELL DEPOT,Payment,Rent Receivables,PR039878,GL0022105,2020-07-17,,B-007,Land Bank of the Philippines,0,-14712.50
+148538,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables,PR040774,GL0022351,2020-07-17,,B-012,Banks of the Philippine Islands,0,-16050.00
+148528,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables-RR Clearing,UFT0002439,GL0022351,2020-07-17,,B-007,Land Bank of the Philippines,0,-16050.00
+148540,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables,PR040774,GL0022353,2020-07-17,,B-012,Banks of the Philippine Islands,0,-16050.00
+148530,ICM-ST000008,SAVE N EARN SALES INC,Payment,Rent Receivables-RR Clearing,UFT0002439,GL0022353,2020-07-17,,B-007,Land Bank of the Philippines,0,-16050.00
+144636,ICM-LT000054,FORTRESS,Payment,Rent Receivables,PR040767,GL0022217,2020-07-17,,B-012,Banks of the Philippine Islands,0,-28439.44
+142226,ICM-LT000054,FORTRESS,Payment,Rent Receivables-RR Clearing,UFT0002308,GL0022217,2020-07-17,,B-012,Banks of the Philippine Islands,0,-28439.44
+141795,ICM-LT000109,IDEAL VISION,Payment,Rent Receivables,PR040750,GL0021912,2020-07-17,,B-012,Banks of the Philippine Islands,0,-32324.54
+141791,ICM-LT000109,IDEAL VISION,Payment,Rent Receivables-RR Clearing,UFT0002302,GL0021912,2020-07-17,,B-012,Banks of the Philippine Islands,0,-32324.54
+148712,ICM-LT000122,ABENSON,Payment,Rent Receivables,PR040828-A,GL0021518,2020-07-17,,B-012,Banks of the Philippine Islands,0,-146419.16
+147619,ICM-LT000122,ABENSON,Payment,Rent Receivables-RR Clearing,UFT0002427,GL0021518,2020-07-17,,B-012,Banks of the Philippine Islands,0,-146419.16
+148716,ICM-LT000122,ABENSON,Payment,Rent Receivables,PR040828-A,GL0022278,2020-07-17,,B-012,Banks of the Philippine Islands,0,-146419.16
+147623,ICM-LT000122,ABENSON,Payment,Rent Receivables-RR Clearing,UFT0002427,GL0022278,2020-07-17,,B-012,Banks of the Philippine Islands,0,-146419.16
+139586,ICM-LT000024,B.I.G. JEWELRY CREATION,Payment,Rent Receivables,PR039880,GL0022018,2020-07-18,,B-007,Land Bank of the Philippines,0,-17802.12
+139590,ICM-LT000057,UNISILVER,Payment,Rent Receivables,PR039879,GL0021585,2020-07-18,,B-007,Land Bank of the Philippines,0,-18937.34
+139642,ICM-LT000496,ORYSPA,Payment,Rent Receivables,PR039890,GL0022290,2020-07-20,,B-007,Land Bank of the Philippines,0,-1800.00
+139612,ICM-LT000352,PERPAX LAUNDRY AND DRY CLEANING - SR,Payment,Rent Receivables,PR039881,GL0020783,2020-07-20,,B-007,Land Bank of the Philippines,0,-2140.00
+139614,ICM-LT000127,PERPAX LAUNDRY AND DRY CLEANING,Payment,Rent Receivables,PR039882,GL0020591,2020-07-20,,B-007,Land Bank of the Philippines,0,-7904.39
+139608,ICM-LT000104,PEANUTWORLD,Payment,Rent Receivables,PR039883,GL0020589,2020-07-20,,B-007,Land Bank of the Philippines,0,-8033.02
+139646,ICM-LT000496,ORYSPA,Payment,Rent Receivables,PR039890,GL0022292,2020-07-20,,B-007,Land Bank of the Philippines,0,-10700.00
+139638,ICM-LT000112,THIRSTY - UG,Payment,Rent Receivables,PR039887,GL0021431,2020-07-20,,B-007,Land Bank of the Philippines,0,-15780.82
+139650,ICM-LT000078,JOJIES PA-INITANG BOL-ANON,Payment,Rent Receivables,PR039889,GL0021930,2020-07-20,,B-007,Land Bank of the Philippines,0,-17655.00
+139634,ICM-LT000082,THIRSTY - LG,Payment,Rent Receivables,PR039888,GL0021607,2020-07-20,,B-007,Land Bank of the Philippines,0,-17695.12
+139604,ICM-LT000042,BODY AND SOLE,Payment,Rent Receivables,PR039884,GL0020611,2020-07-20,,B-007,Land Bank of the Philippines,0,-18546.76
+139618,ICM-LT000091,YSTILO SALON,Payment,Rent Receivables,PR039885,GL0020805,2020-07-20,,B-007,Land Bank of the Philippines,0,-18736.61
+139622,ICM-LT000023,DUNKIN DONUTS,Payment,Rent Receivables,PR039886,GL0022261,2020-07-20,,B-007,Land Bank of the Philippines,0,-31056.47
+139666,ICM-LT000080,PAYAG,Payment,Rent Receivables,PR039891,GL0020390,2020-07-20,,B-007,Land Bank of the Philippines,0,-33200.00
+176336,ICM-LT000019,BENCH,Payment,Rent Receivables-RR Clearing,UFT0003145,GL0021076,2020-07-20,,B-012,Banks of the Philippine Islands,0,-35932.64
+139668,ICM-LT000080,PAYAG,Payment,Rent Receivables,PR039892,GL0020390,2020-07-20,,B-007,Land Bank of the Philippines,0,-50000.00
+148735,ICM-LT000055,PNB - BRANCH,Payment,Rent Receivables-RR Clearing,PR040835,GL0022294,2020-07-21,,B-018,PNB ICM BRANCH,78261.97,0
+144545,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables-RR Clearing,PR040754,GL0022331,2020-07-21,,B-012,Banks of the Philippine Islands,27520.49,0
+141713,ICM-LT000076,SANDUGO SANDALS,Payment,Rent Receivables-RR Clearing,PR040746,GL0021455,2020-07-21,,B-012,Banks of the Philippine Islands,14212.27,0
+141717,ICM-LT000076,SANDUGO SANDALS,Payment,Rent Receivables-RR Clearing,PR040746,GL0022215,2020-07-21,,B-012,Banks of the Philippine Islands,14212.27,0
+164054,ICM-LT000218,LANDBANK ATM 1,Payment,Rent Receivables-RR Clearing,PR042725,GL0021967,2020-07-21,,B-007,Land Bank of the Philippines,10710.00,0
+164046,ICM-LT000219,LANDBANK ATM 2,Payment,Rent Receivables-RR Clearing,PR042724,GL0021965,2020-07-21,,B-007,Land Bank of the Philippines,10710.00,0
+144557,ICM-LT000275,OXYGEN,Payment,Rent Receivables-RR Clearing,PR040757,GL0022339,2020-07-21,,B-012,Banks of the Philippine Islands,9512.40,0
+144549,ICM-LT000007,FOR ME,Payment,Rent Receivables-RR Clearing,PR040755,GL0022337,2020-07-21,,B-012,Banks of the Philippine Islands,8139.69,0
+148753,ICM-LT000083,PNB ATM - LG,Payment,Rent Receivables-RR Clearing,PR040836,GL0021971,2020-07-21,,B-018,PNB ICM BRANCH,7864.50,0
+149062,ICM-LT000126,PNB ATM 2F,Payment,Rent Receivables-RR Clearing,PR040838,GL0021979,2020-07-21,,B-018,PNB ICM BRANCH,7864.50,0
+144553,ICM-LT000025,REGATTA,Payment,Rent Receivables-RR Clearing,PR040756,GL0022333,2020-07-21,,B-012,Banks of the Philippine Islands,7089.89,0
+148761,ICM-LT000255,PNB - ATM UG,Payment,Rent Receivables-RR Clearing,PR040837,GL0021969,2020-07-21,,B-018,PNB ICM BRANCH,6741.00,0
+139684,ICM-ST000286,MAMI,Payment,Rent Receivables,PR039894,GL0022079,2020-07-21,,B-007,Land Bank of the Philippines,0,-2000.00
+148762,ICM-LT000255,PNB - ATM UG,Payment,Rent Receivables,PR040837,GL0021969,2020-07-21,,B-018,PNB ICM BRANCH,0,-6741.00
+148758,ICM-LT000255,PNB - ATM UG,Payment,Rent Receivables-RR Clearing,UFT0002446,GL0021969,2020-07-21,,B-018,PNB ICM BRANCH,0,-6741.00
+144554,ICM-LT000025,REGATTA,Payment,Rent Receivables,PR040756,GL0022333,2020-07-21,,B-012,Banks of the Philippine Islands,0,-7089.89
+143798,ICM-LT000025,REGATTA,Payment,Rent Receivables-RR Clearing,UFT0002341,GL0022333,2020-07-21,,B-012,Banks of the Philippine Islands,0,-7089.89
+148754,ICM-LT000083,PNB ATM - LG,Payment,Rent Receivables,PR040836,GL0021971,2020-07-21,,B-018,PNB ICM BRANCH,0,-7864.50
+148742,ICM-LT000083,PNB ATM - LG,Payment,Rent Receivables-RR Clearing,UFT0002444,GL0021971,2020-07-21,,B-018,PNB ICM BRANCH,0,-7864.50
+149063,ICM-LT000126,PNB ATM 2F,Payment,Rent Receivables,PR040838,GL0021979,2020-07-21,,B-018,PNB ICM BRANCH,0,-7864.50
+149059,ICM-LT000126,PNB ATM 2F,Payment,Rent Receivables-RR Clearing,UFT0002451,GL0021979,2020-07-21,,B-018,PNB ICM BRANCH,0,-7864.50
+144550,ICM-LT000007,FOR ME,Payment,Rent Receivables,PR040755,GL0022337,2020-07-21,,B-012,Banks of the Philippine Islands,0,-8139.69
+143790,ICM-LT000007,FOR ME,Payment,Rent Receivables-RR Clearing,UFT0002339,GL0022337,2020-07-21,,B-012,Banks of the Philippine Islands,0,-8139.69
+144558,ICM-LT000275,OXYGEN,Payment,Rent Receivables,PR040757,GL0022339,2020-07-21,,B-012,Banks of the Philippine Islands,0,-9512.40
+143794,ICM-LT000275,OXYGEN,Payment,Rent Receivables-RR Clearing,UFT0002340,GL0022339,2020-07-21,,B-012,Banks of the Philippine Islands,0,-9512.40
+164055,ICM-LT000218,LANDBANK ATM 1,Payment,Rent Receivables,PR042725,GL0021967,2020-07-21,,B-007,Land Bank of the Philippines,0,-10710.00
+146085,ICM-LT000218,LANDBANK ATM 1,Payment,Rent Receivables-RR Clearing,UFT0002379,GL0021967,2020-07-21,,B-007,Land Bank of the Philippines,0,-10710.00
+164047,ICM-LT000219,LANDBANK ATM 2,Payment,Rent Receivables,PR042724,GL0021965,2020-07-21,,B-007,Land Bank of the Philippines,0,-10710.00
+146081,ICM-LT000219,LANDBANK ATM 2,Payment,Rent Receivables-RR Clearing,UFT0002378,GL0021965,2020-07-21,,B-007,Land Bank of the Philippines,0,-10710.00
+141714,ICM-LT000076,SANDUGO SANDALS,Payment,Rent Receivables,PR040746,GL0021455,2020-07-21,,B-012,Banks of the Philippine Islands,0,-14212.27
+141702,ICM-LT000076,SANDUGO SANDALS,Payment,Rent Receivables-RR Clearing,UFT0002299,GL0021455,2020-07-21,,B-012,Banks of the Philippine Islands,0,-14212.27
+141718,ICM-LT000076,SANDUGO SANDALS,Payment,Rent Receivables,PR040746,GL0022215,2020-07-21,,B-012,Banks of the Philippine Islands,0,-14212.27
+141706,ICM-LT000076,SANDUGO SANDALS,Payment,Rent Receivables-RR Clearing,UFT0002299,GL0022215,2020-07-21,,B-012,Banks of the Philippine Islands,0,-14212.27
+144546,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables,PR040754,GL0022331,2020-07-21,,B-012,Banks of the Philippine Islands,0,-27520.49
+143810,ICM-LT000010,PENSHOPPE,Payment,Rent Receivables-RR Clearing,UFT0002343,GL0022331,2020-07-21,,B-012,Banks of the Philippine Islands,0,-27520.49
+148736,ICM-LT000055,PNB - BRANCH,Payment,Rent Receivables,PR040835,GL0022294,2020-07-21,,B-018,PNB ICM BRANCH,0,-78261.97
+148730,ICM-LT000055,PNB - BRANCH,Payment,Rent Receivables-RR Clearing,UFT0002443,GL0022294,2020-07-21,,B-018,PNB ICM BRANCH,0,-78261.97
+158578,ICM-LT000092,PRIMARY HOMES,Payment,Rent Receivables-RR Clearing,PR042677,GL0021546,2020-07-22,,B-012,Banks of the Philippine Islands,31072.80,0
+158582,ICM-LT000092,PRIMARY HOMES,Payment,Rent Receivables-RR Clearing,PR042677,GL0022096,2020-07-22,,B-012,Banks of the Philippine Islands,31072.80,0
+141745,ICM-LT000497,ROMOSS,Payment,Rent Receivables-RR Clearing,PR040748,GL0021540,2020-07-22,,B-012,Banks of the Philippine Islands,16050.00,0
+189181,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Rent Receivables-RR Clearing,PR043128,GL0023517,2020-07-22,,B-012,Banks of the Philippine Islands,10729.88,0
+189182,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Rent Receivables,PR043128,GL0023517,2020-07-22,,B-012,Banks of the Philippine Islands,0,-10729.88
+147194,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Rent Receivables-RR Clearing,UFT0002410,GL0023517,2020-07-22,,B-012,Banks of the Philippine Islands,0,-10729.88
+141746,ICM-LT000497,ROMOSS,Payment,Rent Receivables,PR040748,GL0021540,2020-07-22,,B-012,Banks of the Philippine Islands,0,-16050.00
+141742,ICM-LT000497,ROMOSS,Payment,Rent Receivables-RR Clearing,UFT0002301,GL0021540,2020-07-22,,B-012,Banks of the Philippine Islands,0,-16050.00
+158579,ICM-LT000092,PRIMARY HOMES,Payment,Rent Receivables,PR042677,GL0021546,2020-07-22,,B-012,Banks of the Philippine Islands,0,-31072.80
+155528,ICM-LT000092,PRIMARY HOMES,Payment,Rent Receivables-RR Clearing,UFT0002633,GL0021546,2020-07-22,,B-012,Banks of the Philippine Islands,0,-31072.80
+158583,ICM-LT000092,PRIMARY HOMES,Payment,Rent Receivables,PR042677,GL0022096,2020-07-22,,B-012,Banks of the Philippine Islands,0,-31072.80
+155532,ICM-LT000092,PRIMARY HOMES,Payment,Rent Receivables-RR Clearing,UFT0002633,GL0022096,2020-07-22,,B-012,Banks of the Philippine Islands,0,-31072.80
+144535,ICM-LT000130,NATIONAL BOOKSTORE,Payment,Rent Receivables-RR Clearing,PR040752,GL0021701,2020-07-23,,B-012,Banks of the Philippine Islands,64877.37,0
+156424,ICM-ST000006,GREENWICH BILLBOARD,Invoice,Rent Receivables,IC0022159,GL0025110,2020-07-23,2020-07-31,,,10700.00,0
+144539,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables-RR Clearing,PR040753,GL0021658,2020-07-23,,B-012,Banks of the Philippine Islands,9293.29,0
+144541,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables-RR Clearing,PR040753,GL0021668,2020-07-23,,B-012,Banks of the Philippine Islands,9293.29,0
+144543,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables-RR Clearing,PR040753,GL0021924,2020-07-23,,B-012,Banks of the Philippine Islands,9293.29,0
+139873,ICM-LT000107,BUKO KING,Payment,Rent Receivables,PR039895,GL0022364,2020-07-23,,B-007,Land Bank of the Philippines,0,-4815.00
+139875,ICM-LT000107,BUKO KING,Payment,Rent Receivables,PR039895,GL0022365,2020-07-23,,B-007,Land Bank of the Philippines,0,-4815.00
+144540,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables,PR040753,GL0021658,2020-07-23,,B-012,Banks of the Philippine Islands,0,-9293.29
+142188,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables-RR Clearing,UFT0002306,GL0021658,2020-07-23,,B-012,Banks of the Philippine Islands,0,-9293.29
+144542,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables,PR040753,GL0021668,2020-07-23,,B-012,Banks of the Philippine Islands,0,-9293.29
+142190,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables-RR Clearing,UFT0002306,GL0021668,2020-07-23,,B-012,Banks of the Philippine Islands,0,-9293.29
+144544,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables,PR040753,GL0021924,2020-07-23,,B-012,Banks of the Philippine Islands,0,-9293.29
+142192,ICM-LT000144,NATIONAL BOOKSTORE - SR,Payment,Rent Receivables-RR Clearing,UFT0002306,GL0021924,2020-07-23,,B-012,Banks of the Philippine Islands,0,-9293.29
+139799,ICM-LT000159,THE LEMON CO,Payment,Rent Receivables,PR039893,GL0021992,2020-07-23,,B-007,Land Bank of the Philippines,0,-11770.00
+144536,ICM-LT000130,NATIONAL BOOKSTORE,Payment,Rent Receivables,PR040752,GL0021701,2020-07-23,,B-012,Banks of the Philippine Islands,0,-64877.37
+142174,ICM-LT000130,NATIONAL BOOKSTORE,Payment,Rent Receivables-RR Clearing,UFT0002305,GL0021701,2020-07-23,,B-012,Banks of the Philippine Islands,0,-64877.37
+189189,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Rent Receivables-RR Clearing,PR043129,GL0023528,2020-07-24,,B-012,Banks of the Philippine Islands,10729.88,0
+162623,ICM-LT000120,THE SUN SHOP,Payment,Rent Receivables-ARNTI,IP0000091,GL0022996,2020-07-24,,,,0,-5141.92
+139943,ICM-LT000221,REFRESHMENTS,Payment,Rent Receivables,PR039897,GL0022362,2020-07-24,,B-007,Land Bank of the Philippines,0,-6420.00
+139945,ICM-LT000221,REFRESHMENTS,Payment,Rent Receivables,PR039897,GL0022363,2020-07-24,,B-007,Land Bank of the Philippines,0,-6420.00
+139951,ICM-LT000382,ALVAS FOOD PROCESSING - CANTEEN,Payment,Rent Receivables,PR039899,GL0020416,2020-07-24,,B-007,Land Bank of the Philippines,0,-9500.00
+153808,ICM-LT000108,MEAL TIME EXPRESS,Payment,Rent Receivables,PRJV-07000371,GL0022370,2020-07-24,,,,0,-10700.00
+189190,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Rent Receivables,PR043129,GL0023528,2020-07-24,,B-012,Banks of the Philippine Islands,0,-10729.88
+147202,ICM-LT000059,ZAGU PEARL SHAKE,Payment,Rent Receivables-RR Clearing,UFT0002412,GL0023528,2020-07-24,,B-012,Banks of the Philippine Islands,0,-10729.88
+162601,ICM-LT000120,THE SUN SHOP,Payment,Rent Receivables-ARNTI,IP0000090,GL0022554,2020-07-24,,,,0,-20325.30
+153806,ICM-LT000108,MEAL TIME EXPRESS,Payment,Rent Receivables,PRJV-07000370,GL0021387,2020-07-24,,,,0,-21400.00
+139949,ICM-LT000033,DAVIDS SALON,Payment,Rent Receivables,PR039898,GL0022366,2020-07-24,,B-007,Land Bank of the Philippines,0,-21633.28
+162605,ICM-LT000120,THE SUN SHOP,Payment,Rent Receivables-ARNTI,IP0000090,GL0022996,2020-07-24,,,,0,-21787.84
+139894,ICM-LT000044,LBC,Payment,Rent Receivables,PR039896,GL0021320,2020-07-24,,B-007,Land Bank of the Philippines,0,-31490.65
+139898,ICM-LT000044,LBC,Payment,Rent Receivables,PR039896,GL0021756,2020-07-24,,B-007,Land Bank of the Philippines,0,-31490.65
+139896,ICM-LT000044,LBC,Payment,Rent Receivables,PR039896,GL0021478,2020-07-24,,B-007,Land Bank of the Philippines,0,-62981.31
+139955,ICM-ST000228,JOJIES PA-INITANG BOL-ANON - SHORTERM,Payment,Rent Receivables,PR039900,GL0022296,2020-07-25,,B-007,Land Bank of the Philippines,0,-26750.00
+139957,ICM-ST000228,JOJIES PA-INITANG BOL-ANON - SHORTERM,Payment,Rent Receivables,PR039900,GL0022301,2020-07-25,,B-007,Land Bank of the Philippines,0,-26750.00
+144605,ICM-LT000004,RAI RAI KEN,Payment,Rent Receivables-RR Clearing,PR040759,GL0021283,2020-07-27,,B-012,Banks of the Philippine Islands,26067.55,0
+140197,ICM-LT000020,CORE PACIFIC,Payment,Rent Receivables,PR039901,GL0021876,2020-07-27,,B-007,Land Bank of the Philippines,0,-16183.75
+144606,ICM-LT000004,RAI RAI KEN,Payment,Rent Receivables,PR040759,GL0021283,2020-07-27,,B-012,Banks of the Philippine Islands,0,-26067.55
+143996,ICM-LT000004,RAI RAI KEN,Payment,Rent Receivables-RR Clearing,UFT0002344,GL0021283,2020-07-27,,B-012,Banks of the Philippine Islands,0,-26067.55
+142647,ICM-ST000228,JOJIES PA-INITANG BOL-ANON - SHORTERM,Invoice,Rent Receivables,IC0017471,GL0022879,2020-07-28,2020-08-05,,,26750.00,0
+148795,ICM-LT000275,OXYGEN,Payment,Rent Receivables-RR Clearing,PR040847,GL0021695,2020-07-28,,B-012,Banks of the Philippine Islands,12477.56,0
+148799,ICM-LT000007,FOR ME,Payment,Rent Receivables-RR Clearing,PR040848,GL0021693,2020-07-28,,B-012,Banks of the Philippine Islands,9078.14,0
+147585,ICM-LT000025,REGATTA,Payment,Rent Receivables-RR Clearing,UFT0002424,GL0021699,2020-07-28,,B-012,Banks of the Philippine Islands,0,-8219.32
+148800,ICM-LT000007,FOR ME,Payment,Rent Receivables,PR040848,GL0021693,2020-07-28,,B-012,Banks of the Philippine Islands,0,-9078.14
+147402,ICM-LT000007,FOR ME,Payment,Rent Receivables-RR Clearing,UFT0002418,GL0021693,2020-07-28,,B-012,Banks of the Philippine Islands,0,-9078.14
+148796,ICM-LT000275,OXYGEN,Payment,Rent Receivables,PR040847,GL0021695,2020-07-28,,B-012,Banks of the Philippine Islands,0,-12477.56
+147434,ICM-LT000275,OXYGEN,Payment,Rent Receivables-RR Clearing,UFT0002419,GL0021695,2020-07-28,,B-012,Banks of the Philippine Islands,0,-12477.56
+149317,ICM-LT000016,GIBI,Payment,Rent Receivables-RR Clearing,UFT0002472,GL0022360,2020-07-29,,B-012,Banks of the Philippine Islands,0,-4994.17
+153977,ICM-LT000479,LEVIS,Payment,Rent Receivables-RR Clearing,PR042563,GL0020983,2020-07-30,,B-012,Banks of the Philippine Islands,18377.25,0
+153981,ICM-LT000479,LEVIS,Payment,Rent Receivables-RR Clearing,PR042563,GL0021489,2020-07-30,,B-012,Banks of the Philippine Islands,18377.25,0
+153987,ICM-LT000479,LEVIS,Payment,Rent Receivables-RR Clearing,PR042563,GL0023094,2020-07-30,,B-012,Banks of the Philippine Islands,11058.44,0
+142096,ICM-LT000116,ROASTED BY: JUST SIZZLIN,Payment,Rent Receivables-PDC,PR039903,GL0022369,2020-07-30,,B-007,Land Bank of the Philippines,0,-10700.00
+142098,ICM-LT000116,ROASTED BY: JUST SIZZLIN,Payment,Rent Receivables-PDC,PR039903,GL0022715,2020-07-30,,B-007,Land Bank of the Philippines,0,-10700.00
+153988,ICM-LT000479,LEVIS,Payment,Rent Receivables,PR042563,GL0023094,2020-07-30,,B-012,Banks of the Philippine Islands,0,-11058.44
+152630,ICM-LT000479,LEVIS,Payment,Rent Receivables-RR Clearing,UFT0002536,GL0023094,2020-07-30,,B-012,Banks of the Philippine Islands,0,-11058.44
+142051,ICM-LT000112,THIRSTY - UG,Payment,Rent Receivables,PR039904-A,GL0021905,2020-07-30,,B-007,Land Bank of the Philippines,0,-15780.82
+141631,ICM-LT000002,HOLA MEXI-ASIAN FUSION CAFE,Payment,Rent Receivables-PDC,PR039902,GL0022263,2020-07-30,,B-007,Land Bank of the Philippines,0,-16852.50
+142088,ICM-LT000082,THIRSTY - LG,Payment,Rent Receivables,PR039904-B,GL0021934,2020-07-30,,B-007,Land Bank of the Philippines,0,-17695.12
+153978,ICM-LT000479,LEVIS,Payment,Rent Receivables,PR042563,GL0020983,2020-07-30,,B-012,Banks of the Philippine Islands,0,-18377.25
+152620,ICM-LT000479,LEVIS,Payment,Rent Receivables-RR Clearing,UFT0002536,GL0020983,2020-07-30,,B-012,Banks of the Philippine Islands,0,-18377.25
+153982,ICM-LT000479,LEVIS,Payment,Rent Receivables,PR042563,GL0021489,2020-07-30,,B-012,Banks of the Philippine Islands,0,-18377.25
+152624,ICM-LT000479,LEVIS,Payment,Rent Receivables-RR Clearing,UFT0002536,GL0021489,2020-07-30,,B-012,Banks of the Philippine Islands,0,-18377.25
+142019,ICM-LT000041,ASC -TECH,Payment,Rent Receivables,PR039905,GL0021631,2020-07-30,,B-007,Land Bank of the Philippines,0,-30698.40
+142023,ICM-LT000041,ASC -TECH,Payment,Rent Receivables,PR039905,GL0022283,2020-07-30,,B-007,Land Bank of the Philippines,0,-30698.40
+143889,ICM-LT000015,JOLLIBEE,Invoice,Rent Receivables,IC0017612,GL0023051,2020-07-31,2020-08-15,,,211074.80,0
+143661,ICM-LT000008,WATSONS,Invoice,Rent Receivables,IC0017583,GL0023021,2020-07-31,2020-08-15,,,170606.16,0
+142522,ICM-LT000122,ABENSON,Invoice,Rent Receivables,IC0017457,GL0022865,2020-07-31,2020-08-10,,,146419.16,0
+151156,ICM-LT000614,JOLLIBEE WAREHOUSE,Invoice,Rent Receivables,IC0020238,GL0024246,2020-07-31,2020-08-15,,,96187.65,0
+144012,ICM-LT000017,MANG INASAL,Invoice,Rent Receivables,IC0017628,GL0023068,2020-07-31,2020-08-15,,,91272.39,0
+143278,ICM-LT000171,SMART ANTENNA - Rent,Invoice,Rent Receivables,IC0017539,GL0022948,2020-07-31,2020-08-10,,,90950.00,0
+143903,ICM-LT000012,GREENWICH,Invoice,Rent Receivables,IC0017614,GL0023053,2020-07-31,2020-08-15,,,83537.91,0
+143848,ICM-LT000014,CHOWKING,Invoice,Rent Receivables,IC0017606,GL0023045,2020-07-31,2020-08-15,,,80008.16,0
+144031,ICM-LT000056,THE BUZZ CAFE,Invoice,Rent Receivables,IC0017631,GL0023071,2020-07-31,2020-08-10,,,79526.36,0
+141634,ICM-LT000055,PNB - BRANCH,Invoice,Rent Receivables,IC0017317,GL0022717,2020-07-31,2020-08-10,,,78261.97,0
+142193,ICM-LT000074,THINKING TOOLS,Invoice,Rent Receivables,IC0017396,GL0022804,2020-07-31,2020-08-10,,,74641.60,0
+143569,ICM-LT000035,GLOBE TELECOM INC,Invoice,Rent Receivables,IC0017566,GL0023002,2020-07-31,2020-08-10,,,74129.34,0
+140782,ICM-LT000148,GLOBE ANTENNA,Invoice,Rent Receivables,IC0017199,GL0022595,2020-07-31,2020-08-10,,,69550.00,0
+141038,ICM-LT000044,LBC,Invoice,Rent Receivables,IC0017235,GL0022631,2020-07-31,2020-08-10,,,62981.31,0
+144325,ICM-LT000130,NATIONAL BOOKSTORE,Invoice,Rent Receivables,IC0017675,GL0023110,2020-07-31,2020-08-15,,,59825.24,0
+144170,ICM-LT000019,BENCH,Invoice,Rent Receivables,IC0017650,GL0023090,2020-07-31,2020-08-15,,,56599.17,0
+141755,ICM-LT000146,BPI - BRANCH,Invoice,Rent Receivables,IC0017323,GL0022724,2020-07-31,2020-08-10,,,55682.71,0
+146910,ICM-LT000120,THE SUN SHOP,Invoice,Rent Receivables,IC0018857,GL0023595,2020-07-31,2020-08-10,,,53859.52,0
+144180,ICM-LT000009,GOLDILOCKS,Invoice,Rent Receivables,IC0017652,GL0023092,2020-07-31,2020-08-15,,,53576.53,0
+143835,ICM-LT000006,KFC,Invoice,Rent Receivables,IC0017604,GL0023043,2020-07-31,2020-08-15,,,53450.40,0
+143760,ICM-LT000013,RED RIBBON,Invoice,Rent Receivables,IC0017594,GL0023033,2020-07-31,2020-08-15,,,49094.52,0
+143624,ICM-LT000021,SPORTS BASIC,Invoice,Rent Receivables,IC0017577,GL0023013,2020-07-31,2020-08-15,,,45035.35,0
+142203,ICM-LT000063,SAVE N EARN,Invoice,Rent Receivables,IC0017398,GL0022806,2020-07-31,2020-08-10,,,44522.96,0
+141970,ICM-LT000069,SALON DE ROSE,Invoice,Rent Receivables,IC0017371,GL0022776,2020-07-31,2020-08-10,,,42708.95,0
+142217,ICM-LT000226,THINK MOBILE,Invoice,Rent Receivables,IC0017401,GL0022809,2020-07-31,2020-08-10,,,41957.11,0
+141944,ICM-LT000071,JEMS BARBER SHOP,Invoice,Rent Receivables,IC0017364,GL0022769,2020-07-31,2020-08-10,,,41726.38,0
+142241,ICM-LT000089,SAMSUNG,Invoice,Rent Receivables,IC0017403,GL0022811,2020-07-31,2020-08-10,,,40403.39,0
+142262,ICM-LT000090,BOHECO I AND II,Invoice,Rent Receivables,IC0017405,GL0022813,2020-07-31,2020-08-10,,,37160.24,0
+143597,ICM-LT000010,PENSHOPPE,Invoice,Rent Receivables,IC0017572,GL0023008,2020-07-31,2020-08-15,,,35436.23,0
+143863,ICM-LT000128,HARBOUR CITY,Invoice,Rent Receivables,IC0017608,GL0023047,2020-07-31,2020-08-15,,,35179.74,0
+142299,ICM-LT000028,J.CO DONUTS AND COFFEE,Invoice,Rent Receivables,IC0017413,GL0022821,2020-07-31,2020-08-10,,,34821.94,0
+141586,ICM-LT000038,RC GOLDLINE,Invoice,Rent Receivables,IC0017310,GL0022710,2020-07-31,2020-08-10,,,34603.80,0
+142271,ICM-LT000121,USSC,Invoice,Rent Receivables,IC0017407,GL0022815,2020-07-31,2020-08-10,,,34603.80,0
+140501,ICM-LT000001,COLOURS DIGITAL FOTO,Invoice,Rent Receivables,IC0017155,GL0022552,2020-07-31,2020-08-10,,,33590.40,0
+141286,ICM-LT000109,IDEAL VISION,Invoice,Rent Receivables,IC0017273,GL0022669,2020-07-31,2020-08-10,,,32324.54,0
+141270,ICM-LT000043,PET CENTRAL ANIMAL CLINIC AND PET SHOP,Invoice,Rent Receivables,IC0017270,GL0022666,2020-07-31,2020-08-10,,,31443.16,0
+142074,ICM-LT000092,PRIMARY HOMES,Invoice,Rent Receivables,IC0017388,GL0022793,2020-07-31,2020-08-10,,,31072.80,0
+141034,ICM-LT000023,DUNKIN DONUTS,Invoice,Rent Receivables,IC0017234,GL0022630,2020-07-31,2020-08-10,,,31056.47,0
+140365,ICM-LT000041,ASC -TECH,Invoice,Rent Receivables,IC0017130,GL0022513,2020-07-31,2020-08-10,,,30698.40,0
+141553,ICM-LT000276,SKIN STATION,Invoice,Rent Receivables,IC0017305,GL0022705,2020-07-31,2020-08-10,,,29558.00,0
+143585,ICM-LT000011,GUESS,Invoice,Rent Receivables,IC0017569,GL0023005,2020-07-31,2020-08-15,,,29055.92,0
+143932,ICM-LT000118,SARILING HAIN,Invoice,Rent Receivables,IC0017616,GL0023055,2020-07-31,2020-08-15,,,28834.16,0
+141431,ICM-LT000054,FORTRESS,Invoice,Rent Receivables,IC0017290,GL0022690,2020-07-31,2020-08-10,,,28439.44,0
+141848,ICM-LT000029,UCPB ATM,Invoice,Rent Receivables,IC0017341,GL0022746,2020-07-31,2020-08-10,,,25500.00,0
+144200,ICM-LT000058,RUSTY LOPEZ,Invoice,Rent Receivables,IC0017656,GL0023096,2020-07-31,2020-08-10,,,23972.35,0
+140827,ICM-LT000026,ORO CHINA,Invoice,Rent Receivables,IC0017208,GL0022604,2020-07-31,2020-08-10,,,22806.84,0
+141759,ICM-LT000033,DAVIDS SALON,Invoice,Rent Receivables,IC0017324,GL0022725,2020-07-31,2020-08-10,,,21673.28,0
+141278,ICM-LT000046,M LHUILLIER,Invoice,Rent Receivables,IC0017272,GL0022668,2020-07-31,2020-08-10,,,21459.77,0
+141091,ICM-LT000227,GONG CHA,Invoice,Rent Receivables,IC0017239,GL0022635,2020-07-31,2020-08-10,,,21400.00,0
+141376,ICM-LT000485,LOLA LILIAS  HOME-MADE SPECIALTIES AND FLOWER SHOP,Invoice,Rent Receivables,IC0017286,GL0022684,2020-07-31,2020-08-10,,,21400.00,0
+140846,ICM-LT000053,YOUR EYEWEAR SPECIALISTS - YES,Invoice,Rent Receivables,IC0017212,GL0022608,2020-07-31,2020-08-10,,,20715.20,0
+140642,ICM-LT000049,WRENLEYS MOTOR PLAZA,Invoice,Rent Receivables,IC0017175,GL0022571,2020-07-31,2020-08-10,,,19451.25,0
+141709,ICM-LT000072,BANCO DE ORO ATM,Invoice,Rent Receivables,IC0017321,GL0022721,2020-07-31,2020-08-10,,,18955.70,0
+140859,ICM-LT000057,UNISILVER,Invoice,Rent Receivables,IC0017215,GL0022611,2020-07-31,2020-08-10,,,18937.34,0
+143877,ICM-LT000253,MAXS RESTAURANT,Invoice,Rent Receivables,IC0017610,GL0023049,2020-07-31,2020-08-15,,,18879.45,0
+140710,ICM-LT000451,CREPETEALOGY CAFE,Invoice,Rent Receivables,IC0017190,GL0022586,2020-07-31,2020-08-10,,,18725.00,0
+142177,ICM-LT000455,OPPO- NEW,Invoice,Rent Receivables,IC0017394,GL0022802,2020-07-31,2020-08-10,,,18725.00,0
+143173,ICM-LT000070,BOHOL DENTAL CARE,Invoice,Rent Receivables,IC0017525,GL0022934,2020-07-31,2020-08-10,,,18096.55,0
+141988,ICM-LT000024,B.I.G. JEWELRY CREATION,Invoice,Rent Receivables,IC0017376,GL0022781,2020-07-31,2020-08-10,,,17802.12,0
+141016,ICM-LT000075,UNISILVER TIME,Invoice,Rent Receivables,IC0017232,GL0022628,2020-07-31,2020-08-10,,,17802.12,0
+143209,ICM-LT000081,MAEXEL DELICACIES,Invoice,Rent Receivables,IC0017530,GL0022939,2020-07-31,2020-08-10,,,17695.12,0
+140375,ICM-LT000082,THIRSTY - LG,Invoice,Rent Receivables,IC0017132,GL0022515,2020-07-31,2020-08-10,,,17695.12,0
+141902,ICM-LT000162,CIGNAL TV INC,Invoice,Rent Receivables,IC0017355,GL0022760,2020-07-31,2020-08-10,,,17655.00,0
+141868,ICM-LT000093,HUAWEI,Invoice,Rent Receivables,IC0017346,GL0022751,2020-07-31,2020-08-10,,,17655.00,0
+141232,ICM-LT000078,JOJIES PA-INITANG BOL-ANON,Invoice,Rent Receivables,IC0017263,GL0022659,2020-07-31,2020-08-10,,,17655.00,0
+142688,ICM-LT000492,POTATO CORNER- LG,Invoice,Rent Receivables,IC0017475,GL0022883,2020-07-31,2020-08-10,,,17120.00,0
+140579,ICM-LT000003,RAMIREZ CAKE AVENUE,Invoice,Rent Receivables,IC0017163,GL0022559,2020-07-31,2020-08-10,,,16992.94,0
+143813,ICM-LT000004,RAI RAI KEN,Invoice,Rent Receivables,IC0017602,GL0023041,2020-07-31,2020-08-15,,,16898.75,0
+143643,ICM-LT000275,OXYGEN,Invoice,Rent Receivables,IC0017581,GL0023017,2020-07-31,2020-08-15,,,16860.53,0
+140548,ICM-LT000002,HOLA MEXI-ASIAN FUSION CAFE,Invoice,Rent Receivables,IC0017160,GL0022557,2020-07-31,2020-08-10,,,16852.50,0
+144120,ICM-LT000073,FRANKIES CAFE,Invoice,Rent Receivables,IC0017642,GL0023082,2020-07-31,2020-08-15,,,16572.15,0
+158001,ICM-LT000105,BPI ATM 01 - LAC,Invoice,Rent Receivables,IC0022606,GL0025342,2020-07-31,2020-08-10,,,16276.73,0
+140788,ICM-LT000020,CORE PACIFIC,Invoice,Rent Receivables,IC0017200,GL0022596,2020-07-31,2020-08-10,,,16183.75,0
+140482,ICM-LT000154,MASTER SIOMAI - WS,Invoice,Rent Receivables,IC0017151,GL0022548,2020-07-31,2020-08-10,,,16050.00,0
+141980,ICM-LT000060,RJB GOLD AVENUE,Invoice,Rent Receivables,IC0017373,GL0022778,2020-07-31,2020-08-10,,,16050.00,0
+141531,ICM-LT000497,ROMOSS,Invoice,Rent Receivables,IC0017302,GL0022702,2020-07-31,2020-08-10,,,16050.00,0
+140806,ICM-LT000098,THE RIGHT FIT,Invoice,Rent Receivables,IC0017204,GL0022600,2020-07-31,2020-08-10,,,16050.00,0
+141170,ICM-LT000112,THIRSTY - UG,Invoice,Rent Receivables,IC0017252,GL0022648,2020-07-31,2020-08-10,,,15780.82,0
+141832,ICM-LT000051,HEALTH SHOP,Invoice,Rent Receivables,IC0017337,GL0022742,2020-07-31,2020-08-10,,,15709.40,0
+141099,ICM-LT000086,FILA,Invoice,Rent Receivables,IC0017241,GL0022637,2020-07-31,2020-08-10,,,15655.42,0
+144276,ICM-LT000129,THE PRAWN FARM,Invoice,Rent Receivables,IC0017667,GL0023104,2020-07-31,2020-08-15,,,15175.88,0
+140831,ICM-LT000095,GARCIA PAWNSHOP,Invoice,Rent Receivables,IC0017209,GL0022605,2020-07-31,2020-08-10,,,14747.70,0
+141674,ICM-LT000036,CELL DEPOT,Invoice,Rent Receivables,IC0017319,GL0022719,2020-07-31,2020-08-10,,,14712.50,0
+142107,ICM-LT000356,VIVO,Invoice,Rent Receivables,IC0017390,GL0022795,2020-07-31,2020-08-10,,,14712.50,0
+141002,ICM-LT000076,SANDUGO SANDALS,Invoice,Rent Receivables,IC0017230,GL0022626,2020-07-31,2020-08-10,,,14212.27,0
+143965,ICM-LT000080,PAYAG,Invoice,Rent Receivables,IC0017621,GL0023060,2020-07-31,2020-08-15,,,14040.64,0
+140898,ICM-LT000030,WATCH CENTRAL,Invoice,Rent Receivables,IC0017220,GL0022616,2020-07-31,2020-08-10,,,13602.17,0
+142679,ICM-LT000442,POTATO CORNER- NEW,Invoice,Rent Receivables,IC0017473,GL0022881,2020-07-31,2020-08-10,,,13375.00,0
+142119,ICM-LT000477,ROCKSPACE,Invoice,Rent Receivables,IC0017392,GL0022797,2020-07-31,2020-08-10,,,13375.00,0
+141513,ICM-LT000499,XUNDD,Invoice,Rent Receivables,IC0017298,GL0022698,2020-07-31,2020-08-10,,,13375.00,0
+141360,ICM-LT000110,MENDREZ,Invoice,Rent Receivables,IC0017284,GL0022682,2020-07-31,2020-08-10,,,13292.08,0
+141864,ICM-LT000096,METROBANK ATM,Invoice,Rent Receivables,IC0017345,GL0022750,2020-07-31,2020-08-10,,,13196.05,0
+141896,ICM-LT000113,MOBILE WORKS,Invoice,Rent Receivables,IC0017353,GL0022758,2020-07-31,2020-08-10,,,12976.42,0
+141826,ICM-LT000034,DIGITALCOM SERVICES,Invoice,Rent Receivables,IC0017335,GL0022740,2020-07-31,2020-08-10,,,12947.00,0
+141335,ICM-LT000088,JEWELRICH,Invoice,Rent Receivables,IC0017280,GL0022678,2020-07-31,2020-08-10,,,12393.01,0
+142005,ICM-LT000039,CELLPOINT,Invoice,Rent Receivables,IC0017378,GL0022783,2020-07-31,2020-08-10,,,12358.50,0
+141852,ICM-LT000040,MOLE CELLPHONE SHOP,Invoice,Rent Receivables,IC0017342,GL0022747,2020-07-31,2020-08-10,,,12358.50,0
+141781,ICM-LT000077,FCB ATM,Invoice,Rent Receivables,IC0017329,GL0022730,2020-07-31,2020-08-10,,,12041.61,0
+140735,ICM-LT000099,BOHOL DAIRY COOPERATIVE,Invoice,Rent Receivables,IC0017193,GL0022589,2020-07-31,2020-08-10,,,11875.00,0
+149444,ICM-LT000084,BPI ATM 02 - LAC,Invoice,Rent Receivables,IC0019422,GL0023909,2020-07-31,2020-08-10,,,11770.00,0
+141522,ICM-LT000176,POTATO GIANT,Invoice,Rent Receivables,IC0017300,GL0022700,2020-07-31,2020-08-10,,,11770.00,0
+142065,ICM-LT000229,STICKER RACE PRINTS AND DESIGNS,Invoice,Rent Receivables,IC0017386,GL0022791,2020-07-31,2020-08-10,,,11770.00,0
+143419,ICM-LT000177,SUNNIES STUDIOS,Invoice,Rent Receivables,IC0017548,GL0022980,2020-07-31,2020-08-10,,,11770.00,0
+141321,ICM-LT000159,THE LEMON CO,Invoice,Rent Receivables,IC0017277,GL0022675,2020-07-31,2020-08-10,,,11770.00,0
+141612,ICM-LT000091,YSTILO SALON,Invoice,Rent Receivables,IC0017314,GL0022714,2020-07-31,2020-08-10,,,11242.18,0
+143077,ICM-LT000125,CAFE MAJSTEA,Invoice,Rent Receivables,IC0017516,GL0022925,2020-07-31,2020-08-10,,,11235.00,0
+142655,ICM-LT000042,BODY AND SOLE,Invoice,Rent Receivables,IC0017472,GL0022880,2020-07-31,2020-08-10,,,11128.06,0
+143750,ICM-LT000022,CLN,Invoice,Rent Receivables,IC0017592,GL0023031,2020-07-31,2020-08-15,,,10938.65,0
+147205,ICM-LT000059,ZAGU PEARL SHAKE,Invoice,Rent Receivables,IC0018973,GL0023648,2020-07-31,2020-08-10,,,10729.88,0
+141964,ICM-LT000218,LANDBANK ATM 1,Invoice,Rent Receivables,IC0017369,GL0022774,2020-07-31,2020-08-10,,,10710.00,0
+141952,ICM-LT000219,LANDBANK ATM 2,Invoice,Rent Receivables,IC0017366,GL0022771,2020-07-31,2020-08-10,,,10710.00,0
+141414,ICM-LT000133,AFICIONADO,Invoice,Rent Receivables,IC0017288,GL0022687,2020-07-31,2020-08-10,,,10700.00,0
+143961,ICM-LT000523,HOUSE OF TAHO,Invoice,Rent Receivables,IC0017620,GL0023059,2020-07-31,2020-08-10,,,10700.00,0
+140393,ICM-LT000217,JJJ KEY SERVICES,Invoice,Rent Receivables,IC0017136,GL0022519,2020-07-31,2020-08-10,,,10700.00,0
+142014,ICM-LT000067,MARCELA FARMS ROASTED CHICKEN,Invoice,Rent Receivables,IC0017380,GL0022785,2020-07-31,2020-08-10,,,10700.00,0
+141886,ICM-LT000047,MY PHONE,Invoice,Rent Receivables,IC0017351,GL0022756,2020-07-31,2020-08-10,,,10700.00,0
+143250,ICM-LT000496,ORYSPA,Invoice,Rent Receivables,IC0017534,GL0022943,2020-07-31,2020-08-10,,,10700.00,0
+140687,ICM-LT000377,OUR DELIBREAD,Invoice,Rent Receivables,IC0017185,GL0022581,2020-07-31,2020-08-10,,,10700.00,0
+141921,ICM-LT000031,REAL ME,Invoice,Rent Receivables,IC0017359,GL0022764,2020-07-31,2020-08-10,,,10700.00,0
+141616,ICM-LT000116,ROASTED BY: JUST SIZZLIN,Invoice,Rent Receivables,IC0017315,GL0022715,2020-07-31,2020-08-15,,,10700.00,0
+143160,ICM-LT000100,SPARKLES,Invoice,Rent Receivables,IC0017522,GL0022931,2020-07-31,2020-08-10,,,10700.00,0
+142056,ICM-LT000156,TECHNOCARE GADGETS REPAIR,Invoice,Rent Receivables,IC0017384,GL0022789,2020-07-31,2020-08-10,,,10700.00,0
+140979,ICM-LT000160,THE SCENTS CO,Invoice,Rent Receivables,IC0017226,GL0022622,2020-07-31,2020-08-10,,,10700.00,0
+143448,ICM-LT000393,TURKS SHAWARMA,Invoice,Rent Receivables,IC0017552,GL0022984,2020-07-31,2020-08-10,,,10700.00,0
+141549,ICM-LT000106,VANILLA ICE PEARL,Invoice,Rent Receivables,IC0017304,GL0022704,2020-07-31,2020-08-10,,,10700.00,0
+142033,ICM-LT000158,ZAMIN FOREIGN EXCHANGE,Invoice,Rent Receivables,IC0017382,GL0022787,2020-07-31,2020-08-10,,,10700.00,0
+143780,ICM-LT000062,RED RIBBON KIOSK,Invoice,Rent Receivables,IC0017598,GL0023037,2020-07-31,2020-08-15,,,10242.16,0
+144469,ICM-LT000050,ALVAS CHICHARON,Invoice,Rent Receivables,IC0017724,GL0023128,2020-07-31,2020-08-10,,,9897.70,0
+141948,ICM-LT000144,NATIONAL BOOKSTORE - SR,Invoice,Rent Receivables,IC0017365,GL0022770,2020-07-31,2020-08-10,,,9293.29,0
+141931,ICM-LT000068,SST LAPTOP,Invoice,Rent Receivables,IC0017361,GL0022766,2020-07-31,2020-08-10,,,9289.94,0
+144418,ICM-LT000101,ST. PATRICK ROASTED PORK,Invoice,Rent Receivables,IC0017698,GL0023118,2020-07-31,2020-08-10,,,8847.56,0
+143633,ICM-LT000025,REGATTA,Invoice,Rent Receivables,IC0017579,GL0023015,2020-07-31,2020-08-15,,,8708.30,0
+144196,ICM-LT000479,LEVIS,Invoice,Rent Receivables,IC0017655,GL0023095,2020-07-31,2020-08-10,,,8652.26,0
+141149,ICM-LT000135,JELLIES BY MENDREZ,Invoice,Rent Receivables,IC0017250,GL0022646,2020-07-31,2020-08-10,,,8426.25,0
+140418,ICM-LT000104,PEANUTWORLD,Invoice,Rent Receivables,IC0017141,GL0022524,2020-07-31,2020-08-10,,,8033.02,0
+143734,ICM-LT000007,FOR ME,Invoice,Rent Receivables,IC0017590,GL0023029,2020-07-31,2020-08-15,,,7925.53,0
+140609,ICM-LT000127,PERPAX LAUNDRY AND DRY CLEANING,Invoice,Rent Receivables,IC0017167,GL0022563,2020-07-31,2020-08-10,,,7904.39,0
+141822,ICM-LT000083,PNB ATM - LG,Invoice,Rent Receivables,IC0017334,GL0022739,2020-07-31,2020-08-10,,,7864.50,0
+141769,ICM-LT000126,PNB ATM 2F,Invoice,Rent Receivables,IC0017326,GL0022727,2020-07-31,2020-08-10,,,7864.50,0
+143700,ICM-LT000005,BOS COFFEE,Invoice,Rent Receivables,IC0017586,GL0023024,2020-07-31,2020-08-15,,,7542.35,0
+141802,ICM-ST000004,ABENSON BILLBOARD,Invoice,Rent Receivables,IC0017332,GL0022733,2020-07-31,2020-08-10,,,7490.00,0
+141880,ICM-LT000255,PNB - ATM UG,Invoice,Rent Receivables,IC0017349,GL0022754,2020-07-31,2020-08-10,,,6741.00,0
+143150,ICM-LT000221,REFRESHMENTS,Invoice,Rent Receivables,IC0017520,GL0022929,2020-07-31,2020-08-10,,,6420.00,0
+141906,ICM-LT000137,TAKUYAKI,Invoice,Rent Receivables,IC0017356,GL0022761,2020-07-31,2020-08-10,,,6179.25,0
+141940,ICM-LT000027,CLN - Storage,Invoice,Rent Receivables,IC0017363,GL0022768,2020-07-31,2020-08-10,,,5350.00,0
+140921,ICM-ST000402,Greenwich GTG,Invoice,Rent Receivables,IC0017223,GL0022619,2020-07-31,2020-08-10,,,5350.00,0
+144517,ICM-LT000016,GIBI,Invoice,Rent Receivables,IC0017734,GL0023132,2020-07-31,2020-08-15,,,5025.83,0
+141798,ICM-ST000005,RED RIBBON BILLBOARD,Invoice,Rent Receivables,IC0017331,GL0022732,2020-07-31,2020-08-10,,,5000.00,0
+141818,ICM-LT000107,BUKO KING,Invoice,Rent Receivables,IC0017333,GL0022738,2020-07-31,2020-08-10,,,4815.00,0
+148121,ICM-LT000382,ALVAS FOOD PROCESSING - CANTEEN,Invoice,Rent Receivables,IC0019270,GL0023784,2020-07-31,2020-08-10,,,4750.00,0
+143771,ICM-LT000111,KAMISETA,Invoice,Rent Receivables,IC0017596,GL0023035,2020-07-31,2020-08-15,,,4616.95,0
+143497,ICM-LT000478,MEMO,Invoice,Rent Receivables,IC0017554,GL0022990,2020-07-31,2020-08-15,,,3913.82,0
+143615,ICM-LT000018,X-QUISITE,Invoice,Rent Receivables,IC0017575,GL0023011,2020-07-31,2020-08-15,,,3183.89,0
+141499,ICM-LT000352,PERPAX LAUNDRY AND DRY CLEANING - SR,Invoice,Rent Receivables,IC0017295,GL0022695,2020-07-31,2020-08-10,,,2140.00,0
+141447,ICM-ST000123,BUKO JUICE,Invoice,Rent Receivables,IC0017293,GL0022693,2020-07-31,2020-08-10,,,2000.00,0
+141608,ICM-ST000126,KWEK KWEK,Invoice,Rent Receivables,IC0017313,GL0022713,2020-07-31,2020-08-10,,,2000.00,0
+141564,ICM-ST000286,MAMI,Invoice,Rent Receivables,IC0017308,GL0022708,2020-07-31,2020-08-10,,,2000.00,0
+141598,ICM-ST000124,TRISIKAD ISAWAN,Invoice,Rent Receivables,IC0017311,GL0022711,2020-07-31,2020-08-10,,,2000.00,0
+141509,ICM-ST000125,URSOS STREET FOOD,Invoice,Rent Receivables,IC0017297,GL0022697,2020-07-31,2020-08-10,,,2000.00,0
+149451,ICM-LT000084,BPI ATM 02 - LAC,Payment,Rent Receivables,B0010297,GL0023909,2020-07-31,,,,0,-3790.64
+166715,ICM-LT000111,KAMISETA,Payment,Rent Receivables,PRICM-JVBU-08556,GL0023035,2020-07-31,,,,0,-4616.95
+149449,ICM-LT000084,BPI ATM 02 - LAC,Payment,Rent Receivables,B0010297,GL0023909,2020-07-31,,,,0,-7979.36
+144305,ICM-LT000129,THE PRAWN FARM,Payment,Rent Receivables,B0009909,GL0021136,2020-07-31,,,,0,-8445.10
+144303,ICM-LT000129,THE PRAWN FARM,Payment,Rent Receivables,B0009909,GL0021136,2020-07-31,,,,0,-8445.10
+153964,ICM-LT000161,FRUITFULL,Payment,Rent Receivables,P0009054,GL0021264,2020-07-31,,,,0,-10700.00
+142140,ICM-LT000100,SPARKLES,Payment,Rent Receivables,PR039907,GL0022429,2020-07-31,,B-007,Land Bank of the Philippines,0,-10700.00
+158030,ICM-LT000105,BPI ATM 01 - LAC,Payment,Rent Receivables,B0010984,GL0025342,2020-07-31,,,,0,-10741.13
+141353,ICM-LT000088,JEWELRICH,Payment,Rent Receivables,B0009646,GL0022678,2020-07-31,,,,0,-12393.01
+146826,ICM-LT000451,CREPETEALOGY CAFE,Payment,Rent Receivables,P0008533,GL0021909,2020-07-31,,,,0,-15787.00
+143739,ICM-LT000035,GLOBE TELECOM INC,Payment,Rent Receivables,B0009852,GL0023002,2020-07-31,,,,0,-24933.83
+152930,ICM-LT000118,SARILING HAIN,Payment,Rent Receivables,PRICM-JVBU-08558,GL0023055,2020-07-31,,,,0,-28834.16
+166749,ICM-LT000011,GUESS,Payment,Rent Receivables,PRICM-JVBU-08557,GL0023005,2020-07-31,,,,0,-29055.92
+143741,ICM-LT000035,GLOBE TELECOM INC,Payment,Rent Receivables,B0009852,GL0023002,2020-07-31,,,,0,-49195.51

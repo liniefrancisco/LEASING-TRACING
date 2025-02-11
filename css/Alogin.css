@@ -1,0 +1,26 @@
+body{
+ 
+   background-color: #a6a6a6;
+   background: url(../img/tsms2.jpg) no-repeat center center fixed; 
+
+}
+
+
+.jumbotron{
+   margin: 30px;
+    background-color: #a6a6a6;
+}
+
+.form button:hover,.form button:active,.form button:focus {
+  background: #a6a6a6;
+
+}
+
+.form{
+	text-align: center;
+  	padding-left: 90px;
+  	padding: 15px;
+  	width: 100%;
+    padding-top: 450px;
+  	
+}
