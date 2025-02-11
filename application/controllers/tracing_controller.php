@@ -646,7 +646,7 @@ class Tracing_Controller extends CI_Controller {
                 AND
                     (g.tenant_id <> 'DELETED' AND g.ref_no <> 'DELETED' AND g.doc_no <> 'DELETED')
                 AND 
-                    g.tenant_id <> 'ICM-LT000064'ssd
+                    g.tenant_id <> 'ICM-LT000064'
 
                 GROUP BY
                     CASE 
